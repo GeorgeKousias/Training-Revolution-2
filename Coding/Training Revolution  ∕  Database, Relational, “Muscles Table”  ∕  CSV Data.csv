@@ -1,0 +1,236 @@
+﻿muscles_id,muscles_decoding,muscles_name,muscles_aliases,muscles_bodypart,muscles_section,muscles_group,temporary_complex
+1,,Occipitalis,,Head,,Occipitofrontalis,Forehead/Eyelid
+2,,Frontalis,,Head,,Occipitofrontalis,Forehead/Eyelid
+3,,Orbicularis Oculi,,Head,,,Forehead/Eyelid
+4,,Corrugator Supercilii,,Head,,,Forehead/Eyelid
+5,,Depressor Supercilii,,Head,,,Forehead/Eyelid
+6,,Levator Palpebrae Superioris,,Head,,,Extraocular
+7,,Superior Tarsal,,Head,,,Extraocular
+8,,Superior Rectus,,Head,,Rectus,Extraocular
+9,,Inferior Rectus,,Head,,Rectus,Extraocular
+10,,Medial Rectus,,Head,,Rectus,Extraocular
+11,,Lateral Rectus,,Head,,Rectus,Extraocular
+12,,Superior Oblique,,Head,,Oblique,Extraocular
+13,,Inferior Oblique,,Head,,Oblique,Extraocular
+14,,Temporoparietalis,,Head,Ear,,
+15,,Anterior Auricular,,Head,Ear,Auriculares,
+16,,Superior Auricular,,Head,Ear,Auriculares,
+17,,Posterior Auricular,,Head,Ear,Auriculares,
+18,,Stapedius,,Head,Ear,Inner Ear,
+19,,Tensor Tympani,,Head,Ear,Inner Ear,
+20,,Procerus,,Head,Nose,,
+21,,Depressor Septi Nasi,,Head,Nose,,
+22,,Levator Labii Superioris Alaeque Nasi,,Head,Nose,,
+23,,Compressor Naris (Transverse Part),,Head,Nose,Nasalis,
+24,,Dilator Naris (Alar Part),,Head,Nose,Nasalis,
+25,,Levator Anguli Oris,,Head,Mouth,,
+26,,Depressor Anguli Oris,,Head,Mouth,,
+27,,Levator Labii Superioris,,Head,Mouth,,
+28,,Depressor Labii Inferioris,,Head,Mouth,,
+29,,Mentalis,,Head,Mouth,,
+30,,Buccinator,,Head,Mouth,,
+31,,Orbicularis Oris,,Head,Mouth,,
+32,,Risorius,,Head,Mouth,,
+33,,Major Zygomaticus,,Head,Mouth,Zygomaticus,
+34,,Minor Zygomaticus,,Head,Mouth,Zygomaticus,
+35,,Masseter,,Head,,,Mastication
+36,,Temporalis,,Head,,,Mastication
+37,,Lateral Pterygoid,,Head,,Pterygoid,Mastication
+38,,Medial Pterygoid,,Head,,Pterygoid,Mastication
+39,,Genioglossus,,Head,,,"Tongue, Extrinsic"
+40,,Hyoglossus,,Head,,,"Tongue, Extrinsic"
+41,,Chondroglossus,,Head,,,"Tongue, Extrinsic"
+42,,Styloglossus,,Head,,,"Tongue, Extrinsic"
+43,,Palatoglossus,,Head,,,"Tongue, Extrinsic"
+44,,Superior Longitudinal Tongue,,Head,,,"Tongue, Intrinsic"
+45,,Transverse Tongue,,Head,,,"Tongue, Intrinsic"
+46,,Inferior Longitudinal Tongue,,Head,,,"Tongue, Intrinsic"
+47,,Vertical Tongue,,Head,,,"Tongue, Intrinsic"
+48,,Tensor Veli Palatini,,Head,,,Soft Palate
+49,,Levator Veli Palatini,,Head,,,Soft Palate
+50,,Palatoglossus,,Head,,,Soft Palate
+51,,Palatopharyngeus,,Head,,,Soft Palate
+52,,Palatine Uvula,,Head,,,Soft Palate
+53,,Stylopharyngeus,,Head,,,Pharynx
+54,,Salpingopharyngeus,,Head,,,Pharynx
+55,,Inferior Pharyngeal Constrictor,,Head,,Pharyngeal,Pharynx
+56,,Middle Pharyngeal Constrictor,,Head,,Pharyngeal,Pharynx
+57,,Superior Pharyngeal Constrictor,,Head,,Pharyngeal,Pharynx
+58,,Cricothyroid,,Head,,,Larynx
+59,,Arytenoid,,Head,,,Larynx
+60,,Thyroarytenoid,,Head,,,Larynx
+61,,Posterior Cricoarytenoid,,Head,,Cricoarytenoid,Larynx
+62,,Lateral Cricoarytenoid,,Head,,Cricoarytenoid,Larynx
+63,,Platysma,,Neck,,,Clavicular
+64,,Sternocleidomastoid,,Neck,,,Clavicular
+65,,Digastric,,Neck,,,Suprahyoid
+66,,Stylohyoid,,Neck,,,Suprahyoid
+67,,Mylohyoid,,Neck,,,Suprahyoid
+68,,Geniohyoid,,Neck,,,Suprahyoid
+69,,Sternohyoid,,Neck,,,Infrahyoid
+70,,Sternothyroid,,Neck,,,Infrahyoid
+71,,Thyrohyoid,,Neck,,,Infrahyoid
+72,,Omohyoid,,Neck,,,Infrahyoid
+73,,Longus Colli,,Neck,,,Anterior
+74,,Longus Capitis,,Neck,,,Anterior
+75,,Rectus Capitis Anterior,,Neck,,,Anterior
+76,,Rectus Capitis Lateralis,,Neck,,,Anterior
+77,,Anterior Scalene,,Neck,,Scalene,Lateral
+78,,Middle Scalene,,Neck,,Scalene,Lateral
+79,,Posterior Scalene,,Neck,,Scalene,Lateral
+80,,Levator Scapulae,,Neck,,,Lateral
+81,,Rectus Capitis Lateralis,,Neck,,,Lateral
+82,,Obliquus Capitis Superior,,Neck,,,Lateral
+83,,Obliquus Capitis Inferior,,Neck,,,Lateral
+84,,Rectus Capitis Posterior Minor,,Neck,,,Posterior
+85,,Rectus Capitis Posterior Major,,Neck,,,Posterior
+86,,Semispinalis,,Neck,,,Posterior
+87,,Longissimus,,Neck,,,Posterior
+88,,Splenius Capitis,,Neck,,,Posterior
+89,,Obliquus Capitis Superior,,Neck,,,Posterior
+90,,Obliquus Capitis Inferior,,Neck,,,Posterior
+91,,Rectus Abdominis,,Torso,Abdomen,,
+92,,Abdominal External Oblique,,Torso,Abdomen,,
+93,,Abdominal Internal Oblique,,Torso,Abdomen,,
+94,,Transverse Abdominal,,Torso,Abdomen,,
+95,,Pyramidalis,,Torso,Abdomen,,
+96,,Quadratus Lumborum,,Torso,Abdomen,,
+97,,Iliocostalis,,Torso,Back,Erector Spinae,
+98,,Longissimus,,Torso,Back,Erector Spinae,
+99,,Spinalis,,Torso,Back,Erector Spinae,
+100,,Latissimus Dorsi,,Torso,Back,,
+101,,Semispinalis Thoracis (Dorsi),,Torso,Back,Transversospinales,
+102,,Semispinalis Cervicis (Colli),,Torso,Back,Transversospinales,
+103,,Semispinalis Capitis (Complexus),,Torso,Back,Transversospinales,
+104,,Multifidus,,Torso,Back,Transversospinales,
+105,,Rotatores,,Torso,Back,Transversospinales,
+106,,Interspinales,,Torso,Back,,
+107,,Intertransversarii,,Torso,Back,,
+108,,Splenius Capitis,,Torso,Back,Splenius,
+109,,Splenius Cervicis,,Torso,Back,Splenius,
+110,,External Intercostal,,Torso,Chest,Intercostal,
+111,,Internal Intercostal,,Torso,Chest,Intercostal,
+112,,Innermost Intercostal,,Torso,Chest,Intercostal,
+113,,Subcostalis,,Torso,Chest,,
+114,,Transversus Thoracis,,Torso,Chest,,
+115,,Levatores Costarum,,Torso,Chest,,
+116,,Serratus Posterior Inferior,,Torso,Chest,Serratus,
+117,,Serratus Posterior Superior,,Torso,Chest,Serratus,
+118,,Thoracic Diaphragm,,Torso,Chest,,
+119,,Coccygeus,,Torso,Pelvis,,
+120,,Iliococcygeus,,Torso,Pelvis,Levator Ani,
+121,,Pubococcygeus,,Torso,Pelvis,Levator Ani,
+122,,Puborectalis,,Torso,Pelvis,Levator Ani,
+123,,External Anal Sphincter,,Torso,,Sphincter Ani,Perineum
+124,,Internal Anal Sphincter,,Torso,,Sphincter Ani,Perineum
+125,,Transverse Perineal,,Torso,,Superficial Perineal Pouch,Perineum
+126,,Bulbospongiosus,,Torso,,Superficial Perineal Pouch,Perineum
+127,,Ischiocavernosus,,Torso,,Superficial Perineal Pouch,Perineum
+128,,Transverse Perineal,,Torso,,Deep Perineal Pouch,Perineum
+129,,Urethral Sphincter,,Torso,,Deep Perineal Pouch,Perineum
+130,,Trapezius,,Upper Limbs,,,Vertebral Column
+131,,Latissimus Dorsi,,Upper Limbs,,,Vertebral Column
+132,,Rhomboid Major,,Upper Limbs,,Rhomboid,Vertebral Column
+133,,Rhomboid Minor,,Upper Limbs,,Rhomboid,Vertebral Column
+134,,Levator Scapulae,,Upper Limbs,,,Vertebral Column
+135,,Pectoralis Major,,Upper Limbs,,,Thoracic Walls
+136,,Pectoralis Minor,,Upper Limbs,,,Thoracic Walls
+137,,Subclavius,,Upper Limbs,,,Thoracic Walls
+138,,Serratus Anterior,,Upper Limbs,,,Thoracic Walls
+139,,Deltoid,,Upper Limbs,Shoulder,,
+140,,Teres Major,,Upper Limbs,Shoulder,,
+141,,Supraspinatus,,Upper Limbs,Shoulder,Rotator Cuff,
+142,,Infraspinatus,,Upper Limbs,Shoulder,Rotator Cuff,
+143,,Teres Minor,,Upper Limbs,Shoulder,Rotator Cuff,
+144,,Subscapularis,,Upper Limbs,Shoulder,Rotator Cuff,
+145,,Coracobrachialis,,Upper Limbs,,,"Arm, Anterior"
+146,,Biceps,,Upper Limbs,,,"Arm, Anterior"
+147,,Brachialis,,Upper Limbs,,,"Arm, Anterior"
+148,,Triceps,,Upper Limbs,,,"Arm, Posterior"
+149,,Anconeus,,Upper Limbs,,,"Arm, Posterior"
+150,,Pronator Teres,,Upper Limbs,,,"Forearm, Anterior, Superficial"
+151,,Flexor Carpi Radialis,,Upper Limbs,,,"Forearm, Anterior, Superficial"
+152,,Palmaris Longus,,Upper Limbs,,,"Forearm, Anterior, Superficial"
+153,,Flexor Carpi Ulnaris,,Upper Limbs,,,"Forearm, Anterior, Superficial"
+154,,Flexor Digitorum Superficialis,,Upper Limbs,,,"Forearm, Anterior, Superficial"
+155,,Pronator Quadratus,,Upper Limbs,,,"Forearm, Anterior, Deep"
+156,,Flexor Digitorum Profundus,,Upper Limbs,,,"Forearm, Anterior, Deep"
+157,,Flexor Pollicis Longus,,Upper Limbs,,,"Forearm, Anterior, Deep"
+158,,Extensor Digitorum,,Upper Limbs,,,"Forearm, Posterior, Superficial"
+159,,Extensor Digiti Minimi,,Upper Limbs,,,"Forearm, Posterior, Superficial"
+160,,Extensor Carpi Ulnaris,,Upper Limbs,,,"Forearm, Posterior, Superficial"
+161,,Brachioradialis,,Upper Limbs,,Mobile Wad,"Forearm, Posterior, Superficial"
+162,,Extensor Carpi Radialis Longus,,Upper Limbs,,Mobile Wad,"Forearm, Posterior, Superficial"
+163,,Extensor Carpi Radialis Brevis,,Upper Limbs,,Mobile Wad,"Forearm, Posterior, Superficial"
+164,,Supinator,,Upper Limbs,,,"Forearm, Posterior, Deep"
+165,,Extensor Indicis,,Upper Limbs,,,"Forearm, Posterior, Deep"
+166,,Abductor Pollicis Longus,,Upper Limbs,,Anatomical Snuff Box,"Forearm, Posterior, Deep"
+167,,Extensor Pollicis Brevis,,Upper Limbs,,Anatomical Snuff Box,"Forearm, Posterior, Deep"
+168,,Extensor Pollicis Longus,,Upper Limbs,,Anatomical Snuff Box,"Forearm, Posterior, Deep"
+169,,Opponens Pollicis,,Upper Limbs,Hand,,Lateral Volar
+170,,Flexor Pollicis Brevis,,Upper Limbs,Hand,,Lateral Volar
+171,,Abductor Pollicis Brevis,,Upper Limbs,Hand,,Lateral Volar
+172,,Adductor Pollicis,,Upper Limbs,Hand,,Lateral Volar
+173,,Palmaris Brevis,,Upper Limbs,Hand,,Medial Volar
+174,,Abductor Digiti Hand,,Upper Limbs,Hand,Hypothenar,Medial Volar
+175,,Flexor Digiti Minimi Brevis Hand,,Upper Limbs,Hand,Hypothenar,Medial Volar
+176,,Opponens Digiti Minimi Hand,,Upper Limbs,Hand,Hypothenar,Medial Volar
+177,,Lumbricals Hand,,Upper Limbs,Hand,,Intermediate
+178,,Dorsal Interossei Hand,,Upper Limbs,Hand,,Intermediate
+179,,Palmar Interossei,,Upper Limbs,Hand,,Intermediate
+180,,Psoas Major,,Lower Limbs,,Iliopsoas,Iliac Region
+181,,Psoas Minor,,Lower Limbs,,Iliopsoas,Iliac Region
+182,,Iliacus,,Lower Limbs,,Iliopsoas,Iliac Region
+183,,Tensor Fasciae Latae,,Lower Limbs,,,Gluteal
+184,,Gluteus Maximus,,Lower Limbs,,Gluteal,Gluteal
+185,,Gluteus Medius,,Lower Limbs,,Gluteal,Gluteal
+186,,Gluteus Minimus,,Lower Limbs,,Gluteal,Gluteal
+187,,Piriformis,,Lower Limbs,,Lateral Rotator,Gluteal
+188,,External Obturator,,Lower Limbs,,Lateral Rotator,Gluteal
+189,,Internal Obturator,,Lower Limbs,,Lateral Rotator,Gluteal
+190,,Gemellus Superior,,Lower Limbs,,Lateral Rotator,Gluteal
+191,,Gemellus Inferior,,Lower Limbs,,Lateral Rotator,Gluteal
+192,,Quadratus Femoris,,Lower Limbs,,Lateral Rotator,Gluteal
+193,,Articularis Genus,,Lower Limbs,,,"Thigh, Anterior"
+194,,Sartorius,,Lower Limbs,,,"Thigh, Anterior"
+195,,Rectus Femoris,,Lower Limbs,,Quadriceps,"Thigh, Anterior"
+196,,Vastus Lateralis,,Lower Limbs,,Quadriceps,"Thigh, Anterior"
+197,,Vastus Intermedius,,Lower Limbs,,Quadriceps,"Thigh, Anterior"
+198,,Vastus Medialis,,Lower Limbs,,Quadriceps,"Thigh, Anterior"
+199,,Biceps Femoris,,Lower Limbs,,Hamstring,"Thigh, Posterior"
+200,,Semitendinosus,,Lower Limbs,,Hamstring,"Thigh, Posterior"
+201,,Semimembranosus,,Lower Limbs,,Hamstring,"Thigh, Posterior"
+202,,Gracilis,,Lower Limbs,,Adductor Hip,"Thigh, Medial"
+203,,Pectineus,,Lower Limbs,,Adductor Hip,"Thigh, Medial"
+204,,Adductor Brevis,,Lower Limbs,,Adductor Hip,"Thigh, Medial"
+205,,Adductor Longus,,Lower Limbs,,Adductor Hip,"Thigh, Medial"
+206,,Adductor Magnus,,Lower Limbs,,Adductor Hip,"Thigh, Medial"
+207,,Tibialis Anterior,,Lower Limbs,,,"Leg, Anterior"
+208,,Extensor Hallucis Longus,,Lower Limbs,,,"Leg, Anterior"
+209,,Extensor Digitorum Longus,,Lower Limbs,,,"Leg, Anterior"
+210,,Fibularis,,Lower Limbs,,,"Leg, Anterior"
+211,,Gastrocnemius,,Lower Limbs,,Triceps Surae,"Leg, Posterior, Superficial"
+212,,Soleus,,Lower Limbs,,Triceps Surae,"Leg, Posterior, Superficial"
+213,,Plantaris,,Lower Limbs,,,"Leg, Posterior, Superficial"
+214,,Popliteus,,Lower Limbs,,,"Leg, Posterior, Deep"
+215,,Flexor Hallucis Longus,,Lower Limbs,,Tarsal Tunnel,"Leg, Posterior, Deep"
+216,,Flexor Digitorum Longus,,Lower Limbs,,Tarsal Tunnel,"Leg, Posterior, Deep"
+217,,Tibialis Posterior,,Lower Limbs,,Tarsal Tunnel,"Leg, Posterior, Deep"
+218,,Fibularis Longus,,Lower Limbs,,,"Leg, Lateral"
+219,,Fibularis Brevis,,Lower Limbs,,,"Leg, Lateral"
+220,,Extensor Digitorum Brevis,,Lower Limbs,,,"Foot, Dorsal"
+221,,Extensor Hallucis Brevis,,Lower Limbs,,,"Foot, Dorsal"
+222,,Dorsal Interossei Foot,,Lower Limbs,,,"Foot, Dorsal"
+223,,Abductor Hallucis,,Lower Limbs,,,"Foot, Plantar, First Layer"
+224,,Flexor Digitorum Brevis,,Lower Limbs,,,"Foot, Plantar, First Layer"
+225,,Abductor Digiti Minimi Foot,,Lower Limbs,,,"Foot, Plantar, First Layer"
+226,,Quadratus Plantae,,Lower Limbs,,,"Foot, Plantar, Second Layer"
+227,,Lumbricals Foot,,Lower Limbs,,,"Foot, Plantar, Second Layer"
+228,,Flexor Hallucis Brevis,,Lower Limbs,,,"Foot, Plantar, Third Layer"
+229,,Adductor Hallucis,,Lower Limbs,,,"Foot, Plantar, Third Layer"
+230,,Flexor Digiti Minimi Brevis Foot,,Lower Limbs,,,"Foot, Plantar, Third Layer"
+231,,Plantar Interossei,,Lower Limbs,,,"Foot, Plantar, Fourth Layer"
+232,,Dorsal Interossei Foot,,Lower Limbs,,,"Foot, Plantar, Fourth Layer"
+233,,“Template”  /  () ⦅⦆ ❪❫  /  ⟮⟯ ⟬⟭ ⦗⦘  /  ⟨⟩ ⟪⟫ ❰❱  /  {} ⦃⦄ ❴❵  /  ⌈⌉ ⌊⌋ []  /  ⸢⸣ ⸤⸥ ⸂⸃  /  ⧘⧙ ⧚⧛,,,,,
+234,,,,,,,
+235,,Biceps Brachii,,Upper Limbs,,,

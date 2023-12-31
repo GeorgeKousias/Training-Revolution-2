@@ -1,0 +1,371 @@
+﻿positions_id,positions_decoding,positions_name,positions_aliases,positions_category,positions_subcategory,positions_type,positions_variation,positions_direction,positions_configuration,positions_inclination
+305,"""Type"" (Variation) ⟮Direction⟯ [Configuration] ⟨Inclination⟩ ⧼Category⧽","""Template""",-,-,-,-,-,-,-,-
+82,Headstand (-) ⟮-⟯ [0 Hands] ⟨-⟩ ⧼Headstand⧽,0 Hands Headstand,No Hands Headstand,Balancing,,Headstand,-,-,0 Hands,-
+28,Crawling (-) ⟮-⟯ [1 Arm] ⟨-⟩ ⧼Crawling⧽,1 Arm Crawling,,Crawling,,Crawling,-,-,1 Arm,-
+226,Dog (-) ⟮Downward⟯ [1 Arm] ⟨-⟩ ⧼Bending⧽,1 Arm Downward Dog,,Bending,,Dog,Downward,-,1 Arm,-
+80,Handstand (-) ⟮-⟯ [1 Arm] ⟨-⟩ ⧼Handstand⧽,1 Arm Handstand,,Balancing,,Handstand,-,-,1 Arm,-
+219,Plank (High) ⟮-⟯ [1 Arm] ⟨-⟩ ⧼Crawling⧽,1 Arm High Plank,,Crawling,,Plank,High,-,1 Arm,-
+218,Plank (Low) ⟮-⟯ [1 Arm] ⟨-⟩ ⧼Crawling⧽,1 Arm Low Plank,,Crawling,,Plank,Low,-,1 Arm,-
+217,Plank (-) ⟮-⟯ [1 Arm] ⟨-⟩ ⧼Crawling⧽,1 Arm Plank,,Crawling,,Plank,-,-,1 Arm,-
+228,Leaning (-) ⟮Backward⟯ [1 Leg] ⟨-⟩ ⧼Leaning⧽,1 Leg Backward Leaning,,Leaning,,Leaning,-,Backward,1 Leg,-
+74,Bent (-) ⟮-⟯ [1 Leg] ⟨-⟩ ⧼Bending⧽,1 Leg Bent,,Bending,,Bent,-,-,1 Leg,-
+148,Bridge (-) ⟮-⟯ [1 Leg] ⟨-⟩ ⧼Inversion⧽,1 Leg Bridge,,Inversion,,Bridge,-,-,1 Leg,-
+102,Crawling (-) ⟮-⟯ [1 Leg] ⟨-⟩ ⧼Crawling⧽,1 Leg Crawling,,Crawling,,Crawling,-,-,1 Leg,-
+190,Dog (-) ⟮Downward⟯ [1 Leg] ⟨-⟩ ⧼Bending⧽,1 Leg Downward Dog,,Bending,,Dog,-,Downward,1 Leg,-
+3,Jumping (-) ⟮Forward⟯ [1 Leg] ⟨-⟩ ⧼Suspended⧽,1 Leg Forward Jumping,1 Leg Forward Jump,Suspended,,Jumping,-,Forward,1 Leg,-
+229,Leaning (-) ⟮Forward⟯ [1 Leg] ⟨-⟩ ⧼Leaning⧽,1 Leg Forward Leaning,,Leaning,,Leaning,-,Forward,1 Leg,-
+266,Squatting (Full) ⟮-⟯ [1 Leg] ⟨-⟩ ⧼Squatting⧽,1 Leg Full Squatting,,Squatting,,Squatting,Full,-,1 Leg,-
+221,Plank (High) ⟮-⟯ [1 Leg] ⟨-⟩ ⧼Crawling⧽,1 Leg High Plank,,Crawling,,Plank,High,-,1 Leg,-
+153,Leaning (-) ⟮Horizontal⟯ [1 Leg] ⟨-⟩ ⧼Leaning⧽,1 Leg Horizontal Leaning,,Leaning,,Leaning,-,Horizontal,1 Leg,-
+152,Thrust (-) ⟮Horizontal⟯ [1 Leg] ⟨-⟩ ⧼Leaning⧽,1 Leg Horizontal Lying,,Leaning,,Thrust,-,Horizontal,1 Leg,-
+369,Thrust (-) ⟮Horizontal⟯ [1 Leg] ⟨-⟩ ⧼Leaning⧽,1 Leg Horizontal Thrust,,Leaning,,Thrust,-,Horizontal,1 Leg,-
+199,"Plank (-) ⟮-⟯ [1 Leg, Kneeling] ⟨-⟩ ⧼Crawling⧽",1 Leg Kneeling Plank,,Crawling,,Plank,Knee,-,"1 Leg, Kneeling",-
+220,Plank (Low) ⟮-⟯ [1 Leg] ⟨-⟩ ⧼Crawling⧽,1 Leg Low Plank,,Crawling,,Plank,Low,-,1 Leg,-
+192,Squatting (Partial) ⟮-⟯ [1 Leg] ⟨-⟩ ⧼Squatting⧽,1 Leg Partial Squatting,,Squatting,,Squatting,Partial,-,1 Leg,-
+202,Plank (-) ⟮-⟯ [1 Leg] ⟨-⟩ ⧼Crawling⧽,1 Leg Plank,,Crawling,,Plank,-,-,1 Leg,-
+203,Table Top (-) ⟮Reverse⟯ [1 Leg] ⟨-⟩ ⧼Crawling⧽,1 Leg Reverse Table Top,,Crawling,,Table Top,-,Reverse,1 Leg,-
+66,Squatting (-) ⟮-⟯ [1 Leg] ⟨-⟩ ⧼Squatting⧽,1 Leg Squatting,,Squatting,,Squatting,-,-,1 Leg,-
+84,Standing (-) ⟮-⟯ [1 Leg] ⟨-⟩ ⧼Standing⧽,1 Leg Standing,,Standing,,Standing,-,-,1 Leg,-
+130,Jumping (-) ⟮Vertical⟯ [1 Leg] ⟨-⟩ ⧼Suspended⧽,1 Leg Vertical Jumping,1 Leg Vertical Jump,Suspended,,Jumping,-,Vertical,1 Leg,-
+177,Kneeling (Vertical) ⟮-⟯ [1 Leg] ⟨-⟩ ⧼Kneeling⧽,1 Leg Vertical Kneeling,,Kneeling,,Kneeling,-,-,1 Leg,-
+27,Crawling (-) ⟮-⟯ [2 Limbs] ⟨-⟩ ⧼Crawling⧽,2 Limbs Crawling,,Crawling,,Crawling,-,-,2 Limbs,-
+227,Table Top (-) ⟮-⟯ [2 Limbs] ⟨-⟩ ⧼Crawling⧽,2 Limbs Table Top,,Crawling,,Table Top,-,-,2 Limbs,-
+314,Accomplished (-) ⟮-⟯ [-] ⟨-⟩ ⧼Sitting⧽,Accomplished,"The Adept's Pose, Siddhasana, Siddha Yoni Asana, सिद्धासन",Sitting,Meditation,Accomplished,-,-,-,-
+92,Riding (Aerodynamic) ⟮-⟯ [-] ⟨-⟩ ⧼Straddling⧽,Aerodynamic Riding,,Straddling,,Riding,Aerodynamic,-,-,-
+91,Riding (Aggressive) ⟮-⟯ [-] ⟨-⟩ ⧼Straddling⧽,Aggressive Riding,,Straddling,,Riding,Aggressive,-,-,-
+95,Pose (Ananta's) ⟮Lateral⟯ [-] ⟨-⟩ ⧼Lying⧽,Ananta's Pose,"Vishnu's Couch Pose, Anantasana, अनन्तासन",Lying,Pose,Pose,Ananta's,Lateral,-,-
+175,Anatomical (-) ⟮-⟯ [-] ⟨-⟩ ⧼Standing⧽,Anatomical,,Standing,,Anatomical,-,-,-,-
+10,Handstand (Arch) ⟮-⟯ [-] ⟨-⟩ ⧼Handstand⧽,Arch Handstand,,Balancing,,Handstand,Arch,-,-,-
+47,Archer (-) ⟮-⟯ [-] ⟨-⟩ ⧼Sitting⧽,Archer,"Shooting Bow, Bow and Arrow, Akarna Dhanurasana, आकर्णधनुरासन",Sitting,Split,Archer,-,-,-,-
+87,Athletic (-) ⟮-⟯ [-] ⟨-⟩ ⧼Bending⧽,Athletic,,Bending,,Athletic,-,-,-,-
+115,Military (Attention) ⟮-⟯ [-] ⟨-⟩ ⧼Standing⧽,Attention Military,"Attention Soldier, At Attention, Attention",Standing,,Military,Attention,-,-,-
+319,Auspicious (-) ⟮-⟯ [-] ⟨-⟩ ⧼Sitting⧽,Auspicious,"Lucky Mark, Square, Svastikasana, स्वस्तिकसन",Sitting,Meditation,Auspicious,-,-,-,-
+328,Awkward (-) ⟮-⟯ [-] ⟨-⟩ ⧼Standing⧽,Awkward,"Powerful, Utkatasana, उत्कटासन",Standing,,Awkward,-,-,-,-
+169,Bent (-) ⟮Backward⟯ [-] ⟨-⟩ ⧼Bending⧽,Backward Bent,,Bending,,Bent,-,Backward,-,-
+191,Jumping (-) ⟮Backward⟯ [-] ⟨-⟩ ⧼Suspended⧽,Backward Jumping,,Suspended,,Jumping,-,Backward,-,-
+29,Leaning (-) ⟮Backward⟯ [-] ⟨-⟩ ⧼Leaning⧽,Backward Leaning,,Leaning,,Leaning,-,Backward,-,-
+248,Running (-) ⟮Backward⟯ [-] ⟨-⟩ ⧼Running⧽,Backward Running,,Running,,Running,-,Backward,-,-
+268,Kneeling (Sit) ⟮Backward⟯ [-] ⟨-⟩ ⧼Kneeling⧽,Backward Sit Kneeling,,Kneeling,,Kneeling,Sit,Backward,-,-
+249,Walking (-) ⟮Backward⟯ [-] ⟨-⟩ ⧼Walking⧽,Backward Walking,,Walking,,Walking,-,Backward,-,-
+348,Twist (Belly) ⟮Supine⟯ [-] ⟨-⟩ ⧼Lying⧽,Belly Twist,"Jathara Parivartanasana, ञटर परिवर्तनासन",Lying,,Twist,Belly,Supine,-,-
+76,Bent (-) ⟮-⟯ [-] ⟨-⟩ ⧼Bending⧽,Bent,Bent Over,Bending,,Bent,-,-,-,-
+277,Fowler (High) ⟮-⟯ [Bent Knees] ⟨-⟩ ⧼Sitting⧽,Bent Knees High Fowler,,Sitting,,Fowler,High,-,Bent Knees,-
+279,Fowler (Low) ⟮-⟯ [Bent Knees] ⟨-⟩ ⧼Sitting⧽,Bent Knees Low Fowler,,Sitting,,Fowler,Low,-,Bent Knees,-
+278,Fowler (Semi) ⟮-⟯ [Bent Knees] ⟨-⟩ ⧼Sitting⧽,Bent Knees Semi Fowler,,Sitting,,Fowler,Semi,-,Bent Knees,-
+329,Big Toe (Hold) ⟮-⟯ [-] ⟨-⟩ ⧼Balancing⧽,Big Toe Hold,"Utthita Hastapadangusthasana, उत्थित हस्तपादाङ्गुष्ठासन, Standing Big Toe Hold",Balancing,,Big Toe,Hold,-,-,-
+317,Big Toe (-) ⟮-⟯ [Supine] ⟨-⟩ ⧼Lying⧽,Big Toe Supine,"Supta Padangusthasana, सुप्त पादाङ्गुष्ठासन",Lying,,Big Toe,-,Supine,-,-
+364,Boat (-) ⟮-⟯ [-] ⟨-⟩ ⧼Balancing⧽,Boat,"Navasana, Naukasana, नावासन, परिपूर्णनावासन नौकासन",Balancing,,Boat,-,-,-,-
+339,Bow (-) ⟮Prone⟯ [-] ⟨-⟩ ⧼Lying⧽,Bow,"Dhanurasana, धनुरासन",Lying,,Bow,-,Prone,-,-
+122,Bowing (-) ⟮-⟯ [-] ⟨-⟩ ⧼Bending⧽,Bowing,,Bending,Gesture,Bowing,-,-,-,-
+13,Bridge (-) ⟮-⟯ [-] ⟨-⟩ ⧼Inversion⧽,Bridge,"Shoulder Supported Bridge, Setu Bandha Sarvangasana, सेतुबन्धसर्वाङ्गासन",Inversion,,Bridge,-,-,-,-
+100,Butterfly (-) ⟮-⟯ [-] ⟨-⟩ ⧼Sitting⧽,Butterfly,"Cobbler's Pose, Bound Angle, Baddha Konasana, Bhadrasana, बद्धकोणासन",Sitting,Meditation,Butterfly,-,-,-,-
+327,Camel (-) ⟮-⟯ [-] ⟨-⟩ ⧼Kneeling⧽,Camel,"Ushtrasana, उष्ट्रासन",Kneeling,,Camel,-,-,-,-
+336,Cat (-) ⟮-⟯ [-] ⟨-⟩ ⧼Crawling⧽,Cat,"Bidalasana, Marjariasana, बिडालासन, मार्जरीआसन",Crawling,,Cat,-,-,-,-
+98,Caterpillar (-) ⟮Prone⟯ [-] ⟨-⟩ ⧼Lying⧽,Caterpillar,"Eight-Limbed Salutation, Ashtanga Namaskara, अष्टाङ्ग नमस्कार",Lying,,Caterpillar,-,Prone,-,-
+330,Child (-) ⟮-⟯ [-] ⟨-⟩ ⧼Kneeling⧽,Child,"Child's, Balasana, बालासन",Kneeling,,Child,-,-,-,-
+334,Cobra (-) ⟮Prone⟯ [-] ⟨-⟩ ⧼Lying⧽,Cobra,"Seal, Sphinx, Bhujangasana, भुजंगासन",Lying,,Cobra,-,Prone,-,-
+353,Cockerel (-) ⟮-⟯ [-] ⟨-⟩ ⧼Balancing⧽,Cockerel,"Kukkutasana, कुक्कुटासन",Balancing,,Cockerel,-,-,-,-
+160,Bridge (-) ⟮-⟯ [Contrapposto] ⟨-⟩ ⧼Inversion⧽,Contrapposto Bridge,,Inversion,,Bridge,-,-,Contrapposto,-
+155,Leaning (-) ⟮Horizontal⟯ [Contrapposto] ⟨-⟩ ⧼Leaning⧽,Contrapposto Horizontal Leaning,,Leaning,,Leaning,-,Horizontal,Contrapposto,-
+154,Thrust (-) ⟮Horizontal⟯ [Contrapposto] ⟨-⟩ ⧼Leaning⧽,Contrapposto Horizontal Thrust,,Leaning,,Thrust,-,Horizontal,Contrapposto,-
+172,Standing (Contrapposto) ⟮-⟯ [-] ⟨-⟩ ⧼Standing⧽,Contrapposto Standing,,Standing,,Standing,Contrapposto,-,-,-
+313,Corpse (-) ⟮Supine⟯ [-] ⟨-⟩ ⧼Lying⧽,Corpse,"Shavasana, शवासन",Lying,,Corpse,-,Supine,-,-
+344,Cowherd (-) ⟮-⟯ [-] ⟨-⟩ ⧼Sitting⧽,Cowherd,"Gorakhnath's Pose, Gorakshasana, गोरक्षासन",Sitting,Meditation,Cowherd,-,-,-,-
+101,Crane (-) ⟮-⟯ [-] ⟨-⟩ ⧼Balancing⧽,Crane,"Crow, Bakasana, Kakasana, बकासन, ककासन",Balancing,,Crane,-,-,-,-
+135,Crawling (-) ⟮-⟯ [-] ⟨-⟩ ⧼Crawling⧽,Crawling,,Crawling,,Crawling,-,-,-,-
+96,Moon (Crescent) ⟮-⟯ [-] ⟨-⟩ ⧼Bending⧽,Crescent Moon,"Dragon, Anjaneyasana, अञ्जनेयासन",Bending,,Moon,Crescent,-,-,-
+356,Crocodile (-) ⟮Prone⟯ [-] ⟨-⟩ ⧼Lying⧽,Crocodile,"Makarasana, मकरासन",Lying,,Crocodile,-,Prone,-,-
+35,Sitting (-) ⟮-⟯ [Crossed Ankles] ⟨-⟩ ⧼Sitting⧽,Crossed Ankles Sitting,,Sitting,,Sitting,-,-,Crossed Ankles,-
+32,Fowler (High) ⟮-⟯ [Crossed Legs] ⟨-⟩ ⧼Sitting⧽,Crossed Legs High Fowler,,Sitting,,Fowler,High,-,Crossed Legs,-
+57,Sitting (-) ⟮-⟯ [Crossed Legs] ⟨-⟩ ⧼Sitting⧽,Crossed Legs Sitting,,Sitting,,Sitting,-,-,Crossed Legs,-
+194,Standing (-) ⟮-⟯ [Crossed Legs] ⟨-⟩ ⧼Standing⧽,Crossed Legs Standing,,Standing,,Standing,-,-,Crossed Legs,-
+107,Crouching (-) ⟮-⟯ [-] ⟨-⟩ ⧼Squatting⧽,Crouching,,Squatting,,Crouching,-,-,-,-
+363,Dancer (-) ⟮-⟯ [-] ⟨-⟩ ⧼Balancing⧽,Dancer,"Lord of the Dance, Nataraja's Pose, Natarajasana, नटराजासन",Balancing,,Dancer,-,-,-,-
+81,Handstand (-) ⟮-⟯ [1 Arm] ⟨Declined⟩ ⧼Handstand⧽,Declined 1 Arm Handstand,,Balancing,,Handstand,-,-,1 Arm,Declined
+230,Fowler (High) ⟮-⟯ [1 Leg] ⟨Declined⟩ ⧼Sitting⧽,Declined 1 Leg High Fowler,,Sitting,,Fowler,High,-,1 Leg,Declined
+240,Suspended (-) ⟮Backward⟯ [-] ⟨Declined⟩ ⧼Suspended⧽,Declined Backward Suspended,,Suspended,,Suspended,-,Backward,-,Declined
+224,Dog (-) ⟮Downward⟯ [-] ⟨Declined⟩ ⧼Bending⧽,Declined Downward Dog,,Bending,,Dog,Downward,-,-,Declined
+241,Suspended (-) ⟮Forward⟯ [-] ⟨Declined⟩ ⧼Suspended⧽,Declined Forward Suspended,,Suspended,,Suspended,-,Forward,-,Declined
+79,Handstand (-) ⟮-⟯ [-] ⟨Declined⟩ ⧼Handstand⧽,Declined Handstand,,Balancing,,Handstand,-,-,-,Declined
+206,Fowler (High) ⟮-⟯ [-] ⟨Declined⟩ ⧼Sitting⧽,Declined High Fowler,,Sitting,,Fowler,High,-,-,Declined
+208,Fowler (Low) ⟮-⟯ [-] ⟨Declined⟩ ⧼Sitting⧽,Declined Low Fowler,,Sitting,,Fowler,Low,-,-,Declined
+186,Lying (-) ⟮Supine⟯ [Lowered Knees] ⟨Declined⟩ ⧼Lying⧽,Declined Lowered Knees Supine Lying,,Lying,,Lying,-,Supine,Lowered Knees,Declined
+105,Plank (-) ⟮-⟯ [-] ⟨Declined⟩ ⧼Crawling⧽,Declined Plank,Declined Low Plank,Crawling,,Plank,-,-,-,Declined
+204,Fowler (Semi) ⟮-⟯ [-] ⟨Declined⟩ ⧼Sitting⧽,Declined Semi Fowler,,Sitting,,Fowler,Semi,-,-,Declined
+39,Lying (-) ⟮Supine⟯ [-] ⟨Declined⟩ ⧼Lying⧽,Declined Supine Lying,Trendelenburg,Lying,,Lying,-,Supine,-,Declined
+236,Suspended (-) ⟮-⟯ [-] ⟨Declined⟩ ⧼Suspended⧽,Declined Suspended,,Suspended,,Suspended,-,-,-,Declined
+146,Decubitus (-) ⟮-⟯ [-] ⟨-⟩ ⧼Lying⧽,Decubitus,,Lying,Medical,Decubitus,-,-,-,-
+124,Dog (-) ⟮Downward⟯ [-] ⟨-⟩ ⧼Bending⧽,Downward Dog,"Downward Facing Dog, Adho Mukha Svanasana, Adho Mukha Shvanasana, अधोमुखश्वानासन",Bending,Yoga,Dog,-,Downward,-,-
+324,Dragonfly (-) ⟮-⟯ [-] ⟨-⟩ ⧼Sitting⧽,Dragonfly,"Open Angle, Upavishta Konasana, उपविष्टकोणासन",Sitting,Split,Dragonfly,-,-,-,-
+340,Pose (Durvasa's) ⟮-⟯ [-] ⟨-⟩ ⧼Balancing⧽,Durvasa's Pose,"Durvasasana, दुर्वासासन",Balancing,Pose,Pose,Durvasa's,-,-,-
+342,Eagle (-) ⟮-⟯ [-] ⟨-⟩ ⧼Balancing⧽,Eagle,"Garudasana, गरुडासन",Balancing,,Eagle,-,-,-,-
+350,Ear Pressing (-) ⟮-⟯ [-] ⟨-⟩ ⧼Inversion⧽,Ear Pressing,"Karnapidasana, कर्णपीडासन",Inversion,,Ear Pressing,-,-,-,-
+316,Easy (-) ⟮-⟯ [-] ⟨-⟩ ⧼Sitting⧽,Easy,"Sukhasana, सुखासन",Sitting,Meditation,Easy,-,-,-,-
+99,Eight Angled (-) ⟮-⟯ [-] ⟨-⟩ ⧼Balancing⧽,Eight Angled,"Aṣṭāvakra's Pose, Astavakrasana, अष्टावक्रासन",Balancing,,Eight Angled,-,-,-,-
+106,Handstand (Elbow) ⟮-⟯ [-] ⟨-⟩ ⧼Handstand⧽,Elbow Handstand,Pincha Mayurasana,Balancing,,Handstand,Elbow,-,-,-
+247,Running (Elliptical) ⟮-⟯ [-] ⟨-⟩ ⧼Running⧽,Elliptical Running,,Running,,Running,Elliptical,-,-,-
+246,Walking (Elliptical) ⟮-⟯ [-] ⟨-⟩ ⧼Walking⧽,Elliptical Walking,,Walking,,Walking,Elliptical,-,-,-
+341,Embryo (In Womb) ⟮-⟯ [-] ⟨-⟩ ⧼Sitting⧽,Embryo in Womb,"Garbha Pindasana, गर्भासन",Sitting,,Embryo,In Womb,-,-,-
+308,Peacock (Feathered) ⟮-⟯ [-] ⟨-⟩ ⧼Balancing⧽,Feathered Peacock,"Pincha Mayurasana, पिञ्चमयूरासन",Balancing,,Peacock,Feathered,-,-,-
+123,Fetal (-) ⟮-⟯ [-] ⟨-⟩ ⧼Lying⧽,Fetal,,Lying,Sleeping,Fetal,-,-,-,-
+36,Sitting (Figure Four) ⟮-⟯ [-] ⟨-⟩ ⧼Sitting⧽,Figure Four Sitting,,Sitting,,Sitting,Figure Four,-,-,-
+321,Firefly (-) ⟮-⟯ [-] ⟨-⟩ ⧼Balancing⧽,Firefly,"Tittibhasana, टिट्टिभासन",Balancing,,Firefly,-,-,-,-
+359,Fish (-) ⟮-⟯ [-] ⟨-⟩ ⧼Reclining⧽,Fish,"Matsyasana, मत्स्यासन",Reclining,,Fish,-,-,-,-
+173,Standing (-) ⟮-⟯ [Folded Arms] ⟨-⟩ ⧼Standing⧽,Folded Arms Standing,Action Pose,Standing,,,-,-,Folded Arms,-
+332,Formidable (-) ⟮Supine⟯ [-] ⟨-⟩ ⧼Lying⧽,Formidable,"Bhairavasana, Ankushasana, भैरवासन, अण्कुशासन",Lying,,Formidable,-,Supine,-,-
+25,Bent (-) ⟮Forward⟯ [-] ⟨-⟩ ⧼Bending⧽,Forward Bent,"Standing Forward Bend, Upright Forward Bend, Uttanasana, उत्तानासन",Bending,,Bent,-,Forward,-,-
+4,Jumping (-) ⟮Forward⟯ [-] ⟨-⟩ ⧼Suspended⧽,Forward Jumping,Forward Jump,Suspended,,Jumping,-,Forward,-,-
+167,Leaning (-) ⟮Forward⟯ [-] ⟨-⟩ ⧼Leaning⧽,Forward Leaning,,Leaning,,Leaning,-,Forward,-,-
+114,Freefall (-) ⟮-⟯ [-] ⟨-⟩ ⧼Suspended⧽,Freefall,Free Fall,Suspended,,Freefall,-,-,-,-
+333,Frog (-) ⟮Prone⟯ [-] ⟨-⟩ ⧼Lying⧽,Frog,"Bhekasana, भेकासन",Lying,,Frog,-,Prone,-,-
+17,Split (-) ⟮Front⟯ [-] ⟨-⟩ ⧼Sitting⧽,Front Split,Hanumanasana,Sitting,Split,Split,-,Front,-,-
+111,Planche (Full) ⟮-⟯ [-] ⟨-⟩ ⧼Balancing⧽,Full Planche,,Balancing,,Planche,Full,-,-,-
+68,Squatting (Full) ⟮-⟯ [-] ⟨-⟩ ⧼Squatting⧽,Full Squatting,,Squatting,,Squatting,Full,-,-,-
+357,Garland (-) ⟮-⟯ [-] ⟨-⟩ ⧼Squatting⧽,Garland,"Malasana, मालासन",Squatting,,Garland,-,-,-,-
+366,Gate (-) ⟮-⟯ [-] ⟨-⟩ ⧼Standing⧽,Gate,"Parighasana, परिघासन",Standing,,Gate,-,-,-,-
+26,Bent (Half) ⟮Forward⟯ [-] ⟨-⟩ ⧼Bending⧽,Half Forward Bent,Ardha Uttanasana,Bending,,Bent,Half,Forward,-,-
+78,Handstand (Half) ⟮-⟯ [-] ⟨-⟩ ⧼Handstand⧽,Half Handstand,,Balancing,,Handstand,Half,-,-,-
+21,Headstand (Half) ⟮-⟯ [-] ⟨-⟩ ⧼Headstand⧽,Half Headstand,"Shirshasana A, Shirshasana 1, Sirsasana A, Sirsasana 1, Elbow Headstand",Balancing,,Headstand,Half,-,-,-
+136,Kneeling (Half) ⟮-⟯ [-] ⟨-⟩ ⧼Kneeling⧽,Half Kneeling,"Taking a Knee, Genuflection",Kneeling,,Kneeling,Half,-,-,-
+97,Moon (Half) ⟮-⟯ [-] ⟨-⟩ ⧼Bending⧽,Half Moon,"Ardha Chandrasana, अर्धचन्द्रासन",Bending,,Moon,Half,-,-,-
+174,Standing (-) ⟮-⟯ [Hands on Hips] ⟨-⟩ ⧼Standing⧽,Hands on Hips Standing,Akimbo Standing,Standing,,,-,-,Hands on Hips,-
+77,Handstand (-) ⟮-⟯ [-] ⟨-⟩ ⧼Handstand⧽,Handstand,"Yoga Handstand, Downward Facing Tree, Adho Mukha Vrikshasana, अधोमुखवृक्षासन",Balancing,,Handstand,-,-,-,-
+89,Hanging (-) ⟮-⟯ [-] ⟨-⟩ ⧼Hanging⧽,Hanging,,Hanging,,Hanging,-,-,-,-
+346,Pose (Hanuman's) ⟮-⟯ [-] ⟨-⟩ ⧼Sitting⧽,Hanuman's Pose,"Hanumanasana, हनुमनासन",Sitting,Pose,Pose,Hanuman's,-,-,-
+22,Headstand (-) ⟮-⟯ [-] ⟨-⟩ ⧼Headstand⧽,Headstand,"Yoga Headstand, Shirshasana B, Shirshasana 2, Sirsasana B, Sirsasana 2, Kapalasana, शीर्षासन",Balancing,,Headstand,-,-,-,-
+347,Head to Knee (-) ⟮-⟯ [-] ⟨-⟩ ⧼Bending⧽,Head-to-Knee,"Head-to-Knee, Janusirsasana, जानुशीर्षासन",Bending,,Head to Knee,-,-,-,-
+301,Hero (-) ⟮-⟯ [-] ⟨-⟩ ⧼Kneeling⧽,Hero,"Hero's Meditation, Virasana, Dhyana Virasana, वीरासन, ध्यान वीरासन",Kneeling,Meditation,Hero,-,-,-,-
+352,Heron (-) ⟮-⟯ [-] ⟨-⟩ ⧼Sitting⧽,Heron,"Kraunchasana, क्रौञ्चासन",Sitting,,Heron,-,-,-,-
+14,Bridge (High) ⟮-⟯ [-] ⟨-⟩ ⧼Inversion⧽,High Bridge,,Inversion,,Bridge,High,-,-,-
+61,Fowler (High) ⟮-⟯ [-] ⟨-⟩ ⧼Sitting⧽,High Fowler,"90 Degree Fowler, Long Sitting",Sitting,,Fowler,High,-,-,-
+2,Lithotomy (High) ⟮Supine⟯ [-] ⟨-⟩ ⧼Lying⧽,High Lithotomy,,Lying,Medical,Lithotomy,High,Supine,-,-
+55,Plank (High) ⟮-⟯ [-] ⟨-⟩ ⧼Crawling⧽,High Plank,,Crawling,,Plank,High,-,-,-
+180,Hanging (-) ⟮Horizontal⟯ [-] ⟨-⟩ ⧼Hanging⧽,Horizontal Hanging,,Hanging,,Hanging,-,Horizontal,-,-
+151,Leaning (-) ⟮Horizontal⟯ [-] ⟨-⟩ ⧼Leaning⧽,Horizontal Leaning,,Leaning,,Leaning,-,Horizontal,-,-
+197,Suspended (-) ⟮Horizontal⟯ [-] ⟨-⟩ ⧼Suspended⧽,Horizontal Suspended,,Suspended,,Suspended,-,Horizontal,-,-
+150,Thrust (-) ⟮Horizontal⟯ [-] ⟨-⟩ ⧼Leaning⧽,Horizontal Thrust,,Leaning,,Thrust,-,Horizontal,-,-
+223,Plank (High) ⟮-⟯ [1 Arm] ⟨Inclined⟩ ⧼Crawling⧽,Inclined 1 Arm High Plank,,Crawling,,Plank,High,-,1 Arm,Inclined
+222,Plank (Low) ⟮-⟯ [1 Arm] ⟨Inclined⟩ ⧼Crawling⧽,Inclined 1 Arm Low Plank,,Crawling,,Plank,Low,-,1 Arm,Inclined
+108,Standing (-) ⟮Forward⟯ [1 Leg] ⟨-⟩ ⧼Standing⧽,Inclined 1 Leg Forward Standing,,Standing,,Standing,-,Forward,1 Leg,Inclined
+166,Sitting (-) ⟮Backward⟯ [-] ⟨Inclined⟩ ⧼Sitting⧽,Inclined Backward Sitting,,Sitting,,Sitting,-,Backward,-,Inclined
+272,Squatting (-) ⟮Backward⟯ [-] ⟨Inclined⟩ ⧼Squatting⧽,Inclined Backward Squatting,,Squatting,,Squatting,-,Backward,-,Inclined
+269,Standing (-) ⟮Backward⟯ [-] ⟨Inclined⟩ ⧼Standing⧽,Inclined Backward Standing,,Standing,,Standing,-,Backward,-,Inclined
+184,Straddling (-) ⟮Backward⟯ [-] ⟨-⟩ ⧼Straddling⧽,Inclined Backward Straddling,,Straddling,,Straddling,-,Backward,-,Inclined
+238,Suspended (-) ⟮Backward⟯ [-] ⟨Inclined⟩ ⧼Suspended⧽,Inclined Backward Suspended,,Suspended,,Suspended,-,Backward,-,Inclined
+233,Crawling (-) ⟮-⟯ [-] ⟨Inclined⟩ ⧼Crawling⧽,Inclined Crawling,,Crawling,,Crawling,-,-,-,Inclined
+225,Dog (-) ⟮Downward⟯ [-] ⟨Inclined⟩ ⧼Bending⧽,Inclined Downward Dog,,Bending,,Dog,Downward,-,-,Inclined
+37,Sitting (-) ⟮Forward⟯ [-] ⟨Inclined⟩ ⧼Sitting⧽,Inclined Forward Sitting,,Sitting,,Sitting,-,Forward,-,Inclined
+64,Squatting (-) ⟮Forward⟯ [-] ⟨Inclined⟩ ⧼Squatting⧽,Inclined Forward Squatting,,Squatting,,Squatting,-,Forward,-,Inclined
+168,Standing (-) ⟮Forward⟯ [-] ⟨Inclined⟩ ⧼Standing⧽,Inclined Forward Standing,,Standing,,Standing,-,Forward,-,Inclined
+183,Straddling (-) ⟮Forward⟯ [-] ⟨-⟩ ⧼Straddling⧽,Inclined Forward Straddling,,Straddling,,Straddling,-,Forward,-,Inclined
+239,Suspended (-) ⟮Forward⟯ [-] ⟨Inclined⟩ ⧼Suspended⧽,Inclined Forward Suspended,,Suspended,,Suspended,-,Forward,-,Inclined
+38,Squatting (Full) ⟮-⟯ [-] ⟨Inclined⟩ ⧼Squatting⧽,Inclined Full Squatting,,Squatting,,Squatting,Full,-,-,Inclined
+181,Hanging (-) ⟮-⟯ [-] ⟨Inclined⟩ ⧼Hanging⧽,Inclined Hanging,,Hanging,,Hanging,-,-,-,Inclined
+207,Fowler (High) ⟮-⟯ [-] ⟨Inclined⟩ ⧼Sitting⧽,Inclined High Fowler,,Sitting,,Fowler,High,-,-,Inclined
+51,Plank (High) ⟮-⟯ [-] ⟨Inclined⟩ ⧼Crawling⧽,Inclined High Plank,,Crawling,,Plank,High,-,-,Inclined
+235,Kneeling (-) ⟮-⟯ [-] ⟨Inclined⟩ ⧼Kneeling⧽,Inclined Kneeling,,Kneeling,,Kneeling,-,-,-,Inclined
+234,Plank (-) ⟮-⟯ [Kneeling] ⟨Inclined⟩ ⧼Crawling⧽,Inclined Kneeling Plank,,Crawling,,Plank,-,-,Kneeling,Inclined
+49,Lying (-) ⟮Lateral⟯ [-] ⟨Inclined⟩ ⧼Lying⧽,Inclined Lateral Lying,,Lying,,Lying,-,Lateral,-,Inclined
+103,Plank (-) ⟮Lateral⟯ [-] ⟨Inclined⟩ ⧼Crawling⧽,Inclined Lateral Plank,,Crawling,,Plank,-,Lateral,-,Inclined
+209,Fowler (Low) ⟮-⟯ [-] ⟨Inclined⟩ ⧼Sitting⧽,Inclined Low Fowler,,Sitting,,Fowler,Low,-,-,Inclined
+210,Plank (Low) ⟮-⟯ [-] ⟨Inclined⟩ ⧼Crawling⧽,Inclined Low Plank,,Crawling,,Plank,Low,-,-,Inclined
+187,Lying (-) ⟮Supine⟯ [Lowered Knees] ⟨Inclined⟩ ⧼Lying⧽,Inclined Lowered Knees Supine Lying,,Lying,,Lying,-,Supine,Lowered Knees,Inclined
+265,Squatting (Partial) ⟮-⟯ [-] ⟨Inclined⟩ ⧼Squatting⧽,Inclined Partial Squatting,,Squatting,,Squatting,Partial,-,-,Inclined
+104,Plank (-) ⟮-⟯ [-] ⟨Inclined⟩ ⧼Crawling⧽,Inclined Plank,Inclined Low Plank,Crawling,,Plank,-,-,-,Inclined
+140,Lying (-) ⟮Prone⟯ [-] ⟨Inclined⟩ ⧼Lying⧽,Inclined Prone Lying,,Lying,,Lying,-,Prone,-,Inclined
+293,Lying (-) ⟮Supine⟯ [Raised Legs] ⟨Inclined⟩ ⧼Lying⧽,Inclined Raised Legs Supine Lying,,,,,,,Raised Legs,
+245,Running (-) ⟮-⟯ [-] ⟨Inclined⟩ ⧼Running⧽,Inclined Running,,Running,,Running,-,-,-,Inclined
+205,Fowler (Semi) ⟮-⟯ [-] ⟨Inclined⟩ ⧼Sitting⧽,Inclined Semi Fowler,,Sitting,,Fowler,Semi,-,-,Inclined
+69,Squatting (-) ⟮-⟯ [Split] ⟨Inclined⟩ ⧼Squatting⧽,Inclined Split Squatting,,Squatting,,Squatting,-,-,Split,Inclined
+370,Squatting (-) ⟮-⟯ [-] ⟨Inclined⟩ ⧼Squatting⧽,Inclined Squatting,,Squatting,,Squatting,-,-,-,Inclined
+85,Standing (-) ⟮-⟯ [-] ⟨Inclined⟩ ⧼Standing⧽,Inclined Standing,,Standing,,Standing,-,-,-,Inclined
+48,Lying (-) ⟮Supine⟯ [-] ⟨Inclined⟩ ⧼Lying⧽,Inclined Supine Lying,Reverse Trendelenburg,Lying,,Lying,-,Supine,-,Inclined
+237,Suspended (-) ⟮-⟯ [-] ⟨Inclined⟩ ⧼Suspended⧽,Inclined Suspended,,Suspended,,Suspended,-,-,-,Inclined
+212,Plank (High) ⟮-⟯ [-] ⟨Inclined⟩ ⧼Leaning⧽,Inclined Upward High Plank,,Leaning,,Plank,High,Upward,-,Inclined
+211,Plank (Low) ⟮-⟯ [-] ⟨Inclined⟩ ⧼Leaning⧽,Inclined Upward Low Plank,,Leaning,,Plank,Low,Upward,-,Inclined
+244,Walking (-) ⟮-⟯ [-] ⟨Inclined⟩ ⧼Walking⧽,Inclined Walking,,Walking,,Walking,-,-,-,Inclined
+368,Stretch (Intense) ⟮Lateral⟯ [-] ⟨-⟩ ⧼Standing⧽,Intense Lateral Stretch,"Intense Side Stretch, Parshvottanasana, पार्श्वोत्तनासन",Standing,,Stretch,Intense,Lateral,-,-
+296,Practice (-) ⟮Inverted⟯ [-] ⟨-⟩ ⧼Inversion⧽,Inverted Practice,"Legs Up the Wall, Viparita Karani, Uttanapadasana, विपरीतकरणि",Inversion,,Practice,-,Inverted,-,-
+295,Staff (-) ⟮Inverted⟯ [-] ⟨-⟩ ⧼Inversion⧽,Inverted Staff,"Viparita Dandasana, विपरीत दण्डासन",Inversion,,Staff,-,Inverted,-,-
+351,Pose (Kaundinya's) ⟮-⟯ [-] ⟨-⟩ ⧼Balancing⧽,Kaundinya's Pose,"Kaundinyasana, कौण्डिन्यसन",Balancing,Pose,Pose,Kaundinya's,-,-,-
+310,Pigeon (King) ⟮-⟯ [-] ⟨-⟩ ⧼Sitting⧽,King Pigeon,"Rajakapotasana, राजकपोतासन",Sitting,,Pigeon,King,-,-,-
+147,Lying (-) ⟮Prone⟯ [Knee to Chest] ⟨-⟩ ⧼Lying⧽,Knee to Chest Prone Lying,,Lying,Medical,Lying,-,Prone,Knee to Chest,-
+127,Lying (-) ⟮Supine⟯ [Knee to Chest] ⟨-⟩ ⧼Lying⧽,Knee to Chest Supine Lying,Knee-Chest Supine Lying,Lying,,Lying,-,Supine,Knee to Chest,-
+121,Plank (-) ⟮-⟯ [Knee to Elbow] ⟨-⟩ ⧼Crawling⧽,Knee to Elbow Plank,Knee-Elbow Plank,Crawling,,Plank,-,-,Knee to Elbow,-
+214,Plank (High) ⟮-⟯ [Kneeling] ⟨-⟩ ⧼Crawling⧽,Kneeling High Plank,,Crawling,,Plank,High,-,Kneeling,-
+281,Lunge (-) ⟮Lateral⟯ [Kneeling] ⟨-⟩ ⧼Lunging⧽,Kneeling Lateral Lunge,,Lunging,,Lunge,-,Lateral,Kneeling,-
+213,Plank (Low) ⟮-⟯ [Kneeling] ⟨-⟩ ⧼Crawling⧽,Kneeling Low Plank,,Crawling,,Plank,Low,-,Kneeling,-
+198,Plank (-) ⟮-⟯ [Kneeling] ⟨-⟩ ⧼Crawling⧽,Kneeling Plank,,Crawling,,Plank,Knee,-,-,-
+34,Sitting (-) ⟮-⟯ [Knees Apart] ⟨-⟩ ⧼Sitting⧽,Knees Apart Sitting,,Sitting,,Sitting,-,-,Knees Apart,-
+120,Kowtowing (-) ⟮-⟯ [-] ⟨-⟩ ⧼Crawling⧽,Kowtowing,,Crawling,Gesture,Kowtowing,-,-,-,-
+75,Bent (-) ⟮Lateral⟯ [-] ⟨-⟩ ⧼Bending⧽,Lateral Bent,Side Bent,Bending,,Bent,-,Lateral,-,-
+231,Boat (-) ⟮-⟯ [-] ⟨-⟩ ⧼Balancing⧽,Lateral Boat,,Balancing,,Boat,-,Lateral,-,-
+292,Squatting (Full) ⟮Lateral⟯ [-] ⟨-⟩ ⧼Squatting⧽,Lateral Full Squatting,,Squatting,,Squatting,Full,Lateral,-,-
+54,Plank (High) ⟮Lateral⟯ [-] ⟨-⟩ ⧼Crawling⧽,Lateral High Plank,Side High Plank,Crawling,,Plank,High,Lateral,-,-
+131,Jumping (-) ⟮Lateral⟯ [-] ⟨-⟩ ⧼Suspended⧽,Lateral Jumping,"Lateral Jump, Side Jumping",Suspended,,Jumping,-,Lateral,-,-
+83,Leaning (-) ⟮Lateral⟯ [-] ⟨-⟩ ⧼Leaning⧽,Lateral Leaning,,Leaning,,Leaning,-,Lateral,-,-
+201,Lunge (-) ⟮Lateral⟯ [-] ⟨-⟩ ⧼Lunging⧽,Lateral Lunge,,Lunging,,Lunge,-,Lateral,-,-
+139,Lying (-) ⟮Lateral⟯ [-] ⟨-⟩ ⧼Lying⧽,Lateral Lying,Side Lying,Lying,,Lying,-,Lateral,-,-
+56,Plank (-) ⟮Lateral⟯ [-] ⟨-⟩ ⧼Crawling⧽,Lateral Plank,"Side Plank, Vasishta's Pose, Vasishtasana, वसिष्ठासन",Balancing,,Plank,-,Lateral,-,-
+253,Running (-) ⟮Lateral⟯ [-] ⟨-⟩ ⧼Running⧽,Lateral Running,,Running,,Running,-,Lateral,-,-
+18,Split (-) ⟮Lateral⟯ [-] ⟨-⟩ ⧼Sitting⧽,Lateral Split,"Side Split, Samakonasana, समकोणासन",Sitting,Split,Split,-,Lateral,-,-
+109,Squatting (-) ⟮Lateral⟯ [-] ⟨-⟩ ⧼Squatting⧽,Lateral Squatting,Side Squatting,Squatting,,Squatting,-,Lateral,-,-
+252,Walking (-) ⟮Lateral⟯ [-] ⟨-⟩ ⧼Walking⧽,Lateral Walking,,Walking,,Walking,-,Lateral,-,-
+196,Standing (-) ⟮-⟯ [Leg Forward] ⟨-⟩ ⧼Standing⧽,Leg Forward Standing,,Standing,,Standing,-,-,Leg Forward,-
+270,Squatting (Full) ⟮-⟯ [Legs Apart] ⟨-⟩ ⧼Squatting⧽,Legs Apart Full Squatting,,Squatting,,Squatting,Full,-,Legs Apart,-
+280,Bent (Half) ⟮Forward⟯ [Legs Apart] ⟨-⟩ ⧼Bending⧽,Legs Apart Half Forward Bent,,Bending,,Bent,Half,Forward,Legs Apart,-
+274,Fowler (High) ⟮-⟯ [Legs Apart] ⟨-⟩ ⧼Sitting⧽,Legs Apart High Fowler,,Sitting,,Fowler,High,-,Legs Apart,-
+276,Fowler (Low) ⟮-⟯ [Legs Apart] ⟨-⟩ ⧼Sitting⧽,Legs Apart Low Fowler,,Sitting,,Fowler,Low,-,Legs Apart,-
+283,Fowler (High) ⟮Reverse⟯ [Legs Apart] ⟨-⟩ ⧼Sitting⧽,Legs Apart Reverse High Fowler,,Sitting,,Fowler,High,Reverse,Legs Apart,-
+284,Fowler (Low) ⟮Reverse⟯ [Legs Apart] ⟨-⟩ ⧼Sitting⧽,Legs Apart Reverse Low Fowler,,Sitting,,Fowler,Low,Reverse,Legs Apart,-
+282,Fowler (Semi) ⟮Reverse⟯ [Legs Apart] ⟨-⟩ ⧼Sitting⧽,Legs Apart Reverse Semi Fowler,,Sitting,,Fowler,Semi,Reverse,Legs Apart,-
+275,Fowler (Semi) ⟮-⟯ [Legs Apart] ⟨-⟩ ⧼Sitting⧽,Legs Apart Semi Fowler,,Sitting,,Fowler,Semi,-,Legs Apart,-
+267,Squatting (-) ⟮-⟯ [Legs Apart] ⟨-⟩ ⧼Squatting⧽,Legs Apart Squatting,,Squatting,,Squatting,-,-,Legs Apart,-
+193,Standing (-) ⟮-⟯ [Legs Apart] ⟨-⟩ ⧼Standing⧽,Legs Apart Standing,,Standing,,Standing,-,-,Legs Apart,-
+362,Liberated (-) ⟮-⟯ [-] ⟨-⟩ ⧼Sitting⧽,Liberated,"Muktasana, मुक्तासन",Sitting,Meditation,Liberated,-,-,-,-
+315,Lion (-) ⟮-⟯ [-] ⟨-⟩ ⧼Kneeling⧽,Lion,"Simhasana, सिंहासन",Kneeling,Meditation,Lion,-,-,-,-
+1,Lithotomy (-) ⟮Supine⟯ [-] ⟨-⟩ ⧼Lying⧽,Lithotomy,Standard Lithotomy,Lying,Medical,Lithotomy,-,Supine,-,-
+311,Locust (-) ⟮Prone⟯ [-] ⟨-⟩ ⧼Lying⧽,Locust,"Shalabhasana, शलभासन",Lying,,Locust,-,Prone,-,-
+117,Log (-) ⟮-⟯ [-] ⟨-⟩ ⧼Lying⧽,Log,,Lying,Sleeping,Log,-,-,-,-
+365,Lotus (-) ⟮-⟯ [-] ⟨-⟩ ⧼Sitting⧽,Lotus,"Padmasana, पद्मासन",Sitting,Meditation,Lotus,-,-,-,-
+59,Fowler (Low) ⟮-⟯ [-] ⟨-⟩ ⧼Sitting⧽,Low Fowler,30 Degree Fowler,Sitting,,Fowler,Low,-,-,-
+291,Lunge (Low) ⟮Lateral⟯ [-] ⟨-⟩ ⧼Lunging⧽,Low Lateral Lunge,,Lunging,,Lunge,Low,Lateral,-,-
+118,Lithotomy (Low) ⟮Supine⟯ [-] ⟨-⟩ ⧼Lying⧽,Low Lithotomy,,Lying,Medical,Lithotomy,Low,Supine,-,-
+337,Plank (Low) ⟮-⟯ [-] ⟨-⟩ ⧼Crawling⧽,Low Plank,"Four-Limbed Staff, Chaturanga Dandasana, चतुरङ्गदण्डासन",Crawling,,Plank,Low,-,-,-
+188,Lying (-) ⟮Prone⟯ [Lowered Knees] ⟨-⟩ ⧼Lying⧽,Lowered Knees Prone Lying,,Lying,,Lying,-,Prone,Lowered Knees,-
+185,Lying (-) ⟮Supine⟯ [Lowered Knees] ⟨-⟩ ⧼Lying⧽,Lowered Knees Supine Lying,,Lying,,Lying,-,Supine,Lowered Knees,-
+189,Lying (-) ⟮Prone⟯ [Lowered Knees] ⟨-⟩ ⧼Lying⧽,Lowered Legs Prone Lying,,Lying,,Lying,-,Prone,Lowered Legs,-
+71,Lunge (-) ⟮-⟯ [-] ⟨-⟩ ⧼Lunging⧽,Lunge,,Lunging,,Lunge,-,-,-,-
+358,Pose (Marichi's) ⟮-⟯ [-] ⟨-⟩ ⧼Sitting⧽,Marichi's Pose,"Marichyasana, मरीच्यासन",Sitting,Pose,Pose,Marichi's,-,-,-
+20,Split (Martial Arts) ⟮-⟯ [-] ⟨-⟩ ⧼Suspended⧽,Martial Arts Split,,Suspended,Split,Split,Martial Arts,-,-,-
+360,Pose (Matsyendra's) ⟮-⟯ [-] ⟨-⟩ ⧼Sitting⧽,Matsyendra's Pose,"Lord of the Fishes, Matsyendrasana, मत्स्येन्द्रासन",Sitting,Pose,Pose,Matsyendra's,-,-,-
+320,Mountain (-) ⟮-⟯ [-] ⟨-⟩ ⧼Standing⧽,Mountain,"Tadasana, ताडासन",Standing,,Mountain,-,-,-,-
+306,Noose (-) ⟮-⟯ [-] ⟨-⟩ ⧼Squatting⧽,Noose,"Pashasana, पाशासन",Squatting,,Noose,-,-,-,-
+15,Split (Over) ⟮-⟯ [-] ⟨-⟩ ⧼Sitting⧽,Over Split,Oversplit,Sitting,Split,Split,Over,-,-,-
+142,Military (Parade Rest) ⟮-⟯ [-] ⟨-⟩ ⧼Standing⧽,Parade Rest Military,Parade Rest Soldier,Standing,,Military,Parade Rest,-,-,-
+195,Standing (-) ⟮-⟯ [Parallel Legs] ⟨-⟩ ⧼Standing⧽,Parallel Legs Standing,,Standing,,Standing,-,-,Parallel Legs,-
+165,Bent (Partial) ⟮-⟯ [-] ⟨-⟩ ⧼Bending⧽,Partial Bent,,Bending,,Bent,Partial,-,-,-
+72,Lunge (Partial) ⟮Lateral⟯ [-] ⟨-⟩ ⧼Lunging⧽,Partial Lateral Lunge,Side Lunge,Lunging,,Lunge,Partial,Lateral,-,-
+163,Lunge (Partial) ⟮-⟯ [-] ⟨-⟩ ⧼Lunging⧽,Partial Lunge,,Lunging,,Lunge,Partial,-,-,-
+65,Squatting (Partial) ⟮-⟯ [-] ⟨-⟩ ⧼Squatting⧽,Partial Squatting,,Squatting,,Squatting,Partial,-,-,-
+361,Peacock (-) ⟮-⟯ [-] ⟨-⟩ ⧼Balancing⧽,Peacock,"Mayurasana, मयूरासन",Balancing,,Peacock,-,-,-,-
+355,Pendant (-) ⟮-⟯ [-] ⟨-⟩ ⧼Balancing⧽,Pendant,"Lolasana, लोलासन",Balancing,,Pendant,-,-,-,-
+349,Pigeon (-) ⟮-⟯ [-] ⟨-⟩ ⧼Kneeling⧽,Pigeon,"Kapotasana, कपोतासन",Kneeling,,Pigeon,-,-,-,-
+8,Jumping (Pike) ⟮-⟯ [-] ⟨-⟩ ⧼Suspended⧽,Pike Jumping,Pike Jump,Suspended,,Jumping,Pike,-,-,-
+258,Planche (-) ⟮-⟯ [-] ⟨-⟩ ⧼Balancing⧽,Planche,,Balancing,,Planche,-,-,-,-
+53,Plank (-) ⟮-⟯ [-] ⟨-⟩ ⧼Crawling⧽,Plank,Low Plank,Crawling,,Plank,-,-,-,-
+345,Plough (-) ⟮-⟯ [-] ⟨-⟩ ⧼Inversion⧽,Plough,"Halasana, हलासन",Inversion,,Plough,-,-,-,-
+9,Arch (-) ⟮Prone⟯ [-] ⟨-⟩ ⧼Lying⧽,Prone Arch,,Lying,,Arch,-,Prone,-,-
+138,Lying (-) ⟮Prone⟯ [-] ⟨-⟩ ⧼Lying⧽,Prone Lying,,Lying,,Lying,-,Prone,-,-
+116,Prostration (-) ⟮-⟯ [-] ⟨-⟩ ⧼Crawling⧽,Prostration,Prostrating,Crawling,Gesture,Prostration,-,-,-,-
+12,Standing (-) ⟮-⟯ [Raised Arms] ⟨-⟩ ⧼Standing⧽,Raised Arms Standing,Hasta Uttanasana,Standing,,Standing,-,-,Raised Arms,-
+161,Lying (-) ⟮Lateral⟯ [Raised Knee] ⟨-⟩ ⧼Lying⧽,Raised Knee Lateral Lying,Clamshell,Lying,,Lying,-,Lateral,Raised Knee,-
+178,Lying (-) ⟮Prone⟯ [Raised Knee] ⟨-⟩ ⧼Lying⧽,Raised Knee Prone Lying,,Lying,,Lying,-,-,Raised Knee,-
+286,Fowler (High) ⟮Reverse⟯ [Raised Knee] ⟨-⟩ ⧼Sitting⧽,Raised Knee Reverse High Fowler,,Sitting,,Fowler,High,Reverse,Raised Knee,-
+287,Fowler (Low) ⟮Reverse⟯ [Raised Knee] ⟨-⟩ ⧼Sitting⧽,Raised Knee Reverse Low Fowler,,Sitting,,Fowler,Low,Reverse,Raised Knee,-
+285,Fowler (Semi) ⟮Reverse⟯ [Raised Knee] ⟨-⟩ ⧼Sitting⧽,Raised Knee Reverse Semi Fowler,,Sitting,,Fowler,Semi,Reverse,Raised Knee,-
+271,Fowler (Semi) ⟮-⟯ [Raised Knee] ⟨-⟩ ⧼Sitting⧽,Raised Knee Semi Fowler,,Sitting,,Fowler,Semi,-,Raised Knee,-
+158,Lying (-) ⟮Supine⟯ [Raised Knee] ⟨-⟩ ⧼Lying⧽,Raised Knee Supine Lying,,Lying,,Lying,-,Supine,Raised Knee,-
+264,Boat (-) ⟮-⟯ [Raised Knees] ⟨-⟩ ⧼Balancing⧽,Raised Knees Boat,,Balancing,,Boat,-,-,Raised Knees,-
+260,Fowler (High) ⟮-⟯ [Raised Knees] ⟨-⟩ ⧼Sitting⧽,Raised Knees High Fowler,,Sitting,,Fowler,High,-,Raised Knees,-
+171,Lying (-) ⟮Prone⟯ [Raised Knees] ⟨-⟩ ⧼Lying⧽,Raised Knees Prone Lying,,Lying,,Lying,-,-,Raised Knees,-
+289,Fowler (High) ⟮Reverse⟯ [Raised Knees] ⟨-⟩ ⧼Sitting⧽,Raised Knees Reverse High Fowler,,Sitting,,Fowler,High,Reverse,Raised Knees,-
+290,Fowler (Low) ⟮Reverse⟯ [Raised Knees] ⟨-⟩ ⧼Sitting⧽,Raised Knees Reverse Low Fowler,,Sitting,,Fowler,Low,Reverse,Raised Knees,-
+288,Fowler (Semi) ⟮Reverse⟯ [Raised Knees] ⟨-⟩ ⧼Sitting⧽,Raised Knees Reverse Semi Fowler,,Sitting,,Fowler,Semi,Reverse,Raised Knees,-
+261,Fowler (Semi) ⟮-⟯ [Raised Knees] ⟨-⟩ ⧼Sitting⧽,Raised Knees Semi Fowler,,Sitting,,Fowler,Semi,-,Raised Knees,-
+156,Lying (-) ⟮Supine⟯ [Raised Knees] ⟨-⟩ ⧼Lying⧽,Raised Knees Supine Lying,,Lying,,Lying,-,Supine,Raised Knees,-
+162,Lying (-) ⟮Lateral⟯ [Raised Leg] ⟨-⟩ ⧼Lying⧽,Raised Leg Lateral Lying,,Lying,,Lying,-,Lateral,Raised Leg,-
+159,Lying (-) ⟮Supine⟯ [Raised Leg] ⟨-⟩ ⧼Lying⧽,Raised Leg Supine Lying,,Lying,,Lying,-,Supine,Raised Leg,-
+176,Bridge (-) ⟮-⟯ [Raised Legs] ⟨-⟩ ⧼Inversion⧽,Raised Legs Bridge,,Inversion,,Bridge,-,-,Raised Legs,-
+262,Fowler (High) ⟮-⟯ [Raised Legs] ⟨-⟩ ⧼Sitting⧽,Raised Legs High Fowler,,Sitting,,Fowler,High,-,Raised Legs,-
+170,Lying (-) ⟮Prone⟯ [Raised Legs] ⟨-⟩ ⧼Lying⧽,Raised Legs Prone Lying,,Lying,,Lying,-,-,Raised Legs,-
+263,Fowler (Semi) ⟮-⟯ [Raised Legs] ⟨-⟩ ⧼Sitting⧽,Raised Legs Semi Fowler,,Sitting,,Fowler,Semi,-,Raised Legs,-
+157,Lying (-) ⟮Supine⟯ [Raised Legs] ⟨-⟩ ⧼Lying⧽,Raised Legs Supine Lying,,Lying,,Lying,-,Supine,Raised Legs,-
+73,Lunge (-) ⟮Rear⟯ [-] ⟨-⟩ ⧼Lunging⧽,Rear Lunge,,Lunging,,Lunge,-,Rear,-,-
+143,Recovery (-) ⟮-⟯ [-] ⟨-⟩ ⧼Lying⧽,Recovery,,Lying,Medical,Recovery,-,-,-,-
+126,Riding (Relaxed) ⟮-⟯ [-] ⟨-⟩ ⧼Straddling⧽,Relaxed Riding,,Straddling,,Riding,Relaxed,-,-,-
+182,Bent (-) ⟮Reverse⟯ [-] ⟨-⟩ ⧼Bending⧽,Reverse Bent,,Bending,,Bent,-,Reverse,-,-
+232,Child (-) ⟮-⟯ [-] ⟨-⟩ ⧼Kneeling⧽,Reverse Child,,Kneeling,,Child,-,Reverse,-,-
+110,Hanging (-) ⟮Reverse⟯ [-] ⟨-⟩ ⧼Hanging⧽,Reverse Hanging,,Hanging,,Hanging,-,Reverse,-,-
+52,Plank (High) ⟮Reverse⟯ [-] ⟨-⟩ ⧼Crawling⧽,Reverse High Plank,,Crawling,,Plank,High,Reverse,-,-
+60,Fowler (Low) ⟮Reverse⟯ [-] ⟨-⟩ ⧼Sitting⧽,Reverse Low Fowler,,Sitting,,Fowler,Low,Reverse,-,-
+259,Planche (-) ⟮Reverse⟯ [-] ⟨-⟩ ⧼Balancing⧽,Reverse Planche,,Balancing,,Planche,-,Reverse,-,-
+62,Fowler (Semi) ⟮Reverse⟯ [-] ⟨-⟩ ⧼Sitting⧽,Reverse Semi Fowler,,Sitting,,Fowler,Semi,Reverse,-,-
+112,Suspended (-) ⟮Reverse⟯ [-] ⟨-⟩ ⧼Suspended⧽,Reverse Suspended,,Suspended,,Suspended,-,Reverse,-,-
+30,Table Top (-) ⟮Reverse⟯ [-] ⟨-⟩ ⧼Crawling⧽,Reverse Table Top,"Crab, Ardha Purvottanasana",Crawling,,Table Top,-,Reverse,-,-
+297,Warrior (-) ⟮Reverse⟯ [-] ⟨-⟩ ⧼Standing⧽,Reverse Warrior,"Reversed Warrior, Viparita Virabhadrasana, विपरीतवीरभद्रासन",Standing,,Warrior,-,Reverse,-,-
+119,Rose (-) ⟮Supine⟯ [-] ⟨-⟩ ⧼Lying⧽,Rose,Rose,Lying,Medical,Rose,-,Supine,-,-
+243,Running (-) ⟮-⟯ [-] ⟨-⟩ ⧼Running⧽,Running,,Running,,Running,-,-,-,-
+141,Military (Salute) ⟮-⟯ [-] ⟨-⟩ ⧼Standing⧽,Salute Military,Salute Soldier,Standing,,Military,Salute,-,-,-
+323,Scales (-) ⟮-⟯ [-] ⟨-⟩ ⧼Balancing⧽,Scales,"Balance, Tulasana, तुलासन",Balancing,,Scales,-,-,-,-
+303,Scorpion (-) ⟮-⟯ [-] ⟨-⟩ ⧼Inversion⧽,Scorpion,"Vrischikasana, वृश्चिकासन",Inversion,,Scorpion,-,-,-,-
+307,Bent (Seated) ⟮Forward⟯ [-] ⟨-⟩ ⧼Sitting⧽,Seated Forward Bent,"Paschimottanasana, पश्चिमोत्तानासन",Sitting,,Bent,Seated,Forward,-,-
+90,Slouching (-) ⟮-⟯ [Seated] ⟨-⟩ ⧼Sitting⧽,Seated Slouching,,Sitting,,Slouching,-,-,Seated,-
+331,Twist (Seated) ⟮-⟯ [-] ⟨-⟩ ⧼Kneeling⧽,Seated Twist,"Bharadvaja's Twist, Bharadvajasana, भरद्वाजासन",Kneeling,,Twist,Seated,-,-,-
+58,Fowler (Semi) ⟮-⟯ [-] ⟨-⟩ ⧼Sitting⧽,Semi Fowler,45 Degree Fowler,Sitting,,Fowler,Semi,-,-,-
+343,Shoelace (-) ⟮-⟯ [-] ⟨-⟩ ⧼Sitting⧽,Shoelace,"Cow-faced, Gomukhasana, गोमुखासन",Sitting,Meditation,Shoelace,-,-,-,-
+257,Running (Short Stride) ⟮-⟯ [-] ⟨-⟩ ⧼Running⧽,Short Stride Running,,,,,,,,
+256,Walking (Short Stride) ⟮-⟯ [-] ⟨-⟩ ⧼Walking⧽,Short Stride Walking,,,,,,,,
+312,Shoulderstand (-) ⟮-⟯ [-] ⟨-⟩ ⧼Balancing⧽,Shoulderstand,"Shoulder Stand, Sarvangasana, सालम्बसर्वाङ्गासन",Balancing,,Shoulderstand,-,-,-,-
+367,Side Angle (-) ⟮-⟯ [-] ⟨-⟩ ⧼Standing⧽,Side Angle,"Parshvakonasana, पार्श्वकोणासन",Standing,,Side Angle,-,-,-,-
+113,Sims (-) ⟮Lateral⟯ [-] ⟨-⟩ ⧼Lying⧽,Sims,,Lying,Sleeping,Sims,-,Lateral,-,-
+133,Kneeling (Sit) ⟮-⟯ [-] ⟨-⟩ ⧼Kneeling⧽,Sit Kneeling,"Virasana, Hero's Pose",Kneeling,,Kneeling,Sit,-,-,-
+63,Sitting (-) ⟮-⟯ [-] ⟨-⟩ ⧼Sitting⧽,Sitting,,Sitting,,Sitting,-,-,-,-
+335,Snail (-) ⟮-⟯ [-] ⟨-⟩ ⧼Balancing⧽,Snail,"Arm Pressing Posture, Bhujapidasana, भुजपीडासन",Balancing,,Snail,-,-,-,-
+6,Jumping (-) ⟮-⟯ [Split] ⟨-⟩ ⧼Suspended⧽,Split Jumping,Split Jump,Suspended,,Jumping,-,-,Split,-
+70,Squatting (-) ⟮-⟯ [Split] ⟨-⟩ ⧼Squatting⧽,Split Squatting,,Squatting,,Squatting,-,-,Split,-
+67,Squatting (-) ⟮-⟯ [-] ⟨-⟩ ⧼Squatting⧽,Squatting,,Squatting,,Squatting,-,-,-,-
+338,Staff (-) ⟮-⟯ [-] ⟨-⟩ ⧼Sitting⧽,Staff,"Dandasana, दण्डासन",Sitting,,Staff,-,-,-,-
+86,Standing (-) ⟮-⟯ [-] ⟨-⟩ ⧼Standing⧽,Standing,,Standing,,Standing,-,-,-,-
+129,Starfish (-) ⟮-⟯ [-] ⟨-⟩ ⧼Lying⧽,Starfish,,Lying,Sleeping,Starfish,-,-,-,-
+251,Running (Static) ⟮-⟯ [-] ⟨-⟩ ⧼Running⧽,Static Running,,Running,,Running,Static,-,-,-
+250,Walking (Static) ⟮-⟯ [-] ⟨-⟩ ⧼Walking⧽,Static Walking,,Walking,,Walking,Static,-,-,-
+7,Jumping (-) ⟮-⟯ [Straddle] ⟨-⟩ ⧼Suspended⧽,Straddle Jumping,Straddle Jump,Suspended,,Jumping,-,-,Straddle,-
+50,Planche (-) ⟮-⟯ [Straddle] ⟨-⟩ ⧼Balancing⧽,Straddle Planche,,Balancing,,Planche,-,-,Straddle,-
+179,Straddling (-) ⟮-⟯ [-] ⟨-⟩ ⧼Straddling⧽,Straddling,,Straddling,,Straddling,-,-,-,-
+33,Sitting (-) ⟮-⟯ [Straight Knees] ⟨-⟩ ⧼Sitting⧽,Straight Knees Sitting,,Sitting,,Sitting,-,-,Straight Knees,-
+255,Running (Stride) ⟮-⟯ [-] ⟨-⟩ ⧼Running⧽,Stride Running,,,,,,,,
+254,Walking (Stride) ⟮-⟯ [-] ⟨-⟩ ⧼Walking⧽,Stride Walking,,,,,,,,
+318,Sun Salutation (-) ⟮-⟯ [-] ⟨-⟩ ⧼Standing⧽,Sun Salutation,"Salute to the Sun, Surya Namaskar, सुर्य नमस्कार",Standing,,Sun Salutation,-,-,-,-
+11,Hollow (-) ⟮Supine⟯ [-] ⟨-⟩ ⧼Lying⧽,Supine Hollow,,Lying,,Hollow,-,Supine,-,-
+137,Lying (-) ⟮Supine⟯ [-] ⟨-⟩ ⧼Lying⧽,Supine Lying,,Lying,,Lying,-,Supine,-,-
+125,Eagle (Spread) ⟮Supine⟯ [-] ⟨-⟩ ⧼Lying⧽,Supine Spread Eagle,"Spreadeagle, Spread-Eagle",Lying,,Eagle,Spread,Supine,-,-
+200,Bent (-) ⟮-⟯ [1 Leg] ⟨-⟩ ⧼Bending⧽,Supported 1 Leg Bent,,Bending,,Bent,-,-,1 Leg,Supported
+273,Boat (-) ⟮-⟯ [-] ⟨Supported⟩ ⧼Balancing⧽,Supported Boat,,Balancing,,Boat,-,-,-,Supported
+24,Headstand (Half) ⟮-⟯ [-] ⟨Supported⟩ ⧼Headstand⧽,Supported Half Headstand,,Balancing,,Headstand,Half,-,-,Supported
+88,Suspended (-) ⟮-⟯ [-] ⟨-⟩ ⧼Suspended⧽,Suspended,,Suspended,,Suspended,-,-,-,-
+216,Plank (High) ⟮-⟯ [Suspended] ⟨-⟩ ⧼Suspended⧽,Suspended High Plank,,Suspended,,Plank,High,-,Suspended,-
+215,Plank (Low) ⟮-⟯ [Suspended] ⟨-⟩ ⧼Suspended⧽,Suspended Low Plank,,Suspended,,Plank,Low,-,Suspended,-
+44,Split (Over) ⟮-⟯ [Suspended] ⟨-⟩ ⧼Suspended⧽,Suspended Over Split,Suspended Oversplit,Suspended,Split,Split,Over,-,Suspended,-
+19,Split (-) ⟮-⟯ [Suspended] ⟨-⟩ ⧼Suspended⧽,Suspended Split,,Suspended,Split,Split,-,-,Suspended,-
+31,Table Top (-) ⟮-⟯ [-] ⟨-⟩ ⧼Crawling⧽,Table Top,Bharmanasana,Crawling,,Table Top,-,-,-,-
+149,Thrust (-) ⟮-⟯ [-] ⟨-⟩ ⧼Bending⧽,Thrust,,Bending,,Thrust,-,-,-,-
+294,Thunderbolt (-) ⟮-⟯ [-] ⟨-⟩ ⧼Kneeling⧽,Thunderbolt,"Vajrasana, वज्रासन",Kneeling,Meditation,Thunderbolt,-,-,-,-
+354,Tortoise (-) ⟮-⟯ [-] ⟨-⟩ ⧼Sitting⧽,Tortoise,"Kurmasana, कूर्मासन",Sitting,,Tortoise,-,-,-,-
+302,Tree (-) ⟮-⟯ [-] ⟨-⟩ ⧼Balancing⧽,Tree,"Vrikshasana, वृक्षासन",Balancing,,Tree,-,-,-,-
+322,Triangle (-) ⟮-⟯ [-] ⟨-⟩ ⧼Standing⧽,Triangle,"Trikonasana, Utthita Trikonasana, त्रिकोणासन, उत्थित त्रिकोणासन",Standing,,Triangle,-,-,-,-
+145,Tripod (-) ⟮-⟯ [-] ⟨-⟩ ⧼Sitting⧽,Tripod,,Sitting,Medical,Tripod,-,-,-,-
+23,Headstand (Tripod) ⟮-⟯ [-] ⟨-⟩ ⧼Headstand⧽,Tripod Headstand,,Balancing,,Headstand,Tripod,-,-,-
+5,Jumping (Tuck) ⟮-⟯ [-] ⟨-⟩ ⧼Suspended⧽,Tuck Jumping,Tuck Jump,Suspended,,Jumping,Tuck,-,-,-
+46,Planche (Tucked) ⟮-⟯ [-] ⟨-⟩ ⧼Balancing⧽,Tucked Planche,,Balancing,,Planche,Tucked,-,-,-
+41,Split (Twist) ⟮-⟯ [-] ⟨-⟩ ⧼Standing⧽,Twist Split,"Twisting Split, Standing Twist Split, Standing Twisting Split",Standing,Split,Split,Twist,-,-,-
+164,Bent (Twisted) ⟮-⟯ [-] ⟨-⟩ ⧼Bending⧽,Twisted Bent,,Bending,,Bent,Twisted,-,-,-
+16,Split (-) ⟮Front⟯ [Upright] ⟨-⟩ ⧼Standing⧽,Upright Front Split,,Standing,Split,Split,-,Front,Upright,-
+40,Split (-) ⟮Lateral⟯ [Upright] ⟨-⟩ ⧼Standing⧽,Upright Lateral Split,"Trivikramasana, त्रिविक्रमासन",Standing,Split,Split,-,Lateral,Upright,-
+43,Split (Martial Arts) ⟮-⟯ [Upright] ⟨-⟩ ⧼Standing⧽,Upright Martial Arts Split,"Standing Martial Arts Split, Vertical Side Kick",Standing,Split,Split,Martial Arts,-,Upright,-
+42,Split (-) ⟮Rear⟯ [Upright] ⟨-⟩ ⧼Standing⧽,Upright Rear Split,,Standing,Split,Split,-,Rear,Upright,-
+94,Slouching (-) ⟮-⟯ [Upright] ⟨-⟩ ⧼Standing⧽,Upright Slouching,,Standing,,Slouching,-,-,Upright,-
+45,Eagle (Spread) ⟮-⟯ [Upright] ⟨-⟩ ⧼Standing⧽,Upright Spread Eagle,,Standing,,Eagle,Spread,-,Upright,-
+326,Dog (-) ⟮Upward⟯ [-] ⟨-⟩ ⧼Lying⧽,Upward Dog,"Upward Facing Dog, Urdhva Mukha Shvanasana, ऊर्ध्वमुखश्वानासन",Lying,,Dog,-,Upward,-,-
+132,Jumping (-) ⟮Vertical⟯ [-] ⟨-⟩ ⧼Suspended⧽,Vertical Jumping,Vertical Jump,Suspended,,Jumping,-,Vertical,-,-
+134,Kneeling (Vertical) ⟮-⟯ [-] ⟨-⟩ ⧼Kneeling⧽,Vertical Kneeling,,Kneeling,,Kneeling,Vertical,-,-,-
+144,Vertico Submental (-) ⟮-⟯ [-] ⟨-⟩ ⧼Lying⧽,Vertico Submental,Verticosubmental,Lying,Medical,Vertico Submental,-,-,-,-
+93,Riding (Very Relaxed) ⟮-⟯ [-] ⟨-⟩ ⧼Straddling⧽,Very Relaxed Riding,Fitness Riding,Straddling,,Riding,Very Relaxed,-,-,-
+242,Walking (-) ⟮-⟯ [-] ⟨-⟩ ⧼Walking⧽,Walking,,Walking,,Walking,-,-,-,-
+298,Warrior (I) ⟮-⟯ [-] ⟨-⟩ ⧼Standing⧽,Warrior I,"Warrior 1, Virabhadrasana I, वीरभद्रासन",Standing,,Warrior,-,-,-,-
+299,Warrior (II) ⟮-⟯ [-] ⟨-⟩ ⧼Standing⧽,Warrior II,"Warrior 2, Virabhadrasana II, वीरभद्रासन II",Standing,,Warrior,-,-,-,-
+300,Warrior (III) ⟮-⟯ [-] ⟨-⟩ ⧼Standing⧽,Warrior III,"Warrior 3, Virabhadrasana III, वीरभद्रासन III",Standing,,Warrior,-,-,-,-
+325,Wheel (-) ⟮-⟯ [-] ⟨-⟩ ⧼Inversion⧽,Wheel,"Upwards Facing Bow, Urdhva Dhanurasana, Chakrasana, ऊर्ध्वधनुरासन, चक्रासन",Inversion,,Wheel,-,-,-,-
+309,Bent (-) ⟮Forward⟯ [Wide Stance] ⟨-⟩ ⧼Bending⧽,Wide Stance Forward Bend,"Prasarita Padottanasana, प्रसारित पादोत्तानासन",Bending,,Bent,-,Forward,Wide Stance,-
+128,Yearner (-) ⟮Lateral⟯ [-] ⟨-⟩ ⧼Lying⧽,Yearner,,Lying,Sleeping,Yearner,-,Lateral,-,-
+304,Yogic Sleep (-) ⟮Supine⟯ [-] ⟨-⟩ ⧼Lying⧽,Yogic Sleep,"Noose Mudra, Yoganidrasana, Pasini Mudra, योगनिद्रासन",Lying,,Yogic Sleep,-,Supine,-,-

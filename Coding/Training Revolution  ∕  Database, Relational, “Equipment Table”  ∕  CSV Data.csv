@@ -1,0 +1,306 @@
+﻿equipment_id,equipment_decoding,equipment_name,equipment_aliases,equipment_category,equipment_subcategory,equipment_type,equipment_variation,equipment_mechanism,equipment_configuration,equipment_inclination
+144,"""Type"" (Variation) ⟮Mechanism⟯ [Configuration] ⟨Inclination⟩ ⧼Category⧽","""Template""",,,,,,,,
+199,Bench (Hyperextension) ⟮-⟯ [-] ⟨45 Degree⟩ ⧼Stand⧽,45 Degree Hyperextension Bench,,Stand,,Bench,Hyperextension,-,-,45 Degree
+200,Bench (Hyperextension) ⟮-⟯ [-] ⟨90 Degree⟩ ⧼Stand⧽,90 Degree Hyperextension Bench,,Stand,,Bench,Hyperextension,-,-,90 Degree
+252,Ab Rocker (-) ⟮-⟯ [-] ⟨-⟩ ⧼Apparatus⧽,Ab Rocker,,Apparatus,,Ab Rocker,-,-,-,-
+283,Straps (Ab) ⟮-⟯ [-] ⟨-⟩ ⧼Gear⧽,Ab Straps,,Gear,,Straps,Ab,-,-,-
+99,Roller (Ab Wheel) ⟮-⟯ [-] ⟨-⟩ ⧼Apparatus⧽,Ab Wheel Roller,"Abdominal Roller Wheel, Abdominal Rollout Wheel, Ab Roller, Ab Rollout Wheel, Roll Wheel, Ab Wheel",Apparatus,,Roller,Ab Wheel,-,-,-
+192,Bench (Abdominal) ⟮-⟯ [-] ⟨-⟩ ⧼Stand⧽,Abdominal Bench,"Ab Bench, Crunch Bench, Sit Up Bench, Declined Bench, Abdominal Board, Crunch Board",Stand,,Bench,Abdominal,-,-,-
+31,Machine (Adaptive Motion Trainer) ⟮-⟯ [-] ⟨-⟩ ⧼Cardio Machine⧽,Adaptive Motion Trainer Machine,AMT,Cardio Machine,,Machine,Adaptive Motion Trainer,-,-,-
+8,Dumbbell (-) ⟮Adjustable⟯ [-] ⟨-⟩ ⧼Free Weight⧽,Adjustable Dumbbell,Adjustable Weight Dumbbell,Free Weight,,Dumbbell,-,Adjustable,-,-
+224,Dumbbell (-) ⟮Adjustable⟯ [-] ⟨-⟩ ⧼Free Weight⧽,Adjustable Dumbbells,,,,,,,,
+256,Bench (Hyperextension) ⟮Adjustable⟯ [-] ⟨-⟩ ⧼Stand⧽,Adjustable Hyperextension Bench,,Stand,,Bench,Hyperextension,Adjustable,-,-
+17,Kettlebell (-) ⟮Adjustable⟯ [-] ⟨-⟩ ⧼Free Weight⧽,Adjustable Kettlebell,Adjustable Weight Kettlebell,Free Weight,,Kettlebell,-,Adjustable,-,-
+225,Kettlebells (-) ⟮Adjustable⟯ [-] ⟨-⟩ ⧼Free Weight⧽,Adjustable Kettlebells,,,,,,,,
+141,Hurdle (Agility) ⟮-⟯ [-] ⟨-⟩ ⧼Apparatus⧽,Agility Hurdle,,Apparatus,,Hurdle,Agility,-,-,-
+20,Ladder (Agility) ⟮-⟯ [-] ⟨-⟩ ⧼Apparatus⧽,Agility Ladder,,Apparatus,,Ladder,Agility,-,-,-
+2,Bike (Air) ⟮-⟯ [-] ⟨-⟩ ⧼Cardio Machine⧽,Air Bike,Air Stationary Bike,Cardio Machine,,Bike,Air,-,-,-
+26,Machine (Rowing) ⟮Air⟯ [-] ⟨-⟩ ⧼Cardio Machine⧽,Air Rowing Machine,"Air Row Machine, Air Rower Machine",Cardio Machine,,Machine,Rowing,Air,-,-
+140,Machine (Air Walker) ⟮-⟯ [-] ⟨-⟩ ⧼Cardio Machine⧽,Air Walker Machine,,Cardio Machine,,Machine,Air Walker,-,-,-
+151,Anchor (-) ⟮-⟯ [-] ⟨-⟩ ⧼Attachment⧽,Anchor,,Attachment,,Anchor,-,-,-,-
+150,Anchor (Strap) ⟮-⟯ [-] ⟨-⟩ ⧼Attachment⧽,Anchor Strap,,Attachment,,Anchor,Strap,-,-,-
+167,Strap (Ankle) ⟮-⟯ [-] ⟨-⟩ ⧼Gear⧽,Ankle Strap,,Gear,,Strap,Ankle,-,-,-
+243,Straps (Ankle) ⟮-⟯ [-] ⟨-⟩ ⧼Gear⧽,Ankle Straps,,Gear,,Straps,Ankle,-,-,-
+32,Machine (Arc Trainer) ⟮-⟯ [-] ⟨-⟩ ⧼Cardio Machine⧽,Arc Trainer Machine,,Cardio Machine,,Machine,Arc Trainer,-,-,-
+131,Arm Blaster (-) ⟮-⟯ [-] ⟨-⟩ ⧼Gear⧽,Arm Blaster,"Bicep Vest, Curl Vest",Gear,,Arm Blaster,-,-,-,-
+171,Board (Balance) ⟮-⟯ [-] ⟨-⟩ ⧼Stand⧽,Balance Board,"Wobble Board, Wobble Balance Board",Stand,,Board,Balance,-,-,-
+217,Bar (Band) ⟮-⟯ [-] ⟨-⟩ ⧼Apparatus⧽,Band Bar,Resistance Band Bar,Apparatus,,Bar,Band,-,-,-
+231,Footplate (Band) ⟮-⟯ [-] ⟨-⟩ ⧼Stand⧽,Band Footplate,Resistance Band Footplate,Stand,,Footplate,Band,-,-,-
+232,Handle (Band) ⟮-⟯ [-] ⟨-⟩ ⧼Attachment⧽,Band Handle,,Attachment,,Handle,Band,-,-,-
+233,Handles (Band) ⟮-⟯ [-] ⟨-⟩ ⧼Attachment⧽,Band Handles,,Attachment,,Handles,Band,-,-,-
+106,Rack (Bar) ⟮-⟯ [-] ⟨-⟩ ⧼Storage⧽,Bar Rack,"Barbell Stand, Barbell Stand, Bar Rack, Barbell Rack",Storage,,Rack,Bar,-,-,-
+285,Barbell (-) ⟮-⟯ [-] ⟨-⟩ ⧼Free Weight⧽,Barbell,,Free Weight,,Barbell,-,-,-,-
+148,Anchor (Barbell) ⟮-⟯ [-] ⟨-⟩ ⧼Attachment⧽,Barbell Anchor,"Barbell Landmine Anchor, Barbell Landmine Attachment",Attachment,,Anchor,Barbell,-,-,-
+101,Rope (Battle) ⟮-⟯ [-] ⟨-⟩ ⧼Free Weight⧽,Battle Rope,,Free Weight,,Rope,Battle,-,-,-
+98,Pad (Beam) ⟮-⟯ [-] ⟨-⟩ ⧼Apparatus⧽,Beam Pad,,Apparatus,,Pad,Beam,-,-,-
+206,Bench (Press) ⟮-⟯ [-] ⟨-⟩ ⧼Stand⧽,Bench Press,Weight Bench,Stand,,Bench,Press,-,-,-
+284,Bodyweight (-) ⟮-⟯ [-] ⟨-⟩ ⧼Bodyweight⧽,Bodyweight,,Bodyweight,,Bodyweight,-,-,-,-
+222,Ball (Bosu) ⟮-⟯ [-] ⟨-⟩ ⧼Apparatus⧽,Bosu Ball,Balance Ball,Apparatus,,Ball,Bosu,-,-,-
+145,Gloves (Boxing) ⟮-⟯ [-] ⟨-⟩ ⧼Gear⧽,Boxing Gloves,,Gear,,Gloves,Boxing,-,-,-
+23,Machine (Crossover) ⟮Cable⟯ [-] ⟨-⟩ ⧼Weight Machine⧽,Cable Crossover Machine,Crossover Functional Trainer,Weight Machine,,Machine,Crossover,Cable,-,-
+24,Machine (Lat Pulldown) ⟮Cable⟯ [-] ⟨-⟩ ⧼Weight Machine⧽,Cable Lat Pulldown Machine,,Weight Machine,,Machine,Lat Pulldown,Cable,-,-
+22,Machine (-) ⟮Cable⟯ [-] ⟨-⟩ ⧼Weight Machine⧽,Cable Machine,Functional Trainer,Weight Machine,,Machine,-,Cable,-,-
+25,Machine (Pulley) ⟮Cable⟯ [-] ⟨-⟩ ⧼Weight Machine⧽,Cable Pulley Machine,,Weight Machine,,Machine,Pulley,Cable,-,-
+14,Gloves (Calisthenics) ⟮-⟯ [-] ⟨-⟩ ⧼Gear⧽,Calisthenics Gloves,,Gear,,Gloves,Calisthenics,-,-,-
+280,Machine (Cardio Wave) ⟮-⟯ [-] ⟨-⟩ ⧼Cardio Machine⧽,Cardio Wave Machine,,Cardio Machine,,Machine,Cardio Wave,-,-,-
+180,Bar (Pull Up) ⟮-⟯ [Ceiling Mount] ⟨-⟩ ⧼Apparatus⧽,Ceiling Mount Pull Up Bar,Ceiling Mount Chin Up Bar,Apparatus,,Bar,Pull Up,-,Ceiling Mount,-
+215,Chair (-) ⟮-⟯ [-] ⟨-⟩ ⧼Stand⧽,Chair,,Stand,,Chair,-,-,-,-
+286,Chairs (-) ⟮-⟯ [-] ⟨-⟩ ⧼Stand⧽,Chairs,,Stand,,Chairs,-,-,-,-
+149,Anchor (Climbing) ⟮Bolt⟯ [-] ⟨-⟩ ⧼Attachment⧽,Climbing Anchor Bolt,,Attachment,,Anchor,Climbing,Bolt,-,-
+102,Rope (Climbing) ⟮-⟯ [-] ⟨-⟩ ⧼Apparatus⧽,Climbing Rope,,Apparatus,,Rope,Climbing,-,-,-
+248,Wall (Climbing) ⟮-⟯ [-] ⟨-⟩ ⧼Stand⧽,Climbing Wall,,Stand,,Wall,Climbing,-,-,-
+142,Cone (-) ⟮-⟯ [-] ⟨-⟩ ⧼Apparatus⧽,Cone,,Apparatus,,Cone,-,-,-,-
+126,Band (Loop) ⟮-⟯ [Consecutive] ⟨-⟩ ⧼Resistance Band⧽,Consecutive Loop Band,,Resistance Band,,Band,Loop,-,Consecutive,-
+133,Mat (Crash) ⟮-⟯ [-] ⟨-⟩ ⧼Apparatus⧽,Crash Mat,,Apparatus,,Mat,Crash,-,-,-
+35,Machine (Cross Trainer) ⟮-⟯ [-] ⟨-⟩ ⧼Cardio Machine⧽,Cross Trainer Machine,,Cardio Machine,,Machine,Cross Trainer,-,-,-
+164,Harness (Crunch) ⟮-⟯ [-] ⟨-⟩ ⧼Gear⧽,Crunch Harness,,Gear,,Harness,Crunch,-,-,-
+193,Bench (Abdominal) ⟮-⟯ [Curved] ⟨-⟩ ⧼Stand⧽,Curved Abdominal Bench,,Stand,,Bench,Abdominal,-,Curved,-
+113,Treadmill (-) ⟮-⟯ [Curved] ⟨-⟩ ⧼Cardio Machine⧽,Curved Treadmill,,Cardio Machine,,Treadmill,-,-,Curved,-
+241,Handle (D) ⟮-⟯ [-] ⟨-⟩ ⧼Attachment⧽,D Handle,Stirrup Handle,Attachment,,Handle,D,-,-,-
+132,Bar (D Handle) ⟮-⟯ [-] ⟨-⟩ ⧼Attachment⧽,D Handle Bar,Wide Grip D Handle Bar,Attachment,,Bar,D Handle,-,-,-
+302,Handles (D) ⟮-⟯ [-] ⟨-⟩ ⧼Attachment⧽,D Handles,,Attachment,,Handles,D,-,-,-
+146,Bench (-) ⟮-⟯ [-] ⟨Declined⟩ ⧼Stand⧽,Declined Bench,,Stand,,Bench,-,-,-,Declined
+207,Bench (Press) ⟮-⟯ [-] ⟨Declined⟩ ⧼Stand⧽,Declined Bench Press,,Stand,,Bench,Press,-,-,Declined
+204,Bench (Olympic) ⟮-⟯ [-] ⟨Declined⟩ ⧼Stand⧽,Declined Olympic Bench,,Stand,,Bench,Olympic,-,-,Declined
+178,Bar (Dip) ⟮-⟯ [-] ⟨-⟩ ⧼Apparatus⧽,Dip Bar,Parallel Bar,Apparatus,,Bar,Dip,-,-,-
+227,Bar (Dip) ⟮-⟯ [-] ⟨-⟩ ⧼Apparatus⧽,Dip Bars,,,,,,,,
+190,Belt (Dip) ⟮-⟯ [-] ⟨-⟩ ⧼Gear⧽,Dip Belt,,Gear,,Belt,Dip,-,-,-
+110,Station (Dip) ⟮-⟯ [-] ⟨-⟩ ⧼Apparatus⧽,Dip Station,"Dipping Station, Dip Tower, Dip Cage, Leg Raise Station, Leg Raise Tower, Pull Up & Dip Station",Apparatus,,Station,Dip,-,-,-
+181,Bar (Pull Up) ⟮-⟯ [Door Mount] ⟨-⟩ ⧼Apparatus⧽,Door Mount Pull Up Bar,Door Mount Chin Up Bar,Apparatus,,Bar,Pull Up,-,Door Mount,-
+237,Doorway (-) ⟮-⟯ [-] ⟨-⟩ ⧼Stand⧽,Doorway,,Stand,,Doorway,-,-,-,-
+160,Handle (D) ⟮-⟯ [Double] ⟨-⟩ ⧼Attachment⧽,Double D Handle,Close Grip Handle,Attachment,,Handle,D,-,Double,-
+172,Ball (Lacrosse) ⟮-⟯ [Double] ⟨-⟩ ⧼Apparatus⧽,Double Lacrosse Ball,,Apparatus,,Ball,Lacrosse,-,Double,-
+166,Rope (Tricep) ⟮-⟯ [Double] ⟨-⟩ ⧼Attachment⧽,Double Tricep Rope,,Attachment,,Rope,Tricep,-,Double,-
+116,Machine (Twister) ⟮-⟯ [Dual] ⟨-⟩ ⧼Flexibility Machine⧽,Dual Twister Machine,Lever Standing Dual Torso Rotation Machine,Flexibility Machine,,Machine,Twister,-,Dual,-
+287,Dumbbell (-) ⟮-⟯ [-] ⟨-⟩ ⧼Free Weight⧽,Dumbbell,,Free Weight,,Dumbbell,-,-,-,-
+107,Rack (Dumbbell) ⟮-⟯ [-] ⟨-⟩ ⧼Storage⧽,Dumbbell Rack,"Dumbbell Stand, Weight Rack",Storage,,Rack,Dumbbell,-,-,-
+288,Dumbbells (-) ⟮-⟯ [-] ⟨-⟩ ⧼Free Weight⧽,Dumbbells,,Free Weight,,Dumbbells,-,-,-,-
+36,Machine (Elliptical) ⟮-⟯ [-] ⟨-⟩ ⧼Cardio Machine⧽,Elliptical Machine,,Cardio Machine,,Machine,Elliptical,-,-,-
+12,Bar (EZ) ⟮-⟯ [-] ⟨-⟩ ⧼Free Weight⧽,EZ Bar,"EZ Curl Bar, Curl Bar",Free Weight,,Bar,EZ,-,-,-
+13,Barbell (EZ) ⟮-⟯ [-] ⟨-⟩ ⧼Free Weight⧽,EZ Barbell,"EZ Curl Barbell, Curl Barbell",Free Weight,,Barbell,EZ,-,-,-
+242,Handle (EZ) ⟮-⟯ [-] ⟨-⟩ ⧼Attachment⧽,EZ Handle,"Curl Bar, EZ Curl Handle, EZ Bar Handle, EZ Curl Bar Handle",Attachment,,Handle,EZ,-,-,-
+125,Band (Tube) ⟮-⟯ [Figure 8] ⟨-⟩ ⧼Resistance Band⧽,Figure 8 Tube Band,,Resistance Band,,Band,Tube,-,Figure 8,-
+143,Gripper (Finger) ⟮-⟯ [-] ⟨-⟩ ⧼Apparatus⧽,Finger Gripper,,Apparatus,,Gripper,Finger,-,-,-
+40,Machine (Abduction) ⟮Fixed⟯ [-] ⟨-⟩ ⧼Weight Machine⧽,Fixed Abduction Machine,"Abductor Machine, Leg Abduction Machine, Leg Abductor, Leg Abductor, Leg Abductor Machine",Weight Machine,,Machine,Abduction,Fixed,-,-
+41,Machine (Adduction) ⟮Fixed⟯ [-] ⟨-⟩ ⧼Weight Machine⧽,Fixed Adduction Machine,"Adductor Machine, Leg Adduction Machine, Leg Adductor, Leg Adductor, Leg Adductor Machine",Weight Machine,,Machine,Adduction,Fixed,-,-
+52,Machine (Dip) ⟮Fixed⟯ [-] ⟨Assisted⟩ ⧼Weight Machine⧽,Fixed Assisted Dip Machine,"Assisted Pull Up Machine, Assisted Chin Up Machine, Assisted Chin Machine",Weight Machine,,Machine,Dip,Fixed,-,Assisted
+267,Machine (Pull Up) ⟮Fixed⟯ [-] ⟨Assisted⟩ ⧼Weight Machine⧽,Fixed Assisted Pull Up Machine,,Weight Machine,,Machine,Pull Up,Fixed,-,Assisted
+42,Machine (Back Extension) ⟮Fixed⟯ [-] ⟨-⟩ ⧼Weight Machine⧽,Fixed Back Extension Machine,,Weight Machine,,Machine,Back Extension,Fixed,-,-
+250,Station (Abdominal & Back Extension) ⟮Fixed⟯ [-] ⟨-⟩ ⧼Weight Machine⧽,Fixed Back Extension Station,Fixed Abdominal Extension Station,Weight Machine,,Station,Abdominal & Back Extension,Fixed,-,-
+49,Machine (Bicep Curl) ⟮Fixed⟯ [-] ⟨-⟩ ⧼Weight Machine⧽,Fixed Bicep Curl Machine,,Weight Machine,,Machine,Bicep Curl,Fixed,-,-
+278,Machine (Bridge) ⟮Fixed⟯ [-] ⟨-⟩ ⧼Weight Machine⧽,Fixed Bridge Machine,Fixed Thrust Machine,Weight Machine,,Machine,Bridge,Fixed,-,-
+47,Machine (Crunch) ⟮Fixed⟯ [-] ⟨-⟩ ⧼Weight Machine⧽,Fixed Crunch Machine,"Ab Crunch Fixed Machine, Abdominal Fixed Machine, Ab Fixed Machine",Weight Machine,,Machine,Crunch,Fixed,-,-
+272,Machine (Donkey Calf) ⟮Fixed⟯ [-] ⟨-⟩ ⧼Weight Machine⧽,Fixed Donkey Calf Machine,,Weight Machine,,Machine,Donkey Calf,Fixed,-,-
+9,Dumbbell (-) ⟮Fixed⟯ [-] ⟨-⟩ ⧼Free Weight⧽,Fixed Dumbbell,Fixed Weight Dumbbell,Free Weight,,Dumbbell,-,Fixed,-,-
+223,Dumbbell (-) ⟮Fixed⟯ [-] ⟨-⟩ ⧼Free Weight⧽,Fixed Dumbbells,,,,,,,,
+55,Machine (Fly) ⟮Fixed⟯ [-] ⟨-⟩ ⧼Weight Machine⧽,Fixed Fly Machine,"Pec Deck Fly Fixed Machine, Pec Deck Fixed Machine, Butterfly Fixed Machine",Weight Machine,,Machine,Fly,Fixed,-,-
+253,Machine (Leg Curl) ⟮Fixed⟯ [-] ⟨-⟩ ⧼Weight Machine⧽,Fixed Horizontal Leg Curl Machine,,Weight Machine,,Machine,Leg Curl,Fixed,-,-
+263,Machine (Chest Press) ⟮Fixed⟯ [Sitting] ⟨Inclined⟩ ⧼Weight Machine⧽,Fixed Inclined Sitting Chest Press Machine,,Weight Machine,,Machine,Chest Press,Fixed,Sitting,Inclined
+18,Kettlebell (-) ⟮Fixed⟯ [-] ⟨-⟩ ⧼Free Weight⧽,Fixed Kettlebell,Fixed Weight Kettlebell,Free Weight,,Kettlebell,-,Fixed,-,-
+226,Kettlebells (-) ⟮Fixed⟯ [-] ⟨-⟩ ⧼Free Weight⧽,Fixed Kettlebells,,,,,,,,
+43,Machine (Kick Back) ⟮Fixed⟯ [-] ⟨-⟩ ⧼Weight Machine⧽,Fixed Kick Back Machine,"Butt Blaster Machine, Donkey Kick Machine",Weight Machine,,Machine,Kick Back,Fixed,-,-
+56,Machine (Lat Pulldown) ⟮Fixed⟯ [-] ⟨-⟩ ⧼Weight Machine⧽,Fixed Lat Pulldown Machine,,Weight Machine,,Machine,Lat Pulldown,Fixed,-,-
+51,Machine (Leg Curl) ⟮Fixed⟯ [-] ⟨-⟩ ⧼Weight Machine⧽,Fixed Leg Curl Machine,,Weight Machine,,Machine,Leg Curl,Fixed,-,-
+54,Machine (Leg Extension) ⟮Fixed⟯ [-] ⟨-⟩ ⧼Weight Machine⧽,Fixed Leg Extension Machine,,Weight Machine,,Machine,Leg Extension,Fixed,-,-
+251,Machine (Lower Abdominal) ⟮Fixed⟯ [-] ⟨-⟩ ⧼Weight Machine⧽,Fixed Lower Abdominal Machine,,Weight Machine,,Machine,Lower Abdominal,Fixed,-,-
+48,Machine (Preacher Curl) ⟮Fixed⟯ [-] ⟨-⟩ ⧼Weight Machine⧽,Fixed Preacher Curl Machine,Preacher Bicep Curl Machine,Weight Machine,,Machine,Preacher Curl,Fixed,-,-
+265,Machine (Pull Over) ⟮Fixed⟯ [-] ⟨-⟩ ⧼Weight Machine⧽,Fixed Pull Over Machine,,Weight Machine,,Machine,Pull Over,Fixed,-,-
+60,Machine (Rotary Torso) ⟮Fixed⟯ [-] ⟨-⟩ ⧼Weight Machine⧽,Fixed Rotary Torso Machine,,Weight Machine,,Machine,Rotary Torso,Fixed,-,-
+61,Machine (Rowing) ⟮Fixed⟯ [-] ⟨-⟩ ⧼Cardio Machine⧽,Fixed Rowing Machine,"Fixed Row Machine, Fixed Rower Machine",Cardio Machine,,Machine,Rowing,Fixed,-,-
+63,Machine (Shoulder Press) ⟮Fixed⟯ [-] ⟨-⟩ ⧼Weight Machine⧽,Fixed Shoulder Press Machine,,Weight Machine,,Machine,Shoulder Press,Fixed,-,-
+44,Machine (Calf) ⟮Fixed⟯ [Sitting] ⟨-⟩ ⧼Weight Machine⧽,Fixed Sitting Calf Machine,"Fixed Sitting Squat Machine, Fixed Seated Calf Raise Machine",Weight Machine,,Machine,Calf,Fixed,Sitting,-
+46,Machine (Chest Press) ⟮Fixed⟯ [Sitting] ⟨-⟩ ⧼Weight Machine⧽,Fixed Sitting Chest Press Machine,,Weight Machine,,Machine,Chest Press,Fixed,Sitting,-
+53,Machine (Dip) ⟮Fixed⟯ [Sitting] ⟨-⟩ ⧼Weight Machine⧽,Fixed Sitting Dip Machine,,Weight Machine,,Machine,Dip,Fixed,Sitting,-
+57,Machine (Lateral Raise) ⟮Fixed⟯ [Sitting] ⟨-⟩ ⧼Weight Machine⧽,Fixed Sitting Lateral Raise Machine,,Weight Machine,,Machine,Lateral Raise,Fixed,Sitting,-
+58,Machine (Leg Press) ⟮Fixed⟯ [Sitting] ⟨-⟩ ⧼Weight Machine⧽,Fixed Sitting Leg Press Machine,Horizontal Leg Press Cable Machine,Weight Machine,,Machine,Leg Press,Fixed,Sitting,-
+279,Machine (Torso Rotation) ⟮Fixed⟯ [Sitting] ⟨-⟩ ⧼Weight Machine⧽,Fixed Sitting Torso Rotation Machine,,Weight Machine,,Machine,Torso Rotation,Fixed,Sitting,-
+245,Machine (Abduction) ⟮Fixed⟯ [Standing] ⟨-⟩ ⧼Weight Machine⧽,Fixed Standing Abduction Machine,,Weight Machine,,Machine,Abduction,Fixed,Standing,-
+247,Machine (Adduction) ⟮Fixed⟯ [Standing] ⟨-⟩ ⧼Weight Machine⧽,Fixed Standing Adduction Machine,,Weight Machine,,Machine,Adduction,Fixed,Standing,-
+271,Machine (Calf) ⟮Fixed⟯ [Standing] ⟨-⟩ ⧼Weight Machine⧽,Fixed Standing Calf Machine,Fixed Standing Squat Machine,Weight Machine,,Machine,Calf,Fixed,Standing,-
+262,Machine (Kick Back) ⟮Fixed⟯ [Standing] ⟨-⟩ ⧼Weight Machine⧽,Fixed Standing Kick Back Machine,,Weight Machine,,Machine,Kick Back,Fixed,Standing,-
+270,Machine (Lateral Raise) ⟮Fixed⟯ [Standing] ⟨-⟩ ⧼Weight Machine⧽,Fixed Standing Lateral Raise Machine,,Weight Machine,,Machine,Lateral Raise,Fixed,Standing,-
+50,Machine (Leg Curl) ⟮Fixed⟯ [Standing] ⟨-⟩ ⧼Weight Machine⧽,Fixed Standing Leg Curl Machine,,Weight Machine,,Machine,Leg Curl,Fixed,Standing,-
+258,Machine (Leg Extension) ⟮Fixed⟯ [Standing] ⟨-⟩ ⧼Weight Machine⧽,Fixed Standing Leg Extension Machine,,Weight Machine,,Machine,Leg Extension,Fixed,Standing,-
+59,Machine (Leg Press) ⟮Fixed⟯ [Standing] ⟨-⟩ ⧼Weight Machine⧽,Fixed Standing Leg Press Machine,"Standing Leg Press Machine, Vertical Leg Press Machine",Weight Machine,,Machine,Leg Press,Fixed,Standing,-
+64,Machine (Tricep Extension) ⟮Fixed⟯ [-] ⟨-⟩ ⧼Weight Machine⧽,Fixed Tricep Extension Machine,,Weight Machine,,Machine,Tricep Extension,Fixed,-,-
+65,Machine (Tricep Press) ⟮Fixed⟯ [-] ⟨-⟩ ⧼Weight Machine⧽,Fixed Tricep Press Machine,,Weight Machine,,Machine,Tricep Press,Fixed,-,-
+289,Band (Flat) ⟮-⟯ [-] ⟨-⟩ ⧼Resistance Band⧽,Flat Band,,Resistance Band,,Band,Flat,-,-,-
+197,Bench (Flat) ⟮-⟯ [-] ⟨-⟩ ⧼Stand⧽,Flat Bench,Bench,Stand,,Bench,Flat,-,-,-
+290,Benches (Flat) ⟮-⟯ [-] ⟨-⟩ ⧼Stand⧽,Flat Benches,,Stand,,Benches,Flat,-,-,-
+100,Roller (Foam) ⟮-⟯ [-] ⟨-⟩ ⧼Apparatus⧽,Foam Roller,Massage Stick,Apparatus,,Roller,Foam,-,-,-
+177,Bar (Free) ⟮-⟯ [-] ⟨-⟩ ⧼Free Weight⧽,Free Bar,Bar,Free Weight,,Bar,Free,-,-,-
+182,Bar (Pull Up) ⟮-⟯ [Freestanding] ⟨-⟩ ⧼Apparatus⧽,Freestanding Pull Up Bar,,Apparatus,,Bar,Pull Up,-,Freestanding,-
+229,Hammer (-) ⟮-⟯ [-] ⟨-⟩ ⧼Apparatus⧽,Hammer,,Apparatus,,Hammer,-,-,-,-
+16,Gripper (Hand) ⟮-⟯ [-] ⟨-⟩ ⧼Apparatus⧽,Hand Gripper,Hand Grip Exerciser,Apparatus,,Gripper,Hand,-,-,-
+216,Harness (Head) ⟮-⟯ [-] ⟨-⟩ ⧼Gear⧽,Head Harness,,Gear,,Harness,Head,-,-,-
+19,Ladder (Agility) ⟮-⟯ [Hexagonal] ⟨-⟩ ⧼Apparatus⧽,Hexagonal Agility Ladder,,Apparatus,,Ladder,Agility,-,Hexagonal,-
+66,Station (Home Gym) ⟮-⟯ [-] ⟨-⟩ ⧼Weight Machine⧽,Home Gym Station,"Home Gym Machine, Home Gym, All in One Machine",Weight Machine,,Station,Home Gym,-,-,-
+255,Bench (Hyperextension) ⟮-⟯ [Horizontal] ⟨-⟩ ⧼Stand⧽,Horizontal Hyperextension Bench,,Stand,,Bench,Hyperextension,-,Horizontal,-
+27,Machine (Rowing) ⟮Hybrid⟯ [-] ⟨-⟩ ⧼Cardio Machine⧽,Hybrid Rowing Machine,"Hybrid Row Machine, Hybrid Rower Machine",Cardio Machine,,Machine,Rowing,Hybrid,-,-
+62,Machine (Rowing) ⟮Hydraulic⟯ [-] ⟨-⟩ ⧼Cardio Machine⧽,Hydraulic Rowing Machine,"Hydraulic Row Machine, Hydraulic Rower Machine",Cardio Machine,,Machine,Rowing,Hydraulic,-,-
+198,Bench (Hyperextension) ⟮-⟯ [-] ⟨-⟩ ⧼Stand⧽,Hyperextension Bench,"Roman Chair, Back Hyperextension Bench",Stand,,Bench,Hyperextension,-,-,-
+201,Bench (-) ⟮-⟯ [-] ⟨Inclined⟩ ⧼Stand⧽,Inclined Bench,,Stand,,Bench,-,-,-,Inclined
+208,Bench (Press) ⟮-⟯ [-] ⟨Inclined⟩ ⧼Stand⧽,Inclined Bench Press,,Stand,,Bench,Press,-,-,Inclined
+135,Mat (-) ⟮-⟯ [-] ⟨Inclined⟩ ⧼Apparatus⧽,Inclined Mat,"Incline Mat, Cheese Mat",Apparatus,,Mat,-,-,-,Inclined
+205,Bench (Olympic) ⟮-⟯ [-] ⟨Inclined⟩ ⧼Stand⧽,Inclined Olympic Bench,,Stand,,Bench,Olympic,-,-,Inclined
+230,Platform (Step) ⟮-⟯ [-] ⟨Inclined⟩ ⧼Stand⧽,Inclined Step Platform,,Stand,,Platform,Step,-,-,Inclined
+114,Treadmill (-) ⟮-⟯ [-] ⟨Inclined⟩ ⧼Cardio Machine⧽,Inclined Treadmill,,Cardio Machine,,Treadmill,-,-,-,Inclined
+202,Inversion Table (-) ⟮-⟯ [-] ⟨-⟩ ⧼Stand⧽,Inversion Table,,Stand,,Inversion Table,-,-,-,-
+161,Handle (D) ⟮-⟯ [Iron] ⟨-⟩ ⧼Attachment⧽,Iron D Handle,Iron Stirrup Handle,Attachment,,Handle,D,-,Iron,-
+127,Anchor (Door) ⟮-⟯ [Iron] ⟨-⟩ ⧼Attachment⧽,Iron Door Anchor,Iron Floor Anchor,Attachment,,Anchor,Door,-,Iron,-
+183,Bar (Pull Up) ⟮-⟯ [Joist Mount] ⟨-⟩ ⧼Apparatus⧽,Joist Mount Pull Up Bar,Joist Mount Chin Up Bar,Apparatus,,Bar,Pull Up,-,Joist Mount,-
+103,Rope (Jump) ⟮-⟯ [-] ⟨-⟩ ⧼Apparatus⧽,Jump Rope,"Skipping Rope, Jumping Rope",Apparatus,,Rope,Jump,-,-,-
+291,Kettlebell (-) ⟮-⟯ [-] ⟨-⟩ ⧼Free Weight⧽,Kettlebell,,Free Weight,,Kettlebell,-,-,-,-
+292,Kettlebells (-) ⟮-⟯ [-] ⟨-⟩ ⧼Free Weight⧽,Kettlebells,,Free Weight,,Kettlebells,-,-,-,-
+194,Bench (Abdominal) ⟮-⟯ [King Pro] ⟨-⟩ ⧼Stand⧽,King Pro Abdominal Bench,,Stand,,Bench,Abdominal,-,King Pro,-
+173,Ball (Lacrosse) ⟮-⟯ [-] ⟨-⟩ ⧼Apparatus⧽,Lacrosse Ball,,Apparatus,,Ball,Lacrosse,-,-,-
+137,Mat (Landing) ⟮-⟯ [-] ⟨-⟩ ⧼Apparatus⧽,Landing Mat,,Apparatus,,Mat,Landing,-,-,-
+156,Bar (Lat Pulldown) ⟮-⟯ [-] ⟨-⟩ ⧼Attachment⧽,Lat Pulldown Bar,,Attachment,,Bar,Lat Pulldown,-,-,-
+21,Machine (Ab Coaster) ⟮Lever⟯ [-] ⟨-⟩ ⧼Weight Machine⧽,Lever Ab Coaster Machine,,Weight Machine,,Machine,Ab Coaster,Lever,-,-
+70,Machine (Squat) ⟮Lever⟯ [Belt] ⟨-⟩ ⧼Weight Machine⧽,Lever Belt Squat Machine,,Weight Machine,,Machine,Squat,Lever,Belt,-
+277,Machine (Bridge) ⟮Lever⟯ [-] ⟨-⟩ ⧼Weight Machine⧽,Lever Bridge Machine,Lever Thrust Machine,Weight Machine,,Machine,Bridge,Lever,-,-
+74,Machine (Chest Press) ⟮Lever⟯ [-] ⟨-⟩ ⧼Weight Machine⧽,Lever Chest Press Machine,,Weight Machine,,Machine,Chest Press,Lever,-,-
+75,Machine (Crunch) ⟮Lever⟯ [-] ⟨-⟩ ⧼Weight Machine⧽,Lever Crunch Machine,"Ab Crunch Lever Machine, Abdominal Lever Machine, Ab Lever Machine",Weight Machine,,Machine,Crunch,Lever,-,-
+257,Machine (Deadlift) ⟮Lever⟯ [-] ⟨-⟩ ⧼Weight Machine⧽,Lever Deadlift Machine,,Weight Machine,,Machine,Deadlift,Lever,-,-
+83,Machine (Leg Press) ⟮Lever⟯ [Sitting] ⟨Declined⟩ ⧼Weight Machine⧽,Lever Declined Sitting Leg Press Machine,Horizontal Leg Press Cable Machine,Weight Machine,,Machine,Leg Press,Lever,Sitting,Declined
+273,Machine (Donkey Calf) ⟮Lever⟯ [-] ⟨-⟩ ⧼Weight Machine⧽,Lever Donkey Calf Machine,,Weight Machine,,Machine,Donkey Calf,Lever,-,-
+85,Machine (Front Pulldown) ⟮Lever⟯ [-] ⟨-⟩ ⧼Weight Machine⧽,Lever Front Pulldown Machine,,Weight Machine,,Machine,Front Pulldown,Lever,-,-
+79,Machine (Glute Ham Developer) ⟮Lever⟯ [-] ⟨-⟩ ⧼Weight Machine⧽,Lever Glute Ham Developer Machine,"GHD Lever Machine, Ham Raise Lever Machine",Weight Machine,,Machine,Glute Ham Developer,Lever,-,-
+89,Machine (Squat) ⟮Lever⟯ [Hack] ⟨-⟩ ⧼Weight Machine⧽,Lever Hack Squat Machine,,Weight Machine,,Machine,Squat,Lever,Hack,-
+275,Machine (Rowing) ⟮Lever⟯ [High] ⟨-⟩ ⧼Cardio Machine⧽,Lever High Rowing Machine,,Cardio Machine,,Machine,Rowing,Lever,High,-
+87,Machine (Shoulder Press) ⟮Lever⟯ [-] ⟨Inclined⟩ ⧼Weight Machine⧽,Lever Inclined Shoulder Press Machine,,Weight Machine,,Machine,Shoulder Press,Lever,-,Inclined
+264,Machine (Chest Press) ⟮Lever⟯ [Sitting] ⟨Inclined⟩ ⧼Weight Machine⧽,Lever Inclined Sitting Chest Press Machine,,Weight Machine,,Machine,Chest Press,Lever,Sitting,Inclined
+81,Machine (Lat Pulldown) ⟮Lever⟯ [-] ⟨-⟩ ⧼Weight Machine⧽,Lever Lat Pulldown Machine,,Weight Machine,,Machine,Lat Pulldown,Lever,-,-
+82,Machine (Leg Curl) ⟮Lever⟯ [-] ⟨-⟩ ⧼Weight Machine⧽,Lever Leg Curl Machine,,Weight Machine,,Machine,Leg Curl,Lever,-,-
+78,Machine (Leg Extension) ⟮Lever⟯ [-] ⟨-⟩ ⧼Weight Machine⧽,Lever Leg Extension Machine,,Weight Machine,,Machine,Leg Extension,Lever,-,-
+72,Machine (Chest Press) ⟮Lever⟯ [Lying] ⟨-⟩ ⧼Weight Machine⧽,Lever Lying Chest Press Machine,,Weight Machine,,Machine,Chest Press,Lever,Lying,-
+67,Machine (T Bar) ⟮Lever⟯ [Lying] ⟨-⟩ ⧼Weight Machine⧽,Lever Lying T Bar Machine,T Bar Row Lying Machine,Weight Machine,,Machine,T Bar,Lever,Lying,-
+260,Machine (Neck Extension) ⟮Lever⟯ [-] ⟨-⟩ ⧼Weight Machine⧽,Lever Neck Extension Machine,,Weight Machine,,Machine,Neck Extension,Lever,-,-
+276,Machine (Squat) ⟮Lever⟯ [Pendulum] ⟨-⟩ ⧼Weight Machine⧽,Lever Pendulum Squat Machine,,Weight Machine,,Machine,Squat,Lever,Pendulum,-
+76,Machine (Preacher Curl) ⟮Lever⟯ [-] ⟨-⟩ ⧼Weight Machine⧽,Lever Preacher Curl Machine,Preacher Bicep Curl Machine,Weight Machine,,Machine,Preacher Curl,Lever,-,-
+266,Machine (Pull Over) ⟮Lever⟯ [-] ⟨-⟩ ⧼Weight Machine⧽,Lever Pull Over Machine,,Weight Machine,,Machine,Pull Over,Lever,-,-
+80,Machine (Reverse Hyperextension) ⟮Lever⟯ [-] ⟨-⟩ ⧼Weight Machine⧽,Lever Reverse Hyperextension Machine,Reverse Hyper Machine,Weight Machine,,Machine,Reverse Hyperextension,Lever,-,-
+86,Machine (Rowing) ⟮Lever⟯ [-] ⟨-⟩ ⧼Cardio Machine⧽,Lever Rowing Machine,"Lever Row Machine, Lever Rower Machine",Cardio Machine,,Machine,Rowing,Lever,-,-
+88,Machine (Shoulder Press) ⟮Lever⟯ [-] ⟨-⟩ ⧼Weight Machine⧽,Lever Shoulder Press Machine,,Weight Machine,,Machine,Shoulder Press,Lever,-,-
+69,Machine (T Bar) ⟮Lever⟯ [Single Grip] ⟨-⟩ ⧼Weight Machine⧽,Lever Single Grip T Bar Machine,Single Grip Standing T Bar Row Machine,Weight Machine,,Machine,T Bar,Lever,Single Grip,-
+71,Machine (Calf) ⟮Lever⟯ [Sitting] ⟨-⟩ ⧼Weight Machine⧽,Lever Sitting Calf Machine,"Lever Sitting Squat Machine, Lever Seated Calf Raise Machine",Weight Machine,,Machine,Calf,Lever,Sitting,-
+73,Machine (Chest Press) ⟮Lever⟯ [Sitting] ⟨-⟩ ⧼Weight Machine⧽,Lever Sitting Chest Press Machine,,Weight Machine,,Machine,Chest Press,Lever,Sitting,-
+77,Machine (Dip) ⟮Lever⟯ [Sitting] ⟨-⟩ ⧼Weight Machine⧽,Lever Sitting Dip Machine,,Weight Machine,,Machine,Dip,Lever,Sitting,-
+268,Machine (Lateral Raise) ⟮Lever⟯ [Sitting] ⟨-⟩ ⧼Weight Machine⧽,Lever Sitting Lateral Raise Machine,,Weight Machine,,Machine,Lateral Raise,Lever,Sitting,-
+246,Machine (Abduction) ⟮Lever⟯ [Standing] ⟨-⟩ ⧼Weight Machine⧽,Lever Standing Abduction Machine,,Weight Machine,,Machine,Abduction,Lever,Standing,-
+45,Machine (Calf) ⟮Lever⟯ [Standing] ⟨-⟩ ⧼Weight Machine⧽,Lever Standing Calf Machine,"Lever Standing Squat Machine, Lever Standing Calf Raise Machine",Weight Machine,,Machine,Calf,Lever,Standing,-
+269,Machine (Lateral Raise) ⟮Lever⟯ [Standing] ⟨-⟩ ⧼Weight Machine⧽,Lever Standing Lateral Raise Machine,,Weight Machine,,Machine,Lateral Raise,Lever,Standing,-
+254,Machine (Leg Curl) ⟮Lever⟯ [Standing] ⟨-⟩ ⧼Weight Machine⧽,Lever Standing Leg Curl Machine,,Weight Machine,,Machine,Leg Curl,Lever,Standing,-
+259,Machine (Leg Extension) ⟮Lever⟯ [Standing] ⟨-⟩ ⧼Weight Machine⧽,Lever Standing Leg Extension Machine,,Weight Machine,,Machine,Leg Extension,Lever,Standing,-
+84,Machine (Leg Press) ⟮Lever⟯ [Standing] ⟨-⟩ ⧼Weight Machine⧽,Lever Standing Leg Press Machine,"Standing Leg Press Machine, Vertical Leg Press Machine",Weight Machine,,Machine,Leg Press,Lever,Standing,-
+68,Machine (T Bar) ⟮Lever⟯ [-] ⟨-⟩ ⧼Weight Machine⧽,Lever T Bar Machine,Standing T Bar Row Machine,Weight Machine,,Machine,T Bar,Lever,-,-
+261,Machine (Tricep Extension) ⟮Lever⟯ [-] ⟨-⟩ ⧼Weight Machine⧽,Lever Tricep Extension Machine,,Weight Machine,,Machine,Tricep Extension,Lever,-,-
+220,Bar (Log) ⟮-⟯ [-] ⟨-⟩ ⧼Free Weight⧽,Log Bar,,Free Weight,,Bar,Log,-,-,-
+221,Barbell (Log) ⟮-⟯ [-] ⟨-⟩ ⧼Free Weight⧽,Log Barbell,,Free Weight,,Barbell,Log,-,-,-
+123,Band (Loop) ⟮-⟯ [-] ⟨-⟩ ⧼Resistance Band⧽,Loop Band,,Resistance Band,,Band,Loop,-,-,-
+28,Machine (Rowing) ⟮-⟯ [Low] ⟨-⟩ ⧼Cardio Machine⧽,Low Rowing Machine,"Low Cable Row Machine, Low Cable Rower Machine",Cardio Machine,,Machine,Rowing,-,Low,-
+29,Machine (Rowing) ⟮Magnetic⟯ [-] ⟨-⟩ ⧼Cardio Machine⧽,Magnetic Rowing Machine,"Magnetic Row Machine, Magnetic Rower Machine",Cardio Machine,,Machine,Rowing,Magnetic,-,-
+174,Ball (Medicine) ⟮-⟯ [-] ⟨-⟩ ⧼Apparatus⧽,Medicine Ball,Med Ball,Apparatus,,Ball,Medicine,-,-,-
+163,Handle (Mid Grip) ⟮-⟯ [-] ⟨-⟩ ⧼Attachment⧽,Mid Grip Handle,Row Mid Grip Handle,Attachment,,Handle,Mid Grip,-,-,-
+124,Band (Loop) ⟮-⟯ [Mini] ⟨-⟩ ⧼Resistance Band⧽,Mini Loop Band,,Resistance Band,,Band,Loop,-,Mini,-
+293,Bands (Loop) ⟮-⟯ [Mini] ⟨-⟩ ⧼Resistance Band⧽,Mini Loop Bands,,Resistance Band,,Bands,Loop,-,Mini,-
+213,Platform (Step) ⟮-⟯ [Mini] ⟨-⟩ ⧼Stand⧽,Mini Step Platform,,Stand,,Platform,Step,-,Mini,-
+303,Platforms (Step) ⟮-⟯ [Mini] ⟨-⟩ ⧼Stand⧽,Mini Step Platforms,,Stand,,Platforms,Step,-,Mini,-
+122,Band (Tube) ⟮-⟯ [Mini] ⟨-⟩ ⧼Resistance Band⧽,Mini Tube Band,,Resistance Band,,Band,Tube,-,Mini,-
+294,Bands (Tube) ⟮-⟯ [Mini] ⟨-⟩ ⧼Resistance Band⧽,Mini Tube Bands,,Resistance Band,,Bands,Tube,-,Mini,-
+249,Bars (Monkey) ⟮-⟯ [-] ⟨-⟩ ⧼Apparatus⧽,Monkey Bars,,Apparatus,,Bars,Monkey,-,-,-
+211,Bike (Mountain) ⟮-⟯ [-] ⟨-⟩ ⧼Vehicle⧽,Mountain Bike,,Vehicle,,Bike,Mountain,-,-,-
+169,Punching Bag (Muay Thai) ⟮-⟯ [-] ⟨-⟩ ⧼Apparatus⧽,Muay Thai Punching Bag,"Muay Thai Bag, Muay Thai Heavy Bag, Muay Thai Punch Bag",Apparatus,,Punching Bag,Muay Thai,-,-,-
+157,Bar (Multi Purpose) ⟮-⟯ [-] ⟨-⟩ ⧼Attachment⧽,Multi Purpose Bar,,Attachment,,Bar,Multi Purpose,-,-,-
+129,Anchor (Multi) ⟮-⟯ [Wall] ⟨-⟩ ⧼Attachment⧽,Multi Wall Anchor,,Attachment,,Anchor,Multi,-,Wall,-
+162,Handle (D) ⟮-⟯ [Nylon] ⟨-⟩ ⧼Attachment⧽,Nylon D Handle,Nylon Stirrup Handle,Attachment,,Handle,D,-,Nylon,-
+128,Anchor (Door) ⟮-⟯ [Nylon] ⟨-⟩ ⧼Attachment⧽,Nylon Door Anchor,Nylon Floor Anchor,Attachment,,Anchor,Door,-,Nylon,-
+179,Bar (Olympic) ⟮-⟯ [-] ⟨-⟩ ⧼Free Weight⧽,Olympic Bar,,Free Weight,,Bar,Olympic,-,-,-
+187,Barbell (Olympic) ⟮-⟯ [-] ⟨-⟩ ⧼Free Weight⧽,Olympic Barbell,,Free Weight,,Barbell,Olympic,-,-,-
+203,Bench (Olympic) ⟮-⟯ [-] ⟨-⟩ ⧼Stand⧽,Olympic Bench,Olympic Weight Bench,Stand,,Bench,Olympic,-,-,-
+118,Weight Plate (Olympic) ⟮-⟯ [-] ⟨-⟩ ⧼Free Weight⧽,Olympic Weight Plate,,Free Weight,,Weight Plate,Olympic,-,-,-
+240,Handle (D) ⟮-⟯ [Open] ⟨-⟩ ⧼Attachment⧽,Open D Handle,Open Stirrup Handle,Attachment,,Handle,D,-,Open,-
+304,Handles (D) ⟮-⟯ [Open] ⟨-⟩ ⧼Attachment⧽,Open D Handles,,Attachment,,Handles,D,-,Open,-
+134,Mat (Panel) ⟮-⟯ [-] ⟨-⟩ ⧼Apparatus⧽,Panel Mat,"Folding Mat, Folding Panel Mat",Apparatus,,Mat,Panel,-,-,-
+188,Parallette (-) ⟮-⟯ [-] ⟨-⟩ ⧼Apparatus⧽,Parallette,Parallettes,Apparatus,,Parallette,-,-,-,-
+228,Parallette (-) ⟮-⟯ [-] ⟨-⟩ ⧼Apparatus⧽,Parallettes,,,,,,,,
+90,Machine (Pilates Reformer) ⟮-⟯ [-] ⟨-⟩ ⧼Flexibility Machine⧽,Pilates Reformer Machine,"Reformer, Pilates Machine",Flexibility Machine,,Machine,Pilates Reformer,-,-,-
+95,Box (Plyometric) ⟮-⟯ [-] ⟨-⟩ ⧼Stand⧽,Plyometric Box,"Plyo Box, Jump Box",Stand,,Box,Plyometric,-,-,-
+295,Boxes (Plyometric) ⟮-⟯ [-] ⟨-⟩ ⧼Stand⧽,Plyometric Boxes,,Stand,,Boxes,Plyometric,-,-,-
+218,Pole (-) ⟮-⟯ [-] ⟨-⟩ ⧼Apparatus⧽,Pole,,Apparatus,,Pole,-,-,-,-
+96,Rack (Power) ⟮-⟯ [-] ⟨-⟩ ⧼Storage⧽,Power Rack,Power Cage,Storage,,Rack,Power,-,-,-
+196,Bench (Preacher Curl) ⟮-⟯ [-] ⟨-⟩ ⧼Stand⧽,Preacher Curl Bench,"Bicep Curl, Preacher Bicep Curl",Stand,,Bench,Preacher Curl,-,-,-
+296,Band (Pull Up) ⟮-⟯ [-] ⟨-⟩ ⧼Resistance Band⧽,Pull Up Band,,Resistance Band,,Band,Pull Up,-,-,-
+147,Bar (Pull Up) ⟮-⟯ [-] ⟨-⟩ ⧼Apparatus⧽,Pull Up Bar,,Apparatus,,Bar,Pull Up,-,-,-
+282,Handles (Pull Up ) ⟮-⟯ [-] ⟨-⟩ ⧼Apparatus⧽,Pull Up Handles,,Apparatus,,Handles,Pull Up,-,-,-
+214,Block (Pulling) ⟮-⟯ [-] ⟨-⟩ ⧼Stand⧽,Pulling Block,,Stand,,Block,Pulling,-,-,-
+305,Blocks (Pulling) ⟮-⟯ [-] ⟨-⟩ ⧼Stand⧽,Pulling Blocks,,Stand,,Blocks,Pulling,-,-,-
+168,Punching Bag (-) ⟮-⟯ [-] ⟨-⟩ ⧼Apparatus⧽,Punching Bag,"Bag, Heavy Bag, Punch Bag",Apparatus,,Punching Bag,-,-,-,-
+104,Sled (Push) ⟮-⟯ [-] ⟨-⟩ ⧼Free Weight⧽,Push Sled,Pull Sled,Free Weight,,Sled,Push,-,-,-
+189,Bar (Push Up) ⟮-⟯ [-] ⟨-⟩ ⧼Apparatus⧽,Push Up Bar,Push Bars,Apparatus,,Bar,Push Up,-,-,-
+297,Bars (Push Up) ⟮-⟯ [-] ⟨-⟩ ⧼Apparatus⧽,Push Up Bars,,Apparatus,,Bars,Push Up,-,-,-
+209,Mat (Puzzle) ⟮-⟯ [-] ⟨-⟩ ⧼Apparatus⧽,Puzzle Mat,,Apparatus,,Mat,Puzzle,-,-,-
+3,Bike (Recumbent) ⟮-⟯ [-] ⟨-⟩ ⧼Cardio Machine⧽,Recumbent Bike,Recumbent Stationary Bike,Cardio Machine,,Bike,Recumbent,-,-,-
+15,Rings (-) ⟮-⟯ [-] ⟨-⟩ ⧼Apparatus⧽,Rings,Gymnastic Rings,Apparatus,,Rings,-,-,-,-
+298,Machine (Rope Pull) ⟮-⟯ [-] ⟨-⟩ ⧼Weight Machine⧽,Rope Pull Machine,,Weight Machine,,Machine,Rope Pull,-,-,-
+244,Handle (Single Grip) ⟮-⟯ [-] ⟨-⟩ ⧼Attachment⧽,Single Grip Handle,,Attachment,,Handle,Single Grip,-,-,-
+165,Rope (Tricep) ⟮-⟯ [Single] ⟨-⟩ ⧼Attachment⧽,Single Tricep Rope,,Attachment,,Rope,Tricep,-,Single,-
+117,Machine (Twister) ⟮-⟯ [Single] ⟨-⟩ ⧼Flexibility Machine⧽,Single Twister Machine,Lever Standing Single Torso Rotation Machine,Flexibility Machine,,Machine,Twister,-,Single,-
+138,Bike (Arm) ⟮-⟯ [Sitting] ⟨-⟩ ⧼Cardio Machine⧽,Sitting Arm Bike,Arm Cycle Machine,Cardio Machine,,Bike,Arm,-,Sitting,-
+37,Machine (Ski) ⟮-⟯ [-] ⟨-⟩ ⧼Cardio Machine⧽,Ski Machine,,Cardio Machine,,Machine,Ski,-,-,-
+38,Machine (Sled Mill) ⟮-⟯ [-] ⟨-⟩ ⧼Cardio Machine⧽,Sled Mill Machine,,Cardio Machine,,Machine,Sled Mill,-,-,-
+105,Slider (-) ⟮-⟯ [-] ⟨-⟩ ⧼Apparatus⧽,Slider,,Apparatus,,Slider,-,-,-,-
+91,Machine (Smith) ⟮-⟯ [-] ⟨-⟩ ⧼Weight Machine⧽,Smith Machine,Smith,Weight Machine,,Machine,Smith,-,-,-
+210,Block (Soft) ⟮-⟯ [-] ⟨-⟩ ⧼Stand⧽,Soft Block,,Stand,,Block,Soft,-,-,-
+4,Bike (Spin) ⟮-⟯ [-] ⟨-⟩ ⧼Cardio Machine⧽,Spin Bike,"Spin Stationary Bike, Spinning Bike, Spinner",Cardio Machine,,Bike,Spin,-,-,-
+92,Machine (Split) ⟮-⟯ [-] ⟨-⟩ ⧼Flexibility Machine⧽,Split Machine,"Leg Stretching Machine, Leg Stretcher",Flexibility Machine,,Machine,Split,-,-,-
+136,Mat (Springboard) ⟮-⟯ [-] ⟨-⟩ ⧼Apparatus⧽,Springboard Mat,,Apparatus,,Mat,Springboard,-,-,-
+97,Rack (Squat) ⟮-⟯ [-] ⟨-⟩ ⧼Storage⧽,Squat Rack,Squat Stand,Storage,,Rack,Squat,-,-,-
+175,Ball (Stability) ⟮-⟯ [-] ⟨-⟩ ⧼Apparatus⧽,Stability Ball,"Swiss Ball, Exercise Ball, Yoga Ball, Ab Ball",Apparatus,,Ball,Stability,-,-,-
+33,Machine (Stair Climber) ⟮-⟯ [-] ⟨-⟩ ⧼Cardio Machine⧽,Stair Climber Machine,"Stair Mill Machine, Step Mill Machine, Stepmill Machine, Step Climber Machine",Cardio Machine,,Machine,Stair Climber,-,-,-
+236,Stairs (-) ⟮-⟯ [-] ⟨-⟩ ⧼Stand⧽,Stairs,,Stand,,Stairs,-,-,-,-
+10,Bike (Arm) ⟮-⟯ [Standing] ⟨-⟩ ⧼Cardio Machine⧽,Standing Arm Bike,Arm Cycle Machine,Cardio Machine,,Bike,Arm,-,Standing,-
+155,Bench (Preacher Curl) ⟮-⟯ [Standing] ⟨-⟩ ⧼Stand⧽,Standing Preacher Curl Bench,,Stand,,Bench,Preacher Curl,-,Standing,-
+1,Bench (Step) ⟮-⟯ [-] ⟨-⟩ ⧼Stand⧽,Step Bench,"Aerobics Stepper, Aerobic Step, Stepper Bench, Aero Step, Exercise Step, Aerobic Platform",Stand,,Bench,Step,-,-,-
+212,Platform (Step) ⟮-⟯ [-] ⟨-⟩ ⧼Stand⧽,Step Platform,,Stand,,Platform,Step,-,-,-
+39,Machine (Stepper) ⟮-⟯ [-] ⟨-⟩ ⧼Cardio Machine⧽,Stepper Machine,,Cardio Machine,,Machine,Stepper,-,-,-
+239,Stick (-) ⟮-⟯ [-] ⟨-⟩ ⧼Apparatus⧽,Stick,,Apparatus,,Stick,-,-,-,-
+158,Bar (Straight) ⟮-⟯ [-] ⟨-⟩ ⧼Attachment⧽,Straight Bar,Rotating Straight Bar,Attachment,,Bar,Straight,-,-,-
+93,Machine (Stretching) ⟮-⟯ [-] ⟨-⟩ ⧼Flexibility Machine⧽,Stretching Machine,,Flexibility Machine,,Machine,Stretching,-,-,-
+112,Suspension Trainer (-) ⟮-⟯ [-] ⟨-⟩ ⧼Apparatus⧽,Suspension Trainer,"TRX, Suspension Unit, Suspension Straps",Apparatus,,Suspension Trainer,-,-,-,-
+299,Table (-) ⟮-⟯ [-] ⟨-⟩ ⧼Stand⧽,Table,,Stand,,Table,-,-,-,-
+170,Punching Bag (Teardrop) ⟮-⟯ [-] ⟨-⟩ ⧼Apparatus⧽,Teardrop Punching Bag,"Teardrop Bag, Teardrop Punch Bag",Apparatus,,Punching Bag,Teardrop,-,-,-
+238,Towel (-) ⟮-⟯ [-] ⟨-⟩ ⧼Apparatus⧽,Towel,,Apparatus,,Towel,-,-,-,-
+219,Tire (Training) ⟮-⟯ [-] ⟨-⟩ ⧼Apparatus⧽,Training Tire,"Training Tyre, Tire, Tyre",Apparatus,,Tire,Training,-,-,-
+185,Bar (Trap) ⟮-⟯ [-] ⟨-⟩ ⧼Free Weight⧽,Trap Bar,"High Trap Bar, Deadlift Trap Bar",Free Weight,,Bar,Trap,-,-,-
+152,Barbell (Trap) ⟮-⟯ [-] ⟨-⟩ ⧼Free Weight⧽,Trap Barbell,,Free Weight,,Barbell,Trap,-,-,-
+139,Machine (Tread Climber) ⟮-⟯ [-] ⟨-⟩ ⧼Cardio Machine⧽,Tread Climber Machine,,Cardio Machine,,Machine,Tread Climber,-,-,-
+115,Treadmill (-) ⟮-⟯ [-] ⟨-⟩ ⧼Cardio Machine⧽,Treadmill,,Cardio Machine,,Treadmill,-,-,-,-
+186,Bar (Tricep) ⟮-⟯ [-] ⟨-⟩ ⧼Free Weight⧽,Tricep Bar,Tri Bar,Free Weight,,Bar,Tricep,-,-,-
+153,Barbell (Tricep) ⟮-⟯ [-] ⟨-⟩ ⧼Free Weight⧽,Tricep Barbell,,Free Weight,,Barbell,Tricep,-,-,-
+121,Band (Tube) ⟮-⟯ [-] ⟨-⟩ ⧼Resistance Band⧽,Tube Band,,Resistance Band,,Band,Tube,-,-,-
+300,Bands (Tube) ⟮-⟯ [-] ⟨-⟩ ⧼Resistance Band⧽,Tube Bands,,Resistance Band,,Bands,Tube,-,-,-
+5,Bike (Under Desk) ⟮-⟯ [-] ⟨-⟩ ⧼Cardio Machine⧽,Under Desk Bike,Pedal Exerciser,Cardio Machine,,Bike,Under Desk,-,-,-
+6,Bike (Upright) ⟮-⟯ [-] ⟨-⟩ ⧼Cardio Machine⧽,Upright Bike,Upright Stationary Bike,Cardio Machine,,Bike,Upright,-,-,-
+195,Bench (Utility) ⟮-⟯ [-] ⟨-⟩ ⧼Stand⧽,Utility Bench,Adjustable Bench,Stand,,Bench,Utility,-,-,-
+159,Bar (V) ⟮-⟯ [-] ⟨-⟩ ⧼Attachment⧽,V Bar,"Tricep V Bar, V Grip Handle",Attachment,,Bar,V,-,-,-
+34,Machine (Vertical Climber) ⟮-⟯ [-] ⟨-⟩ ⧼Cardio Machine⧽,Vertical Climber Machine,,Cardio Machine,,Machine,Vertical Climber,-,-,-
+234,Wall (-) ⟮-⟯ [-] ⟨-⟩ ⧼Stand⧽,Wall,,Stand,,Wall,-,-,-,-
+130,Anchor (-) ⟮-⟯ [Wall] ⟨-⟩ ⧼Attachment⧽,Wall Anchor,,Attachment,,Anchor,-,-,Wall,-
+176,Ball (Wall) ⟮-⟯ [-] ⟨-⟩ ⧼Apparatus⧽,Wall Ball,Slam Ball,Apparatus,,Ball,Wall,-,-,-
+281,Bars (Wall) ⟮-⟯ [-] ⟨-⟩ ⧼Apparatus⧽,Wall Bars,Wallbars,Apparatus,,Bars,Wall,-,-,-
+235,Wall (Corner) ⟮-⟯ [-] ⟨-⟩ ⧼Stand⧽,Wall Corner,,Stand,,Wall,Corner,-,-,-
+111,Station (Dip) ⟮-⟯ [Wall Mount] ⟨-⟩ ⧼Apparatus⧽,Wall Mount Dip Station,,Apparatus,,Station,Dip,-,Wall Mount,-
+184,Bar (Pull Up) ⟮-⟯ [Wall Mount] ⟨-⟩ ⧼Apparatus⧽,Wall Mount Pull Up Bar,Wall Mount Chin Up Bar,Apparatus,,Bar,Pull Up,-,Wall Mount,-
+154,Bottle (Water Cooler) ⟮-⟯ [-] ⟨-⟩ ⧼Free Weight⧽,Water Cooler Bottle,,Free Weight,,Bottle,Water Cooler,-,-,-
+30,Machine (Rowing) ⟮Water⟯ [-] ⟨-⟩ ⧼Cardio Machine⧽,Water Rowing Machine,"Water Row Machine, Water Rower Machine",Cardio Machine,,Machine,Rowing,Water,-,-
+119,Weight Plate (-) ⟮-⟯ [-] ⟨-⟩ ⧼Free Weight⧽,Weight Plate,,Free Weight,,Weight Plate,-,-,-,-
+109,Rack (Weight Plate) ⟮-⟯ [-] ⟨-⟩ ⧼Storage⧽,Weight Plate Rack,Plate Stand,Storage,,Rack,Weight Plate,-,-,-
+301,Weight Plates (-) ⟮-⟯ [-] ⟨-⟩ ⧼Free Weight⧽,Weight Plates,,Free Weight,,Weight Plates,-,-,-,-
+108,Rack (Weight) ⟮-⟯ [-] ⟨-⟩ ⧼Storage⧽,Weight Rack,"Free Weight Rack, Weight Stand, Free Weight Stand",Storage,,Rack,Weight,-,-,-
+120,Vest (Weight) ⟮-⟯ [-] ⟨-⟩ ⧼Gear⧽,Weight Vest,Weighted Vest,Gear,,Vest,Weight,-,-,-
+191,Belt (Weightlifting) ⟮-⟯ [-] ⟨-⟩ ⧼Gear⧽,Weightlifting Belt,,Gear,,Belt,Weightlifting,-,-,-
+94,Machine (Vibration) ⟮-⟯ [Whole Body] ⟨-⟩ ⧼Cardio Machine⧽,Whole Body Vibration Machine,"Whole Body Vibration Platform Machine, WBV, Vibration Plate Machine",Cardio Machine,,Machine,Vibration,-,Whole Body,-
+274,Roller (Wrist) ⟮-⟯ [-] ⟨-⟩ ⧼Apparatus⧽,Wrist Roller,,Apparatus,,Roller,Wrist,-,-,-
+7,Block (Yoga) ⟮-⟯ [-] ⟨-⟩ ⧼Stand⧽,Yoga Block,,Stand,,Block,Yoga,-,-,-
+11,Mat (Yoga) ⟮-⟯ [-] ⟨-⟩ ⧼Apparatus⧽,Yoga Mat,"Exercise Mat, Core Mat",Apparatus,,Mat,Yoga,-,-,-

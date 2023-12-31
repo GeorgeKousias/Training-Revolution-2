@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 255.6 141.7">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Transparency_Gradient);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        fill: url(#Transparency_Gradient-2);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-7 {
+        fill: url(#Transparency_Gradient-3);
+      }
+
+      .cls-8 {
+        fill: url(#linear-gradient-5);
+      }
+
+      .cls-9 {
+        fill: url(#linear-gradient-6);
+      }
+    </style>
+    <linearGradient id="Transparency_Gradient" data-name="Transparency Gradient" x1="127.82" y1="56.65" x2="127.82" y2="82.16" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-opacity="0"/>
+      <stop offset="0.04" stop-color="#252525" stop-opacity="0.14"/>
+      <stop offset="0.1" stop-color="#525252" stop-opacity="0.32"/>
+      <stop offset="0.16" stop-color="#7c7c7c" stop-opacity="0.48"/>
+      <stop offset="0.23" stop-color="#9f9f9f" stop-opacity="0.62"/>
+      <stop offset="0.31" stop-color="#bdbdbd" stop-opacity="0.74"/>
+      <stop offset="0.39" stop-color="#d5d5d5" stop-opacity="0.84"/>
+      <stop offset="0.48" stop-color="#e8e8e8" stop-opacity="0.91"/>
+      <stop offset="0.58" stop-color="#f5f5f5" stop-opacity="0.96"/>
+      <stop offset="0.72" stop-color="#fdfdfd" stop-opacity="0.99"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient" x1="1714.05" y1="2896.42" x2="1718.3" y2="2896.42" gradientTransform="matrix(-1, 0, 0, 1, 1969.68, -2825.55)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-opacity="0"/>
+      <stop offset="0.1" stop-color="#282828" stop-opacity="0.16"/>
+      <stop offset="0.29" stop-color="#686868" stop-opacity="0.41"/>
+      <stop offset="0.47" stop-color="#9e9e9e" stop-opacity="0.62"/>
+      <stop offset="0.64" stop-color="#c8c8c8" stop-opacity="0.78"/>
+      <stop offset="0.78" stop-color="#e6e6e6" stop-opacity="0.9"/>
+      <stop offset="0.91" stop-color="#f8f8f8" stop-opacity="0.97"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="Transparency_Gradient-2" x1="1720.95" y1="2896.42" x2="1743.03" y2="2896.42" gradientTransform="matrix(-1, 0, 0, 1, 1969.68, -2825.55)" xlink:href="#Transparency_Gradient"/>
+    <linearGradient id="linear-gradient-2" x1="1746.27" y1="2896.42" x2="1768.35" y2="2896.42" gradientTransform="matrix(-1, 0, 0, 1, 1969.68, -2825.55)" xlink:href="#Transparency_Gradient"/>
+    <linearGradient id="linear-gradient-3" x1="1771.59" y1="2896.42" x2="1793.67" y2="2896.42" gradientTransform="matrix(-1, 0, 0, 1, 1969.68, -2825.55)" xlink:href="#Transparency_Gradient"/>
+    <linearGradient id="linear-gradient-4" x1="1577.57" y1="2896.42" x2="1581.82" y2="2896.42" gradientTransform="translate(3159.4 5792.8) rotate(-180)" xlink:href="#linear-gradient"/>
+    <linearGradient id="Transparency_Gradient-3" x1="1584.48" y1="2896.42" x2="1606.56" y2="2896.42" gradientTransform="translate(3191 5792.8) rotate(-180)" xlink:href="#Transparency_Gradient"/>
+    <linearGradient id="linear-gradient-5" x1="1609.8" y1="2896.42" x2="1631.88" y2="2896.42" gradientTransform="translate(3241.7 5792.8) rotate(-180)" xlink:href="#Transparency_Gradient"/>
+    <linearGradient id="linear-gradient-6" x1="1635.12" y1="2896.42" x2="1657.2" y2="2896.42" gradientTransform="translate(3292.3 5792.8) rotate(180)" xlink:href="#Transparency_Gradient"/>
+  </defs>
+  <g id="Handle">
+    <rect id="Handle_3" data-name="Handle 3" class="cls-1" x="79.6" y="56.7" width="96.4" height="25.51"/>
+  </g>
+  <g id="Right_Side_Weights" data-name="Right Side Weights">
+    <rect id="Dumbbell_Screw" data-name="Dumbbell Screw" class="cls-2" x="251.4" y="62.4" width="4.3" height="17.01" rx="1.5"/>
+    <rect id="Weight_Plate_3" data-name="Weight Plate 3" class="cls-3" x="226.6" y="22.7" width="22.1" height="96.38" rx="9.1"/>
+    <rect id="Weight_Plate_2" data-name="Weight Plate 2" class="cls-4" x="201.3" y="11.3" width="22.1" height="119.06" rx="9"/>
+    <rect id="Weight_Plate_1" data-name="Weight Plate 1" class="cls-5" x="176" width="22.1" height="141.73" rx="9.1"/>
+  </g>
+  <g id="Left_Side_Weights" data-name="Left Side Weights">
+    <rect id="Dumbbell_Screw-2" data-name="Dumbbell Screw" class="cls-6" x="1577.6" y="2887.9" width="4.3" height="17.01" rx="1.5" transform="translate(1581.8 2967.3) rotate(180)"/>
+    <rect id="Weight_Plate_3-2" data-name="Weight Plate 3" class="cls-7" x="1584.5" y="2848.2" width="22.1" height="96.38" rx="9.1" transform="translate(1613.5 2967.3) rotate(180)"/>
+    <rect id="Weight_Plate_2-2" data-name="Weight Plate 2" class="cls-8" x="1609.8" y="2836.9" width="22.1" height="119.06" rx="9.2" transform="translate(1664.1 2967.3) rotate(180)"/>
+    <rect id="Weight_Plate_1-2" data-name="Weight Plate 1" class="cls-9" x="1635.1" y="2825.6" width="22.1" height="141.73" rx="9.2" transform="translate(1714.7 2967.3) rotate(-180)"/>
+  </g>
+</svg>

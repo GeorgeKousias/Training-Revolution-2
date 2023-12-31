@@ -1,0 +1,1459 @@
+/* ---------------------------------------- STRUCTURE: 1 INCLUSIVE ---------------------------------------- */
+
+/* ---------------------------------------- STRUCTURE: 1.1 BODY ---------------------------------------- */
+body {
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
+    max-width: 100%;
+    max-height: 100%;
+    overflow-x: hidden;
+    background-image: url("../Backgrounds/Background 1b.jpg");
+    background-size: cover;
+    background-position-y: 50%;
+    background-position-x: 2%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: absolute;
+    display: grid;
+    grid-template-rows: 6% 88% 6%;
+    grid-template-rows: 2.6rem calc(100% - 5.2rem) 2.6rem;
+    grid-template-columns: 23% 54% 23%;
+    grid-template-areas:
+        "left-space top-space right-space"
+        "left-space central-space right-space"
+        "left-space bottom-space right-space";
+    font-family: san-francisco-pro-text, serif;
+    /* font-weight: normal; */
+    /* font-size: 62.5%; */
+    font-size: 10px;
+    color: white;
+}
+
+/* ---------------------------------------- STRUCTURE: 1.2 TOGGLES ---------------------------------------- */
+.shown {
+    display: block;
+}
+
+.hidden {
+    display: none;
+}
+
+/* ---------------------------------------- STRUCTURE: 1.3 BACKGROUNDS ---------------------------------------- */
+body #background-1 {}
+
+/* ---------------------------------------- STRUCTURE: 1.4 COLORS ---------------------------------------- */
+
+.color-1 {
+    color: rgb(0, 0, 0);
+}
+
+.color-2 {
+    color: rgb(255, 255, 255);
+    /* filter: invert(98%) sepia(4%) saturate(539%) hue-rotate(220deg) brightness(115%) contrast(100%); */
+}
+
+.color-3 {
+    color: rgb(193, 151, 107);
+    /* filter: invert(100%) sepia(81%) saturate(4014%) hue-rotate(301deg) brightness(79%) contrast(90%); */
+}
+
+.background-color {
+    /* background-color: rgba(255, 255, 255, 0.3); */
+    /* background-color: rgba(193, 151, 107, 1); */
+    /* background-color: rgba(0, 0, 0, 0.8); */
+}
+
+/* ---------------------------------------- STRUCTURE: 1.5 TEXT ---------------------------------------- */
+
+/* ---------------------------------------- STRUCTURE: 1.5.1 FONTS ---------------------------------------- */
+@font-face {
+    font-family: "sunday-sport";
+    src: url("../Fonts/Training Revolution  ∕  Title, Training, “Sunday Sport”, 5 Stars  ∕  Font.eot");
+    src: url("../Fonts/Training Revolution  ∕  Title, Training, “Sunday Sport”, 5 Stars  ∕  Font.woff") format("woff"),
+        url("../Fonts/Training Revolution  ∕  Title, Training, “Sunday Sport”, 5 Stars  ∕  Font.ttf") format("truetype"),
+        url("../Fonts/Training Revolution  ∕  Title, Training, “Sunday Sport”, 5 Stars  ∕  Font.otf") format("opentype"),
+        url("../Fonts/Training Revolution  ∕  Title, Training, “Sunday Sport”, 5 Stars  ∕  Font.svg#filename") format("svg");
+}
+
+@font-face {
+    font-family: "running-start-basic";
+    src: url("../Fonts/Training Revolution  ∕  Heading, Training, “Running Start Basic”, 3 Stars  ∕  Font.eot");
+    src: url("../Fonts/Training Revolution  ∕  Heading, Training, “Running Start Basic”, 3 Stars  ∕  Font.woff") format("woff"),
+        url("../Fonts/Training Revolution  ∕  Heading, Training, “Running Start Basic”, 3 Stars  ∕  Font.ttf") format("truetype"),
+        url("../Fonts/Training Revolution  ∕  Heading, Training, “Running Start Basic”, 3 Stars  ∕  Font.otf") format("opentype"),
+        url("../Fonts/Training Revolution  ∕  Heading, Training, “Running Start Basic”, 3 Stars  ∕  Font.svg#filename") format("svg");
+}
+
+@font-face {
+    font-family: "arial";
+    src: url("../Fonts/Training Revolution  ∕  Body, “Arial”, 5 Stars  ∕  Font.eot");
+    src: url("../Fonts/Training Revolution  ∕  Body, “Arial”, 5 Stars  ∕  Font.woff") format("woff"),
+        url("../Fonts/Training Revolution  ∕  Body, “Arial”, 5 Stars  ∕  Font.ttf") format("truetype"),
+        url("../Fonts/Training Revolution  ∕  Body, “Arial”, 5 Stars  ∕  Font.otf") format("opentype"),
+        url("../Fonts/Training Revolution  ∕  Body, “Arial”, 5 Stars  ∕  Font.svg#filename") format("svg");
+}
+
+@font-face {
+    font-family: "arial-bold";
+    src: url("../Fonts/Training Revolution  ∕  Body, “Arial”, Bold, 5 Stars  ∕  Font.eot");
+    src: url("../Fonts/Training Revolution  ∕  Body, “Arial”, Bold, 5 Stars  ∕  Font.woff") format("woff"),
+        url("../Fonts/Training Revolution  ∕  Body, “Arial”, Bold, 5 Stars  ∕  Font.ttf") format("truetype"),
+        url("../Fonts/Training Revolution  ∕  Body, “Arial”, Bold, 5 Stars  ∕  Font.otf") format("opentype"),
+        url("../Fonts/Training Revolution  ∕  Body, “Arial”, Bold, 5 Stars  ∕  Font.svg#filename") format("svg");
+}
+
+@font-face {
+    font-family: "roboto";
+    src: url("../Fonts/Training Revolution  ∕  Body, “Roboto”, 5 Stars  ∕  Font.eot");
+    src: url("../Fonts/Training Revolution  ∕  Body, “Roboto”, 5 Stars  ∕  Font.woff") format("woff"),
+        url("../Fonts/Training Revolution  ∕  Body, “Roboto”, 5 Stars  ∕  Font.ttf") format("truetype"),
+        url("../Fonts/Training Revolution  ∕  Body, “Roboto”, 5 Stars  ∕  Font.otf") format("opentype"),
+        url("../Fonts/Training Revolution  ∕  Body, “Roboto”, 5 Stars  ∕  Font.svg#filename") format("svg");
+}
+
+@font-face {
+    font-family: "roboto-bold";
+    src: url("../Fonts/Training Revolution  ∕  Body, “Roboto”, Bold, 5 Stars  ∕  Font.eot");
+    src: url("../Fonts/Training Revolution  ∕  Body, “Roboto”, Bold, 5 Stars  ∕  Font.woff") format("woff"),
+        url("../Fonts/Training Revolution  ∕  Body, “Roboto”, Bold, 5 Stars  ∕  Font.ttf") format("truetype"),
+        url("../Fonts/Training Revolution  ∕  Body, “Roboto”, Bold, 5 Stars  ∕  Font.otf") format("opentype"),
+        url("../Fonts/Training Revolution  ∕  Body, “Roboto”, Bold, 5 Stars  ∕  Font.svg#filename") format("svg");
+}
+
+@font-face {
+    font-family: "san-francisco-pro-display";
+    src: url("../Fonts/Training Revolution  ∕  “San Francisco Pro (Display)”  ∕  Font.eot");
+    src: url("../Fonts/Training Revolution  ∕  “San Francisco Pro (Display)”  ∕  Font.woff") format("woff"),
+        url("../Fonts/Training Revolution  ∕  “San Francisco Pro (Display)”  ∕  Font.ttf") format("truetype"),
+        url("../Fonts/Training Revolution  ∕  “San Francisco Pro (Display)”  ∕  Font.otf") format("opentype"),
+        url("../Fonts/Training Revolution  ∕  “San Francisco Pro (Display)”  ∕  Font.svg#filename") format("svg");
+}
+
+@font-face {
+    font-family: "san-francisco-pro-text";
+    src: url("../Fonts/Training Revolution  ∕  “San Francisco Pro (Text)”  ∕  Font.eot");
+    src: url("../Fonts/Training Revolution  ∕  “San Francisco Pro (Text)”  ∕  Font.woff") format("woff"),
+        url("../Fonts/Training Revolution  ∕  “San Francisco Pro (Text)”  ∕  Font.ttf") format("truetype"),
+        url("../Fonts/Training Revolution  ∕  “San Francisco Pro (Text)”  ∕  Font.otf") format("opentype"),
+        url("../Fonts/Training Revolution  ∕  “San Francisco Pro (Text)”  ∕  Font.svg#filename") format("svg");
+}
+
+/* ---------------------------------------- STRUCTURE: 1.5.2 TITLE TEXT ---------------------------------------- */
+.title-text,
+.primary-heading-text,
+h1 {
+    all: unset;
+    color: white;
+    color: rgb(161, 114, 73);
+    font-size: 1.6rem;
+    font-weight: normal;
+    font-family: Sunday-Sport, sans-serif;
+}
+
+/* ---------------------------------------- STRUCTURE: 1.5.3 HEADING TEXT ---------------------------------------- */
+.secondary-heading-text,
+h2 {
+    all: unset;
+    color: rgb(193, 151, 107);
+    font-family: Running-Start-Basic, serif;
+    font-size: 0.9rem;
+    font-weight: bold;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 0.01rem;
+    white-space: nowrap;
+}
+
+.tertiary-heading-text,
+h3 {
+    all: unset;
+    color: rgb(193, 151, 107);
+    font-family: Running-Start-Basic, serif;
+    font-size: 0.7rem;
+    font-weight: bold;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 0.01rem;
+    white-space: nowrap;
+}
+
+.quaternary-heading-text,
+h4 {
+    all: unset;
+    color: rgb(193, 151, 107);
+    font-family: Running-Start-Basic, serif;
+    font-size: 0.6rem;
+    font-weight: bold;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 0.01rem;
+    white-space: nowrap;
+}
+
+.quinary-heading-text,
+h5 {
+    all: unset;
+    color: rgb(193, 151, 107);
+    font-family: Running-Start-Basic, serif;
+    font-size: 0.6rem;
+    font-weight: bold;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 0.02rem;
+    white-space: nowrap;
+}
+
+.senary-heading-text,
+h6 {
+    all: unset;
+    color: rgb(193, 151, 107);
+    font-family: Running-Start-Basic, serif;
+    font-size: 0.6rem;
+    font-weight: bold;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 0.02rem;
+    white-space: nowrap;
+}
+
+/* ---------------------------------------- STRUCTURE: 1.5.4 BODY TEXT ---------------------------------------- */
+.primary-body-text {
+    font-family: san-francisco-pro-text, serif;
+    font-size: 1.2rem;
+    color: white;
+}
+
+.secondary-body-text {
+    font-family: san-francisco-pro-text, serif;
+    font-size: 1rem;
+    color: white;
+}
+
+.tertiary-body-text {
+    font-family: san-francisco-pro-text, serif;
+    font-size: 0.9rem;
+    color: white;
+}
+
+/* ---------------------------------------- STRUCTURE: 1.6 ELEMENTS ---------------------------------------- */
+
+/* ---------------------------------------- STRUCTURE: 1.6.1 BUTTONS ---------------------------------------- */
+.buttons {
+    all: unset;
+    height: 1rem;
+    width: 1rem;
+    /* aspect-ratio: auto; */
+    /* background-color: red; */
+    /* background-color: rgba(0, 0, 0, 0.8); */
+    /* background-color: invert(0%) sepia(4%) saturate(0%) hue-rotate(52deg) brightness(99%) contrast(103%); */
+    padding: 0.3rem;
+    border-radius: 30%;
+    filter: invert(98%) sepia(4%) saturate(539%) hue-rotate(220deg) brightness(115%) contrast(100%);
+    filter: invert(100%) sepia(81%) saturate(4014%) hue-rotate(301deg) brightness(79%) contrast(90%);
+    /* filter: invert(100%) sepia(81%) saturate(4014%) hue-rotate(301deg) brightness(79%) contrast(90%) drop-shadow(0px 0px 3px rgb(193, 151, 107)); */
+    opacity: 1;
+    position: relative;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    justify-self: center;
+    position: relative;
+    z-index: 10;
+}
+
+.buttons img {
+    justify-self: ;
+}
+
+.buttons:hover {
+    filter: invert(98%) sepia(4%) saturate(539%) hue-rotate(220deg) brightness(115%) contrast(100%);
+}
+
+.buttons:active {
+    filter: invert(98%) sepia(4%) saturate(539%) hue-rotate(220deg) brightness(115%) contrast(100%);
+    transform: scale(88%);
+}
+
+/* .buttons:focus {
+    filter: invert(40%) sepia(20%) saturate(100%) hue-rotate(40deg) brightness(115%) contrast(100%);
+} */
+
+.navigation-buttons {
+    margin: 0 0.5%;
+}
+
+.phase-buttons {
+    margin: 12% 0;
+}
+
+.control-buttons {
+    /* display: none; */
+    margin: 0 0.5%;
+}
+
+/* #left-interaction-control-button-3 {
+    height: 10.5%;
+    width: 10.5%;
+    background: none;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+/* #left-interaction-control-button-3 svg {
+    position: relative;
+}
+
+#left-interaction-control-button-3:active {
+    color: white;
+} */
+
+/* ---------------------------------------- STRUCTURE: 1.6.2 LOGOS ---------------------------------------- */
+.logos {
+    width: 4rem;
+    aspect-ratio: auto;
+    position: relative;
+    opacity: 1;
+    /* filter: drop-shadow(0px 0px 6px white); */
+    /* filter: drop-shadow(0px 0px 8px rgb(193, 151, 107)); */
+}
+
+.left-interaction-logos {}
+
+.right-interaction-logos {}
+
+/* ---------------------------------------- STRUCTURE: 1.6.3 PARTITIONS ---------------------------------------- */
+/* .partitions {
+    border-width: 0;
+    margin: 0;
+    position: absolute;
+    background-color: rgba(193, 151, 107, 1);
+    background-color: linear-gradient(#C1976B, rgba(0, 0, 0, 0.1), #C1976B, rgba(0, 0, 0, 0.1), #C1976B) 21;
+} */
+
+/* .horizontal-partitions {
+    height: 0.05rem;
+    width: 95%;
+} */
+
+/* .vertical-partitions {
+    height: 93%;
+    width: 0.05rem;
+} */
+
+/* ---------------------------------------- STRUCTURE: 2 SPACES ---------------------------------------- */
+.spaces {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.horizontal-spaces {}
+
+.vertical-spaces {}
+
+/* ---------------------------------------- STRUCTURE: 2.1 CENTRAL SPACE ---------------------------------------- */
+#central-space {
+    grid-area: central-space;
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.8);
+    /* border-radius: 1%; */
+    display: grid;
+    grid-template-rows: 14% 11% 75%;
+    grid-template-columns: 14% 29% 57%;
+    grid-template-areas:
+        "exercise-name exercise-name exercise-name"
+        "exercise-decoding exercise-decoding exercise-decoding"
+        "exercise-decoding-displays exercise-decoding-listings exercise-display";
+    border-color: rgba(193, 151, 107, 1);
+    /* border-width: 0.5rem; */
+    /* border-style: solid; */
+    box-sizing: border-box;
+    border: 0.3rem solid transparent;
+    /* border-image: linear-gradient(37deg, transparent, #C1976B, transparent, #C1976B, transparent); */
+    border-image: linear-gradient(-45deg, transparent, #C1976B, transparent);
+    border-image-slice: 1;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#top-space-partition {
+    justify-self: center;
+    align-self: flex-start;
+}
+
+#left-space-partition {
+    justify-self: flex-start;
+    align-self: center;
+}
+
+#right-space-partition {
+    justify-self: flex-end;
+    align-self: center;
+}
+
+#bottom-space-partition {
+    justify-self: center;
+    align-self: flex-end;
+}
+
+/* ---------------------------------------- STRUCTURE: 2.1.1 CENTRAL SPACE GRID 1 ---------------------------------------- */
+#central-space-grid-1 {
+    /* background-color: rgba(255, 0, 0, 0.1); */
+    grid-area: exercise-name;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 0.8rem;
+    padding-left: 0.8rem;
+    padding-right: 0.8rem;
+    padding-bottom: 0.4rem;
+}
+
+#exercise-name {
+    display: inline;
+    position: relative;
+    text-align: center;
+    /* -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 0.02rem; */
+    /* white-space: nowrap; */
+    /* text-decoration: underline; */
+}
+
+/* ---------------------------------------- STRUCTURE: 2.1.2 CENTRAL SPACE GRID 2 ---------------------------------------- */
+#central-space-grid-2 {
+    /* background-color: rgba(0, 255, 0, 0.1); */
+    grid-area: exercise-decoding;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-content: center;
+    padding-top: 0.4rem;
+    padding-left: 0.8rem;
+    padding-right: 0.8rem;
+    padding-bottom: 0.4rem;
+}
+
+.decoding-containers {
+    /* background-color: black; */
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.decoding-titles {
+    display: inline;
+    position: relative;
+    white-space: nowrap;
+}
+
+.decoding-displays {
+    display: inline;
+    position: relative;
+    /* -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 0.02rem; */
+    /* white-space: nowrap; */
+    overflow-y: auto;
+    overflow-wrap: break-word;
+}
+
+.decoding-displays::-webkit-scrollbar {
+    display: none;
+}
+
+/* ---------------------------------------- STRUCTURE: 2.1.3 CENTRAL SPACE GRID 3 ---------------------------------------- */
+#central-space-grid-3 {
+    /* background-color: rgba(0, 0, 255, 0.1); */
+    grid-area: exercise-decoding-displays;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding-top: 0.4rem;
+    padding-left: 0.8rem;
+    padding-right: 0.4rem;
+    padding-bottom: 0.8rem;
+}
+
+.display-containers {
+    height: 22%;
+    aspect-ratio: auto 1/1;
+    background-color: rgba(255, 255, 255, 1);
+    border-radius: 50%;
+    /* margin-left: 5%; */
+    /* position: absolute; */
+    /* margin: -13% 0 -13% 2%; */
+}
+
+.display-containers img {
+    max-height: 100%;
+    max-width: 100%;
+    border-radius: 2%;
+    aspect-ratio: auto 1/1;
+    border-radius: 50%;
+    /* object-fit: fill; */
+}
+
+/* ---------------------------------------- STRUCTURE: 2.1.4 CENTRAL SPACE GRID 4 ---------------------------------------- */
+#central-space-grid-4 {
+    /* background-color: rgba(255, 255, 0, 0.1); */
+    grid-area: exercise-decoding-listings;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding-top: 0.4rem;
+    padding-left: 0.4rem;
+    padding-right: 0.4rem;
+    padding-bottom: 0.8rem;
+}
+
+.listing-containers {
+    width: 100%;
+    height: 22%;
+    /* background-color: rgba(255, 255, 255, 0.1); */
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    /* border-left-color: rgba(193, 151, 107, 0.7); */
+    border-left-width: 0.13rem;
+    border-left-style: solid;
+    /* border-image: linear-gradient(#C1976B, #000000, #C1976B, #000000, #C1976B) 21; */
+    border-image: linear-gradient(transparent, transparent, #C1976B, transparent, transparent) 18;
+    padding-left: 0.4rem;
+    /* border-top-width: 0.01rem;
+    border-top-style: solid;
+    border-top-color: rgba(255, 255, 255, 0.3); */
+    /* border-bottom-width: 0.01rem;
+    border-bottom-style: solid;
+    border-bottom-color: rgba(255, 255, 255, 0.3); */
+    /* margin-bottom: 4%; */
+    /* padding-top: 1rem; */
+    /* margin: -4% 0; */
+}
+
+#muscles-listing-container {
+    border-top-width: 0;
+}
+
+.listing-titles {
+    display: flex;
+    /* justify-self: flex-start; */
+    /* align-self: center; */
+}
+
+.listing-descriptions {
+    /* justify-self: center; */
+    /* align-self: center; */
+    /* -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 0.02rem; */
+    overflow-y: auto;
+    overflow-wrap: break-word;
+}
+
+.listing-descriptions::-webkit-scrollbar {
+    display: none;
+}
+
+/* ---------------------------------------- STRUCTURE: 2.1.5 CENTRAL SPACE GRID 5 ---------------------------------------- */
+#central-space-grid-5 {
+    /* background-color: rgba(255, 0, 255, 0.1); */
+    grid-area: exercise-display;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding-top: 0.4rem;
+    padding-left: 0.4rem;
+    padding-right: 0.8rem;
+    padding-bottom: 0.8rem;
+}
+
+#exercises-display-container {
+    background-color: rgba(255, 255, 255, 1);
+    aspect-ratio: auto 1/1;
+    height: 100%;
+    /* width: 51%; */
+    border-radius: 2%;
+    /* margin-right: 3%; */
+    /* margin-bottom: 2%; */
+    position: relative;
+}
+
+#exercises-display-container img {
+    max-height: 100%;
+    max-width: 100%;
+    border-radius: 2%;
+    /* object-fit: fill; */
+}
+
+/* ---------------------------------------- STRUCTURE: 2.2 TOP SPACE ---------------------------------------- */
+#top-space {
+    grid-area: top-space;
+    position: relative;
+    display: grid;
+    grid-template-rows: 100%;
+    grid-template-columns: 20% 60% 20%;
+    grid-template-areas:
+        "top-space-left-navigation-bar website-title top-space-right-navigation-bar";
+    background-color: rgba(0, 0, 0, 0.7);
+    backdrop-filter: blur(12px);
+}
+
+.top-interaction-navigation-buttons {
+    z-index: 10;
+}
+
+/* ---------------------------------------- STRUCTURE: 2.2.1 TOP SPACE GRID 1 ---------------------------------------- */
+#top-space-grid-1 {
+    /* background-color: rgba(255, 0, 0, 0.1); */
+    grid-area: top-space-left-navigation-bar;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* ---------------------------------------- STRUCTURE: 2.2.2 TOP SPACE GRID 2 ---------------------------------------- */
+#top-space-grid-2 {
+    font-size: unset;
+    /* background-color: rgba(0, 255, 0, 0.1); */
+    grid-area: website-title;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#website-title {
+    margin: 0;
+    text-align: center;
+    position: relative;
+    white-space: nowrap;
+    z-index: 10;
+    /* filter: drop-shadow(0px 0px 6px white); */
+    /* filter: drop-shadow(0px 0px 5px rgb(124, 96, 66)); */
+    /* filter: drop-shadow(0px 0px 6px rgb(110, 81, 49)); */
+}
+
+/* ---------------------------------------- STRUCTURE: 2.2.3 TOP SPACE GRID 3 ---------------------------------------- */
+#top-space-grid-3 {
+    /* background-color: rgba(0, 0, 255, 0.1); */
+    grid-area: top-space-right-navigation-bar;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* ---------------------------------------- STRUCTURE: 2.3 LEFT SPACE ---------------------------------------- */
+#left-space {
+    grid-area: left-space;
+    position: relative;
+    display: grid;
+    grid-template-rows: 2.6rem 2.6rem calc(100% - 7.8rem) 2.6rem;
+    grid-template-columns: 2.6rem 2.6rem calc(100% - 5.2rem);
+    grid-template-areas:
+        "left-interaction-logo left-interaction-logo left-interaction-navigation-bar"
+        "left-interaction-logo left-interaction-logo left-interaction-title"
+        "left-interaction-phase-bar left-interaction-area left-interaction-area"
+        "left-interaction-phase-bar left-interaction-control-bar left-interaction-control-bar";
+    /* background-color: rgba(150, 0, 0, 0.3); */
+    /* background-color: rgba(0, 0, 0, 0.8); */
+}
+
+/* ---------------------------------------- STRUCTURE: 2.3.1 LEFT SPACE GRID 1 ---------------------------------------- */
+#left-space-grid-1 {
+    /* background-color: rgba(100, 100, 100, 0.2); */
+    grid-area: left-interaction-logo;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#training-revolution-logo {
+    /* transform: rotate(40deg); */
+    z-index: 20;
+}
+
+/* ---------------------------------------- STRUCTURE: 2.3.2 LEFT SPACE GRID 2 ---------------------------------------- */
+#left-space-grid-2 {
+    /* background-color: rgba(255, 0, 0, 0.1); */
+    grid-area: 1 / 2 / 1 / 4;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-right: 0.8rem;
+}
+
+.left-interaction-navigation-buttons {}
+
+/* ---------------------------------------- STRUCTURE: 2.3.3 LEFT SPACE GRID 3 ---------------------------------------- */
+#left-space-grid-3 {
+    /* background-color: rgba(0, 255, 0, 0.1); */
+    grid-area: 2 / 2 / 2 / 4;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    padding-top: 0.4rem;
+    padding-right: 0.8rem;
+}
+
+/* ---------------------------------------- STRUCTURE: 2.3.4 LEFT SPACE GRID 4 ---------------------------------------- */
+#left-space-grid-4 {
+    /* background-color: rgba(0, 0, 255, 0.1); */
+    grid-area: 1 / 1 / 5 / 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.left-interaction-phase-buttons {}
+
+/* ---------------------------------------- STRUCTURE: 2.3.5 LEFT SPACE GRID 5 ---------------------------------------- */
+#left-space-grid-5 {
+    /* background-color: rgba(0, 0, 0, 0.8); */
+    /* background-color: rgba(255, 255, 0, 0.1); */
+    grid-area: left-interaction-area;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    /* padding-top: 0.3rem; */
+    /* overflow-y: scroll; */
+    overflow-wrap: break-word;
+    padding-right: 0.8rem;
+}
+
+/* ---------------------------------------- STRUCTURE: 2.3.6 LEFT SPACE GRID 6 ---------------------------------------- */
+#left-space-grid-6 {
+    /* background-color: rgba(0, 255, 255, 0.1); */
+    grid-area: left-interaction-control-bar;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-right: 0.8rem;
+}
+
+/* ---------------------------------------- STRUCTURE: 2.4 RIGHT SPACE ---------------------------------------- */
+#right-space {
+    grid-area: right-space;
+    display: grid;
+    /* grid-template-rows: 6% 6% 82% 6%; */
+    grid-template-rows: 2.6rem 2.6rem calc(100% - 7.8rem) 2.6rem;
+    grid-template-columns: calc(100% - 5.2rem) 2.6rem 2.6rem;
+    grid-template-areas:
+        "right-interaction-navigation-bar right-interaction-logo right-interaction-logo"
+        "right-interaction-title right-interaction-logo right-interaction-logo"
+        "right-interaction-area right-interaction-area right-interaction-phase-bar"
+        "right-interaction-control-bar right-interaction-control-bar right-interaction-phase-bar";
+}
+
+/* ---------------------------------------- STRUCTURE: 2.4.1 RIGHT SPACE GRID 1 ---------------------------------------- */
+#right-space-grid-1 {
+    /* background-color: rgba(100, 100, 100, 0.2); */
+    grid-area: right-interaction-logo;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+#revolution-logo {
+    z-index: 20;
+}
+
+/* ---------------------------------------- STRUCTURE: 2.4.2 RIGHT SPACE GRID 2 ---------------------------------------- */
+#right-space-grid-2 {
+    /* background-color: rgba(255, 0, 0, 0.1); */
+    grid-area: 1 / 1 / 1 / 3;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-left: 0.8rem;
+}
+
+.right-interaction-navigation-buttons {}
+
+/* ---------------------------------------- STRUCTURE: 2.4.3 RIGHT SPACE GRID 3 ---------------------------------------- */
+#right-space-grid-3 {
+    /* background-color: rgba(0, 255, 0, 0.1); */
+    grid-area: 2 / 1 / 2 / 3;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    padding-top: 0.4rem;
+    padding-left: 0.8rem;
+}
+
+/* ---------------------------------------- STRUCTURE: 2.4.4 RIGHT SPACE GRID 4 ---------------------------------------- */
+#right-space-grid-4 {
+    /* background-color: rgba(0, 0, 255, 0.1); */
+    grid-area: 1 / 3 / 5 / 3;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.right-interaction-phase-buttons {}
+
+/* ---------------------------------------- STRUCTURE: 2.4.5 RIGHT SPACE GRID 5 ---------------------------------------- */
+#right-space-grid-5 {
+    /* background-color: rgba(0, 0, 0, 0.8); */
+    /* background-color: rgba(255, 255, 0, 0.1); */
+    /* border-radius: 1.5%; */
+    grid-area: right-interaction-area;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    /* overflow-y: scroll; */
+    overflow-wrap: break-word;
+    padding-left: 0.8rem;
+}
+
+/* ---------------------------------------- STRUCTURE: 2.4.6 RIGHT SPACE GRID 6 ---------------------------------------- */
+#right-space-grid-6 {
+    /* background-color: rgba(0, 255, 255, 0.1); */
+    grid-area: right-interaction-control-bar;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-left: 0.8rem;
+}
+
+/* ---------------------------------------- STRUCTURE: 2.5 BOTTOM SPACE ---------------------------------------- */
+#bottom-space {
+    grid-area: bottom-space;
+    position: relative;
+    display: grid;
+    grid-template-rows: 100%;
+    grid-template-columns: 100%;
+    grid-template-areas:
+        "bottom-space-control-bar";
+    background-color: rgba(0, 0, 0, 0.7);
+    backdrop-filter: blur(12px);
+    /* color: white; */
+}
+
+/* ---------------------------------------- STRUCTURE: 2.5.1 BOTTOM SPACE GRID 1 ---------------------------------------- */
+#bottom-space-grid-1 {
+    /* background-color: white; */
+    grid-area: bottom-space-control-bar;
+    position: relative;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+/* ---------------------------------------- STRUCTURE: 3 INTERACTIONS ---------------------------------------- */
+.interactions {
+    position: absolute;
+    /* display: grid; */
+}
+
+.horizontal-interactions {
+    height: 6%;
+    width: 54%;
+    /* background-color: rgba(75, 75, 75, 0.7); */
+    /* flex-direction: row; */
+}
+
+.vertical-interactions {
+    height: 100%;
+    width: 23%;
+    /* width: calc(20% - 0.1rem); */
+    /* background-color: rgba(49, 49, 49, 0.7); */
+    /* flex-direction: row; */
+    /* justify-content: space-evenly; */
+}
+
+/* ---------------------------------------- STRUCTURE: 3.1 TOP INTERACTION ---------------------------------------- */
+#top-interaction {
+    top: 0%;
+    left: 50%;
+    height: 2.6rem;
+    transform: translate(-50%, 0%);
+    display: grid;
+    grid-template-rows: 100%;
+    grid-template-columns: 20% 60% 20%;
+}
+
+/* ---------------------------------------- STRUCTURE: 2.2.1 TOP INTERACTION GRID 1 ---------------------------------------- */
+#top-interaction-grid-1 {
+    /* background-color: rgba(255, 0, 0, 0.1); */
+    grid-area: 1 / 1 / 1 / 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* ---------------------------------------- STRUCTURE: 2.2.2 TOP INTERACTION GRID 2 ---------------------------------------- */
+#top-interaction-grid-2 {
+    /* background-color: rgba(0, 255, 0, 0.1); */
+    grid-area: 1 / 2 / 1 / 2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* ---------------------------------------- STRUCTURE: 2.2.3 TOP INTERACTION GRID 3 ---------------------------------------- */
+#top-interaction-grid-3 {
+    /* background-color: rgba(0, 0, 255, 0.1); */
+    grid-area: 1 / 3 / 1 / 3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* ---------------------------------------- STRUCTURE: 3.2 LEFT INTERACTION ---------------------------------------- */
+#left-interaction {
+    top: 0;
+    left: -23%;
+    display: grid;
+    /* grid-template-rows: 6% 6% 82% 6%; */
+    grid-template-rows: 2.6rem 2.6rem calc(100% - 7.8rem) 2.6rem;
+    grid-template-columns: 2.6rem 2.6rem calc(100% - 5.2rem);
+    grid-template-areas:
+        "left-interaction-logo left-interaction-logo left-interaction-navigation-bar"
+        "left-interaction-logo left-interaction-logo left-interaction-title"
+        "left-interaction-phase-bar left-interaction-area left-interaction-area"
+        "left-interaction-phase-bar left-interaction-control-bar left-interaction-control-bar";
+    /* background-color: rgba(150, 0, 0, 0.3); */
+    background-color: rgba(0, 0, 0, 0.4);
+    backdrop-filter: blur(12px);
+    /* -webkit-backdrop-filter: blur(16px); */
+    /* box-shadow: 0 0 0.1rem rgb(0, 0, 0); */
+    transition: .35s ease-out;
+}
+
+#left-interaction.active {
+    display: grid;
+    left: 0;
+}
+
+#left-interaction-toggle-button {}
+
+#left-interaction-close-button {}
+
+/* ---------------------------------------- STRUCTURE: 3.2.1 LEFT INTERACTION GRID 1 ---------------------------------------- */
+#left-interaction-grid-1 {
+    /* background-color: rgba(100, 100, 100, 0.2); */
+    grid-area: left-interaction-logo;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+/* ---------------------------------------- STRUCTURE: 3.2.2 LEFT INTERACTION GRID 2 ---------------------------------------- */
+#left-interaction-grid-2 {
+    /* background-color: rgba(255, 0, 0, 0.1); */
+    grid-area: 1 / 2 / 1 / 4;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-right: 0.8rem;
+}
+
+/* ---------------------------------------- STRUCTURE: 3.2.3 LEFT INTERACTION GRID 3 ---------------------------------------- */
+#left-interaction-grid-3 {
+    /* background-color: rgba(0, 255, 0, 0.1); */
+    grid-area: 2 / 2 / 2 / 4;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    padding-top: 0.65rem;
+    padding-right: 0.8rem;
+}
+
+#left-interaction-title {
+    display: inline;
+    position: relative;
+    white-space: nowrap;
+}
+
+/* ---------------------------------------- STRUCTURE: 3.2.4 LEFT INTERACTION GRID 4 ---------------------------------------- */
+#left-interaction-grid-4 {
+    /* background-color: rgba(0, 0, 255, 0.1); */
+    grid-area: 1 / 1 / 5 / 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* ---------------------------------------- STRUCTURE: 3.2.5 LEFT INTERACTION GRID 5 ---------------------------------------- */
+#left-interaction-grid-5 {
+    /* background-color: rgba(255, 255, 0, 0.1); */
+    grid-area: left-interaction-area;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    overflow-y: scroll;
+    overflow-wrap: break-word;
+    padding-right: 0.8rem;
+}
+
+#left-interaction-grid-5::-webkit-scrollbar {
+    display: none;
+}
+
+.filter-menu-buttons {
+    display: inline;
+    position: relative;
+    /* color: rgb(193, 151, 107); */
+    white-space: nowrap;
+    padding: 0.5rem 0.8rem;
+    /* margin-top: 8%;
+    margin-bottom: 8%; */
+    /* justify-self: center;
+    align-self: center; */
+    /* margin: 0.2rem 0; */
+    border-left-width: 0.1rem;
+    border-left-style: solid;
+    border-right-width: 0.1rem;
+    border-right-style: solid;
+    border-image: linear-gradient(transparent, transparent, rgba(255, 255, 255, 0.3), transparent, transparent) 5;
+    color: white;
+    z-index: 11;
+}
+
+.filter-menus {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin: 0.2rem 0;
+}
+
+.filter-submenus {
+    overflow-y: scroll;
+    max-height: 20rem;
+}
+
+.filter-submenus::-webkit-scrollbar {
+    display: none;
+}
+
+.filter-menu-buttons:hover {
+    cursor: pointer;
+    color: rgb(193, 151, 107);
+    border-image: linear-gradient(transparent, transparent, #C1976B, transparent, transparent) 5;
+    /* font-size: 120%; */
+}
+
+.filter-menus:first-of-type {
+    margin-top: 0;
+}
+
+.filter-menus:last-of-type {
+    margin-bottom: 0;
+}
+
+/* .filter-handles-container {
+    display: flex;
+    flex-direction: row;
+} */
+
+/* .filter-handles-container a {
+    position: relative;
+    justify-self: flex-start;
+    align-self: flex-start;
+} */
+
+/* .filter-handles-container i {
+    position: relative;
+    justify-self: flex-start;
+    align-self: flex-start;
+    float: right;
+} */
+
+.filter-handles-container {
+    position: relative;
+    /* background-color: red; */
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.filter-handles-container:hover>.dropdown-chevrons {
+    filter: invert(100%) sepia(81%) saturate(4014%) hue-rotate(301deg) brightness(79%) contrast(90%);
+    transition: 0.3s ease;
+}
+
+.filter-handles-container:hover>.filter-menu-buttons {
+    color: rgb(193, 151, 107);
+    transition: 0.3s ease;
+}
+
+.filter-menus {
+    position: relative;
+    cursor: pointer;
+}
+
+.filter-menu-buttons {
+    position: relative;
+    justify-self: center;
+    align-self: center;
+}
+
+.filter-menus a:hover,
+.dropdown-chevrons:hover {
+    transition: 0.3s ease;
+}
+
+.dropdown-chevrons {
+    justify-self: center;
+    align-self: center;
+    position: relative;
+    transition: 0.1s ease;
+    height: 0.8rem;
+    width: 0.8rem;
+    filter: invert(100%) sepia(81%) saturate(4014%) hue-rotate(301deg) brightness(79%) contrast(90%);
+    filter: invert(98%) sepia(4%) saturate(539%) hue-rotate(220deg) brightness(115%) contrast(100%);
+    padding-bottom: 0.1rem;
+}
+
+.filter-menus .filter-submenus {
+    display: none;
+    min-width: 100%;
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.8);
+    /* background-color: rgba(193, 151, 107, 0.5); */
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 2%;
+    margin: 0.4rem 0 0.2rem 0;
+}
+
+.filter-forms {
+    padding: 0.2rem 0.6rem;
+}
+
+.filter-forms div {
+    margin: 0.5rem 0rem;
+}
+
+.filter-checkmarks {
+    padding: 0.4rem 0.1rem;
+}
+
+.filter-checkmarks:hover {
+    color: rgb(193, 151, 107);
+    cursor: pointer;
+}
+
+.filter-checkboxes {}
+
+.filter-checkboxes:hover {
+    cursor: pointer;
+}
+
+.filter-checkboxes:checked+.filter-checkmarks {
+    color: rgb(193, 151, 107);
+}
+
+.filter-checkboxes:checked {
+    accent-color: rgba(193, 151, 107, 1);
+}
+
+.rotate {
+    transform: rotate(90deg);
+}
+
+#left-interaction-grid-5 hr {
+    /* height: 0.05rem; */
+    width: 60%;
+    /* border-width: 0.05rem; */
+    margin: 1rem 0;
+    position: relative;
+    /* border-top-color: rgba(193, 151, 107, 1); */
+    border-top-color: rgba(255, 255, 255, 0.3);
+    border-top-style: hidden;
+    border-top-style: dashed;
+    /* border-top-style: dotted; */
+    border-top-width: 0.01rem;
+    /* border-bottom-color: rgba(193, 151, 107, 1);
+    border-bottom-style: solid;
+    border-bottom-width: 0.01rem; */
+    border-bottom: none;
+    /* color: #C1976B; */
+    /* background-color: rgba(193, 151, 107, 0.1); */
+    /* background-color: linear-gradient(#C1976B, rgba(0, 0, 0, 0.1), #C1976B, rgba(0, 0, 0, 0.1), #C1976B) 21; */
+}
+
+/* ---------------------------------------- STRUCTURE: 3.2.6 LEFT INTERACTION GRID 6 ---------------------------------------- */
+#left-interaction-grid-6 {
+    /* background-color: rgba(0, 255, 255, 0.1); */
+    grid-area: left-interaction-control-bar;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-right: 0.8rem;
+}
+
+.left-interaction-control-buttons {}
+
+/* ---------------------------------------- STRUCTURE: 3.3 RIGHT INTERACTION ---------------------------------------- */
+#right-interaction {
+    top: 0;
+    right: -23%;
+    display: grid;
+    /* grid-template-rows: 6% 6% 82% 6%; */
+    grid-template-rows: 2.6rem 2.6rem calc(100% - 7.8rem) 2.6rem;
+    grid-template-columns: calc(100% - 5.2rem) 2.6rem 2.6rem;
+    grid-template-areas:
+        "right-interaction-navigation-bar right-interaction-logo right-interaction-logo"
+        "right-interaction-title right-interaction-logo right-interaction-logo"
+        "right-interaction-area right-interaction-area right-interaction-phase-bar"
+        "right-interaction-control-bar right-interaction-control-bar right-interaction-phase-bar";
+    background-color: rgba(0, 0, 0, 0.4);
+    backdrop-filter: blur(12px);
+    transition: .35s ease-out;
+}
+
+#right-interaction.active {
+    display: grid;
+    right: 0;
+}
+
+/* ---------------------------------------- STRUCTURE: 3.3.1 RIGHT INTERACTION GRID 1 ---------------------------------------- */
+#right-interaction-grid-1 {
+    /* background-color: rgba(100, 100, 100, 0.2); */
+    grid-area: right-interaction-logo;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+/* ---------------------------------------- STRUCTURE: 3.3.2 RIGHT INTERACTION GRID 2 ---------------------------------------- */
+#right-interaction-grid-2 {
+    /* background-color: rgba(255, 0, 0, 0.1); */
+    grid-area: 1 / 1 / 1 / 3;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-left: 0.8rem;
+}
+
+/* ---------------------------------------- STRUCTURE: 3.3.3 RIGHT INTERACTION GRID 3 ---------------------------------------- */
+#right-interaction-grid-3 {
+    /* background-color: rgba(0, 255, 0, 0.1); */
+    grid-area: 2 / 1 / 2 / 3;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    padding-top: 0.65rem;
+    padding-left: 0.8rem;
+}
+
+#right-interaction-title {
+    display: inline;
+    position: relative;
+    white-space: nowrap;
+}
+
+/* ---------------------------------------- STRUCTURE: 3.3.4 RIGHT INTERACTION GRID 4 ---------------------------------------- */
+#right-interaction-grid-4 {
+    /* background-color: rgba(0, 0, 255, 0.1); */
+    grid-area: 1 / 3 / 5 / 3;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* ---------------------------------------- STRUCTURE: 3.3.5 RIGHT INTERACTION GRID 5 ---------------------------------------- */
+#right-interaction-grid-5 {
+    /* background-color: rgba(255, 255, 0, 0.1); */
+    /* border-radius: 1.5%; */
+    grid-area: right-interaction-area;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.4rem 0;
+    /* justify-self: center;
+    align-self: center; */
+    overflow-y: scroll;
+    overflow-wrap: break-word;
+    padding-left: 0.8rem;
+}
+
+#right-interaction-grid-5::-webkit-scrollbar {
+    display: none;
+}
+
+.preview-containers {
+    /* background-color: rgba(255, 0, 0, 0.1); */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    position: relative;
+    height: 18.9%;
+    margin: 0.2rem 0;
+}
+
+.preview-containers:hover {
+    cursor: pointer;
+}
+
+.preview-containers:first-of-type {
+    margin-top: 0;
+}
+
+.preview-containers:last-of-type {
+    margin-bottom: 0;
+}
+
+.preview-display-containers {
+    background-color: rgba(255, 255, 255, 1);
+    aspect-ratio: auto 1/1;
+    height: 100%;
+    border-radius: 2%;
+    display: flex;
+    justify-self: center;
+    align-self: center;
+}
+
+.preview-displays {
+    max-height: 100%;
+    max-width: 100%;
+    border-radius: 2%;
+    /* object-fit: fill; */
+}
+
+.preview-listing-containers {
+    height: 98%;
+    width: 64%;
+    /* background-color: rgba(0, 255, 0, 0.1); */
+    display: flex;
+    box-sizing: border-box;
+    justify-content: center;
+    align-items: center;
+    /* border-width: 0.01rem; */
+    /* border-style: solid; */
+    /* border-color: white; */
+    border-top-width: 0.01rem;
+    border-top-style: solid;
+    /* border-top-color: rgba(255, 255, 255, 0.3); */
+    border-bottom-width: 0.01rem;
+    border-bottom-style: solid;
+    /* border-bottom-color: rgba(255, 255, 255, 0.3); */
+    /* border-image: linear-gradient(37deg, transparent, #C1976B, transparent, #C1976B, transparent); */
+    border-image: linear-gradient(-90deg, transparent, rgba(255, 255, 255, 0.5), transparent);
+    border-image-slice: 1;
+    text-align: center;
+    padding-left: 1%;
+    padding-right: 1%;
+    /* -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 0.02rem; */
+    /* color: white; */
+    /* color: rgb(111, 78, 55); */
+    /* background-color: rgba(0, 0, 255, 0.1); */
+    text-overflow: ellipsis;
+    overflow: hidden;
+    /* white-space: nowrap; */
+    min-width: 0;
+    /* flex-wrap: nowrap; */
+    font-size: 0.8rem;
+}
+
+.preview-containers:hover>.preview-listing-containers {
+    border-color: rgba(193, 151, 107, 0.8);
+    border-top-color: rgba(193, 151, 107, 0.8);
+    border-bottom-color: rgba(193, 151, 107, 0.8);
+    border-image: linear-gradient(-90deg, transparent, #C1976B, transparent);
+    border-image-slice: 1;
+    color: rgba(193, 151, 107, 1);
+    cursor: pointer;
+}
+
+/* ---------------------------------------- STRUCTURE: 3.3.6 RIGHT INTERACTION GRID 6 ---------------------------------------- */
+#right-interaction-grid-6 {
+    /* background-color: rgba(0, 255, 255, 0.1); */
+    grid-area: right-interaction-control-bar;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-left: 0.8rem;
+}
+
+.right-interaction-control-buttons {}
+
+/* ---------------------------------------- STRUCTURE: 3.4 BOTTOM INTERACTION ---------------------------------------- */
+#bottom-interaction {
+    display: none;
+}
+
+/* ---------------------------------------- STRUCTURE: 4 MEDIA QUERIES ---------------------------------------- */
+
+/* ---------------------------------------- STRUCTURE: 4.1 EXTRA LARGE SCREEN & TV VIEW ---------------------------------------- */
+/* @media (min-width: 1200px) {
+    #website-title {
+        font-size: 1.4rem;
+    }
+} */
+
+/* ---------------------------------------- STRUCTURE: 4.2 LARGE SCREEN & DESKTOP VIEW ---------------------------------------- */
+/* @media (max-width: 1024px) {
+    #website-title {
+        font-size: 1.4rem;
+    }
+} */
+
+/* ---------------------------------------- STRUCTURE: 4.3 SMALL SCREEN & LAPTOP VIEW ---------------------------------------- */
+/* @media (max-width: 900px) {
+    #website-title {
+        font-size: 1.2rem;
+    }
+} */
+
+/* ---------------------------------------- STRUCTURE: 4.4 LANDSCAPE TABLET VIEW ---------------------------------------- */
+/* @media (max-width: 768px) {
+    #website-title {
+        font-size: 1rem;
+    }
+} */
+
+/* ---------------------------------------- STRUCTURE: 4.5 PORTRAIT TABLET & LARGE SMARTPHONE VIEW ---------------------------------------- */
+/* @media (max-width: 600px) {
+    #website-title {
+        font-size: 0.8rem;
+    }
+} */
+
+/* ---------------------------------------- STRUCTURE: 4.6 SMALL SMARTPHONE VIEW ---------------------------------------- */
+/* @media (max-width: 480px) {
+    #website-title {
+        font-size: 0.7rem;
+    }
+} */
+
+/* ---------------------------------------- STRUCTURE: 4.7 EXTRA SMALL SMARTPHONE VIEW ---------------------------------------- */
+/* @media (max-width: 320px) {
+    #website-title {
+        font-size: 0.6rem;
+    }
+} */

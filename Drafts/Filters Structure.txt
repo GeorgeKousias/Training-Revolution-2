@@ -1,0 +1,1310 @@
+----- Exercise Categories -----
+Agility
+Balance
+Coordination
+Endurance
+Flexibility
+Stability
+Strength
+
+----- Exercise Subcategories -----
+Agility Drill
+Bodyweight
+Free Weight
+Plyometric
+
+----- Exercise Types -----
+Abduction
+Adduction
+Arch
+Ballerina
+Battle Rope
+Bend
+Bird Dog
+Body Up
+Bracing
+Bridge
+Burpee
+Carry
+Chin Up
+Circle
+Clamshell
+Clean & Jerk
+Clean & Press
+Climber
+Climbing
+Cluster
+Coaster
+Crawl
+Cross
+Crossover
+Crunch
+Curl
+Cycling
+Dead Bug
+Deadlift
+Dip
+Drag
+Drive
+Expansion
+Extension
+Fall Out
+Figure 8
+Fire Hydrant
+Flag
+Flexion
+Flip
+Fly
+Get Up
+Good Morning
+Grip
+Handstand
+Hang
+Hinge
+Hold
+Hollow Body
+Hollowing
+Hop
+Hyperextension
+Inchworm
+Jab
+Jack
+Jump
+Jumping
+Kick
+Kick Back
+Lever
+Lift
+Lunge
+Muscle Up
+Pendulum
+Pinch
+Planche
+Plank
+Pose
+Power Clean
+Power Skips
+Press
+Pull
+Pull Apart
+Pull Down
+Pull In
+Pull Over
+Pull Through
+Pull Up
+Pump
+Punch
+Push
+Push Down
+Push Jerk
+Push Up
+Raise
+Retraction
+Roller
+Rolling
+Rollout
+Rotation
+Round
+Row
+Running
+Scaption
+Scissor
+Shrug
+Shuffle
+Sit
+Sit Up
+Skater
+Skier
+Skiing
+Skip
+Skull Crusher
+Slam
+Sledge Hammer
+Slide
+Snatch
+Squat
+Step
+Step Down
+Step Up
+Stretch
+Swimmer
+Swimming
+Swing
+Teaser
+Throw
+Thrust
+Thruster
+Tilt
+Touch
+Tuck
+Twist
+Uppercut
+V Up
+Vacuum
+Walk
+Walking
+Windmill
+Wiper
+Wood Chop
+
+----- Exercise Difficulty -----
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+----- Bodyparts -----
+Head
+Lower Limbs
+Torso
+Upper Limbs
+
+----- Bodypart Sections -----
+Abdomen
+Back
+Chest
+Ear
+Hand
+Mouth
+Neck
+Nose
+Pelvis
+Shoulder
+
+----- Muscle Groups -----
+
+
+----- Muscles -----
+Abdominal External Oblique
+Abdominal Internal Oblique
+Abductor Digiti Hand
+Abductor Digiti Minimi Foot
+Abductor Hallucis
+Abductor Pollicis Brevis
+Abductor Pollicis Longus
+Adductor Brevis
+Adductor Hallucis
+Adductor Longus
+Adductor Magnus
+Adductor Pollicis
+Anconeus
+Anterior Auricular
+Anterior Scalene
+Articularis Genus
+Arytenoid
+Biceps
+Biceps Brachii
+Biceps Femoris
+Brachialis
+Brachioradialis
+Buccinator
+Bulbospongiosus
+Chondroglossus
+Coccygeus
+Compressor Naris (Transverse Part)
+Coracobrachialis
+Corrugator Supercilii
+Cricothyroid
+Deltoid
+Depressor Anguli Oris
+Depressor Labii Inferioris
+Depressor Septi Nasi
+Depressor Supercilii
+Digastric
+Dilator Naris (Alar Part)
+Dorsal Interossei Foot
+Dorsal Interossei Hand
+Extensor Carpi Radialis Brevis
+Extensor Carpi Radialis Longus
+Extensor Carpi Ulnaris
+Extensor Digiti Minimi
+Extensor Digitorum
+Extensor Digitorum Brevis
+Extensor Digitorum Longus
+Extensor Hallucis Brevis
+Extensor Hallucis Longus
+Extensor Indicis
+Extensor Pollicis Brevis
+Extensor Pollicis Longus
+External Anal Sphincter
+External Intercostal
+External Obturator
+Fibularis
+Fibularis Brevis
+Fibularis Longus
+Flexor Carpi Radialis
+Flexor Carpi Ulnaris
+Flexor Digiti Minimi Brevis Foot
+Flexor Digiti Minimi Brevis Hand
+Flexor Digitorum Brevis
+Flexor Digitorum Longus
+Flexor Digitorum Profundus
+Flexor Digitorum Superficialis
+Flexor Hallucis Brevis
+Flexor Hallucis Longus
+Flexor Pollicis Brevis
+Flexor Pollicis Longus
+Frontalis
+Gastrocnemius
+Gemellus Inferior
+Gemellus Superior
+Genioglossus
+Geniohyoid
+Gluteus Maximus
+Gluteus Medius
+Gluteus Minimus
+Gracilis
+Hyoglossus
+Iliacus
+Iliococcygeus
+Iliocostalis
+Inferior Longitudinal Tongue
+Inferior Oblique
+Inferior Pharyngeal Constrictor
+Inferior Rectus
+Infraspinatus
+Innermost Intercostal
+Internal Anal Sphincter
+Internal Intercostal
+Internal Obturator
+Interspinales
+Intertransversarii
+Ischiocavernosus
+Lateral Cricoarytenoid
+Lateral Pterygoid
+Lateral Rectus
+Latissimus Dorsi
+Levator Anguli Oris
+Levator Labii Superioris
+Levator Labii Superioris Alaeque Nasi
+Levator Palpebrae Superioris
+Levator Scapulae
+Levator Veli Palatini
+Levatores Costarum
+Longissimus
+Longus Capitis
+Longus Colli
+Lumbricals Foot
+Lumbricals Hand
+Major Zygomaticus
+Masseter
+Medial Pterygoid
+Medial Rectus
+Mentalis
+Middle Pharyngeal Constrictor
+Middle Scalene
+Minor Zygomaticus
+Multifidus
+Mylohyoid
+Obliquus Capitis Inferior
+Obliquus Capitis Superior
+Occipitalis
+Omohyoid
+Opponens Digiti Minimi Hand
+Opponens Pollicis
+Orbicularis Oculi
+Orbicularis Oris
+Palatine Uvula
+Palatoglossus
+Palatopharyngeus
+Palmar Interossei
+Palmaris Brevis
+Palmaris Longus
+Pectineus
+Pectoralis Major
+Pectoralis Minor
+Piriformis
+Plantar Interossei
+Plantaris
+Platysma
+Popliteus
+Posterior Auricular
+Posterior Cricoarytenoid
+Posterior Scalene
+Procerus
+Pronator Quadratus
+Pronator Teres
+Psoas Major
+Psoas Minor
+Pubococcygeus
+Puborectalis
+Pyramidalis
+Quadratus Femoris
+Quadratus Lumborum
+Quadratus Plantae
+Rectus Abdominis
+Rectus Capitis Anterior
+Rectus Capitis Lateralis
+Rectus Capitis Posterior Major
+Rectus Capitis Posterior Minor
+Rectus Femoris
+Rhomboid Major
+Rhomboid Minor
+Risorius
+Rotatores
+Salpingopharyngeus
+Sartorius
+Semimembranosus
+Semispinalis
+Semispinalis Capitis (Complexus)
+Semispinalis Cervicis (Colli)
+Semispinalis Thoracis (Dorsi)
+Semitendinosus
+Serratus Anterior
+Serratus Posterior Inferior
+Serratus Posterior Superior
+Soleus
+Spinalis
+Splenius Capitis
+Splenius Cervicis
+Stapedius
+Sternocleidomastoid
+Sternohyoid
+Sternothyroid
+Styloglossus
+Stylohyoid
+Stylopharyngeus
+Subclavius
+Subcostalis
+Subscapularis
+Superior Auricular
+Superior Longitudinal Tongue
+Superior Oblique
+Superior Pharyngeal Constrictor
+Superior Rectus
+Superior Tarsal
+Supinator
+Supraspinatus
+Temporalis
+Temporoparietalis
+Tensor Fasciae Latae
+Tensor Tympani
+Tensor Veli Palatini
+Teres Major
+Teres Minor
+Thoracic Diaphragm
+Thyroarytenoid
+Thyrohyoid
+Tibialis Anterior
+Tibialis Posterior
+Transverse Abdominal
+Transverse Perineal
+Transverse Tongue
+Transversus Thoracis
+Trapezius
+Triceps
+Urethral Sphincter
+Vastus Intermedius
+Vastus Lateralis
+Vastus Medialis
+Vertical Tongue
+
+----- Equipment -----
+45 Degree Hyperextension Bench
+90 Degree Hyperextension Bench
+Ab Rocker
+Ab Straps
+Ab Wheel Roller
+Abdominal Bench
+Adaptive Motion Trainer Machine
+Adjustable Dumbbell
+Adjustable Dumbbells
+Adjustable Hyperextension Bench
+Adjustable Kettlebell
+Adjustable Kettlebells
+Agility Hurdle
+Agility Ladder
+Air Bike
+Air Rowing Machine
+Air Walker Machine
+Anchor
+Anchor Strap
+Ankle Strap
+Ankle Straps
+Arc Trainer Machine
+Arm Blaster
+Balance Board
+Band Bar
+Band Footplate
+Band Handle
+Band Handles
+Bar Rack
+Barbell
+Barbell Anchor
+Battle Rope
+Beam Pad
+Bench Press
+Bodyweight
+Bosu Ball
+Boxing Gloves
+Cable Crossover Machine
+Cable Lat Pulldown Machine
+Cable Machine
+Cable Pulley Machine
+Calisthenics Gloves
+Cardio Wave Machine
+Ceiling Mount Pull Up Bar
+Chair
+Chairs
+Climbing Anchor Bolt
+Climbing Rope
+Climbing Wall
+Cone
+Consecutive Loop Band
+Crash Mat
+Cross Trainer Machine
+Crunch Harness
+Curved Abdominal Bench
+Curved Treadmill
+D Handle
+D Handle Bar
+D Handles
+Declined Bench
+Declined Bench Press
+Declined Olympic Bench
+Dip Bar
+Dip Bars
+Dip Belt
+Dip Station
+Door Mount Pull Up Bar
+Doorway
+Double D Handle
+Double Lacrosse Ball
+Double Tricep Rope
+Dual Twister Machine
+Dumbbell
+Dumbbell Rack
+Dumbbells
+Elliptical Machine
+EZ Bar
+EZ Barbell
+EZ Handle
+Figure 8 Tube Band
+Finger Gripper
+Fixed Abduction Machine
+Fixed Adduction Machine
+Fixed Assisted Dip Machine
+Fixed Assisted Pull Up Machine
+Fixed Back Extension Machine
+Fixed Back Extension Station
+Fixed Bicep Curl Machine
+Fixed Bridge Machine
+Fixed Crunch Machine
+Fixed Donkey Calf Machine
+Fixed Dumbbell
+Fixed Dumbbells
+Fixed Fly Machine
+Fixed Horizontal Leg Curl Machine
+Fixed Inclined Sitting Chest Press Machine
+Fixed Kettlebell
+Fixed Kettlebells
+Fixed Kick Back Machine
+Fixed Lat Pulldown Machine
+Fixed Leg Curl Machine
+Fixed Leg Extension Machine
+Fixed Lower Abdominal Machine
+Fixed Preacher Curl Machine
+Fixed Pull Over Machine
+Fixed Rotary Torso Machine
+Fixed Rowing Machine
+Fixed Shoulder Press Machine
+Fixed Sitting Calf Machine
+Fixed Sitting Chest Press Machine
+Fixed Sitting Dip Machine
+Fixed Sitting Lateral Raise Machine
+Fixed Sitting Leg Press Machine
+Fixed Sitting Torso Rotation Machine
+Fixed Standing Abduction Machine
+Fixed Standing Adduction Machine
+Fixed Standing Calf Machine
+Fixed Standing Kick Back Machine
+Fixed Standing Lateral Raise Machine
+Fixed Standing Leg Curl Machine
+Fixed Standing Leg Extension Machine
+Fixed Standing Leg Press Machine
+Fixed Tricep Extension Machine
+Fixed Tricep Press Machine
+Flat Band
+Flat Bench
+Flat Benches
+Foam Roller
+Free Bar
+Freestanding Pull Up Bar
+Hammer
+Hand Gripper
+Head Harness
+Hexagonal Agility Ladder
+Home Gym Station
+Horizontal Hyperextension Bench
+Hybrid Rowing Machine
+Hydraulic Rowing Machine
+Hyperextension Bench
+Inclined Bench
+Inclined Bench Press
+Inclined Mat
+Inclined Olympic Bench
+Inclined Step Platform
+Inclined Treadmill
+Inversion Table
+Iron D Handle
+Iron Door Anchor
+Joist Mount Pull Up Bar
+Jump Rope
+Kettlebell
+Kettlebells
+King Pro Abdominal Bench
+Lacrosse Ball
+Landing Mat
+Lat Pulldown Bar
+Lever Ab Coaster Machine
+Lever Belt Squat Machine
+Lever Bridge Machine
+Lever Chest Press Machine
+Lever Crunch Machine
+Lever Deadlift Machine
+Lever Declined Sitting Leg Press Machine
+Lever Donkey Calf Machine
+Lever Front Pulldown Machine
+Lever Glute Ham Developer Machine
+Lever Hack Squat Machine
+Lever High Rowing Machine
+Lever Inclined Shoulder Press Machine
+Lever Inclined Sitting Chest Press Machine
+Lever Lat Pulldown Machine
+Lever Leg Curl Machine
+Lever Leg Extension Machine
+Lever Lying Chest Press Machine
+Lever Lying T Bar Machine
+Lever Neck Extension Machine
+Lever Pendulum Squat Machine
+Lever Preacher Curl Machine
+Lever Pull Over Machine
+Lever Reverse Hyperextension Machine
+Lever Rowing Machine
+Lever Shoulder Press Machine
+Lever Single Grip T Bar Machine
+Lever Sitting Calf Machine
+Lever Sitting Chest Press Machine
+Lever Sitting Dip Machine
+Lever Sitting Lateral Raise Machine
+Lever Standing Abduction Machine
+Lever Standing Calf Machine
+Lever Standing Lateral Raise Machine
+Lever Standing Leg Curl Machine
+Lever Standing Leg Extension Machine
+Lever Standing Leg Press Machine
+Lever T Bar Machine
+Lever Tricep Extension Machine
+Log Bar
+Log Barbell
+Loop Band
+Low Rowing Machine
+Magnetic Rowing Machine
+Medicine Ball
+Mid Grip Handle
+Mini Loop Band
+Mini Loop Bands
+Mini Step Platform
+Mini Step Platforms
+Mini Tube Band
+Mini Tube Bands
+Monkey Bars
+Mountain Bike
+Muay Thai Punching Bag
+Multi Purpose Bar
+Multi Wall Anchor
+Nylon D Handle
+Nylon Door Anchor
+Olympic Bar
+Olympic Barbell
+Olympic Bench
+Olympic Weight Plate
+Open D Handle
+Open D Handles
+Panel Mat
+Parallette
+Parallettes
+Pilates Reformer Machine
+Plyometric Box
+Plyometric Boxes
+Pole
+Power Rack
+Preacher Curl Bench
+Pull Up Band
+Pull Up Bar
+Pull Up Handles
+Pulling Block
+Pulling Blocks
+Punching Bag
+Push Sled
+Push Up Bar
+Push Up Bars
+Puzzle Mat
+Recumbent Bike
+Rings
+Rope Pull Machine
+Single Grip Handle
+Single Tricep Rope
+Single Twister Machine
+Sitting Arm Bike
+Ski Machine
+Sled Mill Machine
+Slider
+Smith Machine
+Soft Block
+Spin Bike
+Split Machine
+Springboard Mat
+Squat Rack
+Stability Ball
+Stair Climber Machine
+Stairs
+Standing Arm Bike
+Standing Preacher Curl Bench
+Step Bench
+Step Platform
+Stepper Machine
+Stick
+Straight Bar
+Stretching Machine
+Suspension Trainer
+Table
+Teardrop Punching Bag
+Towel
+Training Tire
+Trap Bar
+Trap Barbell
+Tread Climber Machine
+Treadmill
+Tricep Bar
+Tricep Barbell
+Tube Band
+Tube Bands
+Under Desk Bike
+Upright Bike
+Utility Bench
+V Bar
+Vertical Climber Machine
+Wall
+Wall Anchor
+Wall Ball
+Wall Bars
+Wall Corner
+Wall Mount Dip Station
+Wall Mount Pull Up Bar
+Water Cooler Bottle
+Water Rowing Machine
+Weight Plate
+Weight Plate Rack
+Weight Plates
+Weight Rack
+Weight Vest
+Weightlifting Belt
+Whole Body Vibration Machine
+Wrist Roller
+Yoga Block
+Yoga Mat
+
+----- Equipment Categories -----
+Apparatus
+Attachment
+Bodyweight
+Cardio Machine
+Flexibility Machine
+Free Weight
+Gear
+Resistance Band
+Stand
+Storage
+Vehicle
+Weight Machine
+
+----- Equipment Subcategories -----
+
+
+----- Equipment Types -----
+Ab Rocker
+Anchor
+Arm Blaster
+Ball
+Band
+Bands
+Bar
+Barbell
+Bars
+Belt
+Bench
+Benches
+Bike
+Block
+Blocks
+Board
+Bodyweight
+Bottle
+Box
+Boxes
+Chair
+Chairs
+Cone
+Doorway
+Dumbbell
+Dumbbells
+Footplate
+Gloves
+Gripper
+Hammer
+Handle
+Handles
+Harness
+Hurdle
+Inversion Table
+Kettlebell
+Kettlebells
+Ladder
+Machine
+Mat
+Pad
+Parallette
+Platform
+Platforms
+Pole
+Punching Bag
+Rack
+Rings
+Roller
+Rope
+Sled
+Slider
+Stairs
+Station
+Stick
+Strap
+Straps
+Suspension Trainer
+Table
+Tire
+Towel
+Treadmill
+Vest
+Wall
+Weight Plate
+Weight Plates
+
+----- Positions -----
+0 Hands Headstand
+1 Arm Crawling
+1 Arm Downward Dog
+1 Arm Handstand
+1 Arm High Plank
+1 Arm Low Plank
+1 Arm Plank
+1 Leg Backward Leaning
+1 Leg Bent
+1 Leg Bridge
+1 Leg Crawling
+1 Leg Downward Dog
+1 Leg Forward Jumping
+1 Leg Forward Leaning
+1 Leg Full Squatting
+1 Leg High Plank
+1 Leg Horizontal Leaning
+1 Leg Horizontal Lying
+1 Leg Horizontal Thrust
+1 Leg Kneeling Plank
+1 Leg Low Plank
+1 Leg Partial Squatting
+1 Leg Plank
+1 Leg Reverse Table Top
+1 Leg Squatting
+1 Leg Standing
+1 Leg Vertical Jumping
+1 Leg Vertical Kneeling
+2 Limbs Crawling
+2 Limbs Table Top
+Accomplished
+Aerodynamic Riding
+Aggressive Riding
+Ananta's Pose
+Anatomical
+Arch Handstand
+Archer
+Athletic
+Attention Military
+Auspicious
+Awkward
+Backward Bent
+Backward Jumping
+Backward Leaning
+Backward Running
+Backward Sit Kneeling
+Backward Walking
+Belly Twist
+Bent
+Bent Knees High Fowler
+Bent Knees Low Fowler
+Bent Knees Semi Fowler
+Big Toe Hold
+Big Toe Supine
+Boat
+Bow
+Bowing
+Bridge
+Butterfly
+Camel
+Cat
+Caterpillar
+Child
+Cobra
+Cockerel
+Contrapposto Bridge
+Contrapposto Horizontal Leaning
+Contrapposto Horizontal Thrust
+Contrapposto Standing
+Corpse
+Cowherd
+Crane
+Crawling
+Crescent Moon
+Crocodile
+Crossed Ankles Sitting
+Crossed Legs High Fowler
+Crossed Legs Sitting
+Crossed Legs Standing
+Crouching
+Dancer
+Declined 1 Arm Handstand
+Declined 1 Leg High Fowler
+Declined Backward Suspended
+Declined Downward Dog
+Declined Forward Suspended
+Declined Handstand
+Declined High Fowler
+Declined Low Fowler
+Declined Lowered Knees Supine Lying
+Declined Plank
+Declined Semi Fowler
+Declined Supine Lying
+Declined Suspended
+Decubitus
+Downward Dog
+Dragonfly
+Durvasa's Pose
+Eagle
+Ear Pressing
+Easy
+Eight Angled
+Elbow Handstand
+Elliptical Running
+Elliptical Walking
+Embryo in Womb
+Feathered Peacock
+Fetal
+Figure Four Sitting
+Firefly
+Fish
+Folded Arms Standing
+Formidable
+Forward Bent
+Forward Jumping
+Forward Leaning
+Freefall
+Frog
+Front Split
+Full Planche
+Full Squatting
+Garland
+Gate
+Half Forward Bent
+Half Handstand
+Half Headstand
+Half Kneeling
+Half Moon
+Hands on Hips Standing
+Handstand
+Hanging
+Hanuman's Pose
+Headstand
+Head-to-Knee
+Hero
+Heron
+High Bridge
+High Fowler
+High Lithotomy
+High Plank
+Horizontal Hanging
+Horizontal Leaning
+Horizontal Suspended
+Horizontal Thrust
+Inclined 1 Arm High Plank
+Inclined 1 Arm Low Plank
+Inclined 1 Leg Forward Standing
+Inclined Backward Sitting
+Inclined Backward Squatting
+Inclined Backward Standing
+Inclined Backward Straddling
+Inclined Backward Suspended
+Inclined Crawling
+Inclined Downward Dog
+Inclined Forward Sitting
+Inclined Forward Squatting
+Inclined Forward Standing
+Inclined Forward Straddling
+Inclined Forward Suspended
+Inclined Full Squatting
+Inclined Hanging
+Inclined High Fowler
+Inclined High Plank
+Inclined Kneeling
+Inclined Kneeling Plank
+Inclined Lateral Lying
+Inclined Lateral Plank
+Inclined Low Fowler
+Inclined Low Plank
+Inclined Lowered Knees Supine Lying
+Inclined Partial Squatting
+Inclined Plank
+Inclined Prone Lying
+Inclined Raised Legs Supine Lying
+Inclined Running
+Inclined Semi Fowler
+Inclined Split Squatting
+Inclined Squatting
+Inclined Standing
+Inclined Supine Lying
+Inclined Suspended
+Inclined Upward High Plank
+Inclined Upward Low Plank
+Inclined Walking
+Intense Lateral Stretch
+Inverted Practice
+Inverted Staff
+Kaundinya's Pose
+King Pigeon
+Knee to Chest Prone Lying
+Knee to Chest Supine Lying
+Knee to Elbow Plank
+Kneeling High Plank
+Kneeling Lateral Lunge
+Kneeling Low Plank
+Kneeling Plank
+Knees Apart Sitting
+Kowtowing
+Lateral Bent
+Lateral Boat
+Lateral Full Squatting
+Lateral High Plank
+Lateral Jumping
+Lateral Leaning
+Lateral Lunge
+Lateral Lying
+Lateral Plank
+Lateral Running
+Lateral Split
+Lateral Squatting
+Lateral Walking
+Leg Forward Standing
+Legs Apart Full Squatting
+Legs Apart Half Forward Bent
+Legs Apart High Fowler
+Legs Apart Low Fowler
+Legs Apart Reverse High Fowler
+Legs Apart Reverse Low Fowler
+Legs Apart Reverse Semi Fowler
+Legs Apart Semi Fowler
+Legs Apart Squatting
+Legs Apart Standing
+Liberated
+Lion
+Lithotomy
+Locust
+Log
+Lotus
+Low Fowler
+Low Lateral Lunge
+Low Lithotomy
+Low Plank
+Lowered Knees Prone Lying
+Lowered Knees Supine Lying
+Lowered Legs Prone Lying
+Lunge
+Marichi's Pose
+Martial Arts Split
+Matsyendra's Pose
+Mountain
+Noose
+Over Split
+Parade Rest Military
+Parallel Legs Standing
+Partial Bent
+Partial Lateral Lunge
+Partial Lunge
+Partial Squatting
+Peacock
+Pendant
+Pigeon
+Pike Jumping
+Planche
+Plank
+Plough
+Prone Arch
+Prone Lying
+Prostration
+Raised Arms Standing
+Raised Knee Lateral Lying
+Raised Knee Prone Lying
+Raised Knee Reverse High Fowler
+Raised Knee Reverse Low Fowler
+Raised Knee Reverse Semi Fowler
+Raised Knee Semi Fowler
+Raised Knee Supine Lying
+Raised Knees Boat
+Raised Knees High Fowler
+Raised Knees Prone Lying
+Raised Knees Reverse High Fowler
+Raised Knees Reverse Low Fowler
+Raised Knees Reverse Semi Fowler
+Raised Knees Semi Fowler
+Raised Knees Supine Lying
+Raised Leg Lateral Lying
+Raised Leg Supine Lying
+Raised Legs Bridge
+Raised Legs High Fowler
+Raised Legs Prone Lying
+Raised Legs Semi Fowler
+Raised Legs Supine Lying
+Rear Lunge
+Recovery
+Relaxed Riding
+Reverse Bent
+Reverse Child
+Reverse Hanging
+Reverse High Plank
+Reverse Low Fowler
+Reverse Planche
+Reverse Semi Fowler
+Reverse Suspended
+Reverse Table Top
+Reverse Warrior
+Rose
+Running
+Salute Military
+Scales
+Scorpion
+Seated Forward Bent
+Seated Slouching
+Seated Twist
+Semi Fowler
+Shoelace
+Short Stride Running
+Short Stride Walking
+Shoulderstand
+Side Angle
+Sims
+Sit Kneeling
+Sitting
+Snail
+Split Jumping
+Split Squatting
+Squatting
+Staff
+Standing
+Starfish
+Static Running
+Static Walking
+Straddle Jumping
+Straddle Planche
+Straddling
+Straight Knees Sitting
+Stride Running
+Stride Walking
+Sun Salutation
+Supine Hollow
+Supine Lying
+Supine Spread Eagle
+Supported 1 Leg Bent
+Supported Boat
+Supported Half Headstand
+Suspended
+Suspended High Plank
+Suspended Low Plank
+Suspended Over Split
+Suspended Split
+Table Top
+Thrust
+Thunderbolt
+Tortoise
+Tree
+Triangle
+Tripod
+Tripod Headstand
+Tuck Jumping
+Tucked Planche
+Twist Split
+Twisted Bent
+Upright Front Split
+Upright Lateral Split
+Upright Martial Arts Split
+Upright Rear Split
+Upright Slouching
+Upright Spread Eagle
+Upward Dog
+Vertical Jumping
+Vertical Kneeling
+Vertico Submental
+Very Relaxed Riding
+Walking
+Warrior I
+Warrior II
+Warrior III
+Wheel
+Wide Stance Forward Bend
+Yearner
+Yogic Sleep
+
+----- Position Categories -----
+Balancing
+Bending
+Crawling
+Hanging
+Inversion
+Kneeling
+Leaning
+Lunging
+Lying
+Reclining
+Running
+Sitting
+Squatting
+Standing
+Straddling
+Suspended
+Walking
+
+----- Position Subcategories -----
+Gesture
+Medical
+Meditation
+Pose
+Sleeping
+Split
+Yoga
+
+----- Position Types -----
+Accomplished
+Anatomical
+Arch
+Archer
+Athletic
+Auspicious
+Awkward
+Bent
+Big Toe
+Boat
+Bow
+Bowing
+Bridge
+Butterfly
+Camel
+Cat
+Caterpillar
+Child
+Cobra
+Cockerel
+Corpse
+Cowherd
+Crane
+Crawling
+Crocodile
+Crouching
+Dancer
+Decubitus
+Dog
+Dragonfly
+Eagle
+Ear Pressing
+Easy
+Eight Angled
+Embryo
+Fetal
+Firefly
+Fish
+Formidable
+Fowler
+Freefall
+Frog
+Garland
+Gate
+Handstand
+Hanging
+Head to Knee
+Headstand
+Hero
+Heron
+Hollow
+Jumping
+Kneeling
+Kowtowing
+Leaning
+Liberated
+Lion
+Lithotomy
+Locust
+Log
+Lotus
+Lunge
+Lying
+Military
+Moon
+Mountain
+Noose
+Peacock
+Pendant
+Pigeon
+Planche
+Plank
+Plough
+Pose
+Practice
+Prostration
+Recovery
+Riding
+Rose
+Running
+Scales
+Scorpion
+Shoelace
+Shoulderstand
+Side Angle
+Sims
+Sitting
+Slouching
+Snail
+Split
+Squatting
+Staff
+Standing
+Starfish
+Straddling
+Stretch
+Sun Salutation
+Suspended
+Table Top
+Thrust
+Thunderbolt
+Tortoise
+Tree
+Triangle
+Tripod
+Twist
+Vertico Submental
+Walking
+Warrior
+Wheel
+Yearner
+Yogic Sleep
